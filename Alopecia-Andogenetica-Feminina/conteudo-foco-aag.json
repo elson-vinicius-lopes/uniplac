@@ -69,16 +69,43 @@
     {"type":"h2","t":"6.7 Embasamento em livros-texto"},
     {"type":"p","t":"O tema é consolidado em livros-texto de tricologia e dermatologia. Olsen (1994), em Disorders of Hair Growth: Diagnosis and Treatment, dedica seção à alopecia androgenética; Blume-Peytavi et al. (2008), em Hair Growth and Disorders, abordam a AAG masculina e feminina; Chandrashekar (2018), no IADVL Textbook of Trichology, traz capítulo dedicado ao tema; e Anastassakis (2022), em Androgenetic Alopecia From A to Z, dedica a obra inteira à condição, da ciência básica ao diagnóstico."},
 
+<<<<<<< HEAD
     {"type":"h1","t":"7 CRONOGRAMA"},
     {"type":"p","t":"O cronograma inicia-se com uma fase intensiva semanal no primeiro mês e, a seguir, adota o esquema quinzenal (a cada 15 dias), alternando intradermoterapia e laserterapia, com reavaliações tricoscópicas bimestrais e manutenção após cerca de seis meses:"},
+=======
+    {"type":"h1","t":"8 APRESENTAÇÃO DO CASO"},
+    {"type":"p","runs":[
+      {"t":"Paciente do sexo feminino, 60 anos, com queixa de queda capilar e rarefação na região do topo do couro cabeludo, de evolução de cerca de três anos. Apresenta predisposição genética (pai com calvície). No histórico, relata infecção prévia por "},
+      {"t":"Helicobacter pylori","i":true},
+      {"t":" (já erradicada, confirmada por exames), gastrite crônica em acompanhamento, alterações hormonais, nível elevado de estresse e sono fragmentado; possui histórico de procedimentos químicos (mechas e coloração). À tricoscopia, observam-se diversidade de calibre dos fios (anisotricose), miniaturização e aumento do espaçamento interfolicular — achados compatíveis com alopecia androgenética feminina (KUCZARA et al., 2024; GALLIKER; TRÜEB, 2012)."}
+    ]},
+    {"type":"p","t":"Na fase inicial do acompanhamento, realizou-se a desinflamação e o equilíbrio do couro cabeludo; em seguida, iniciou-se a fase de estímulo, objeto da proposta terapêutica a seguir."},
+
+    {"type":"h1","t":"9 PROPOSTA TERAPÊUTICA E CRONOGRAMA"},
+    {"type":"p","t":"A proposta combina duas frentes complementares de estímulo, conduzidas em paralelo ao acompanhamento médico:"},
+    {"type":"h2","t":"9.1 Laserterapia de baixa intensidade (fotobiomodulação)"},
+    {"type":"p","t":"Laser vermelho na faixa de 655–660 nm, de baixa potência, com densidade de potência de 3 a 90 mW/cm² e fluência baixa de aproximadamente 2 J/cm² (dentro da janela estimulatória da resposta bifásica), em sessões de cerca de 20 minutos. A fotobiomodulação aumenta a síntese de ATP, melhora a microcirculação do couro cabeludo e prolonga a fase anágena (AVCI et al., 2014; PILLAI; MYSORE, 2022; YOON et al., 2020). Esta modalidade substitui as microcorrentes utilizadas anteriormente."},
+    {"type":"h2","t":"9.2 Intradermoterapia com a Mescla PHD (técnica de pápula)"},
+    {"type":"p","t":"Microinjeções intradérmicas na junção dermoepidérmica, em profundidade de 2 a 4 mm, com agulha 30G, depositando cerca de 0,05 a 0,1 mL por ponto, formando pápulas espaçadas a cada 2 cm por toda a área de rarefação. A Mescla PHD contém: Minoxidil 8 mg; Nanofatores de Crescimento Capilar 1%; Latanoprosta 50 mcg; Pill Food (L-metionina, L-taurina, L-prolina, biotina, D-pantenol, vitaminas B2, B3 e B6 e L-carnitina); e Lidocaína 20 mg. A entrega local dos ativos é fundamentada em Uzel et al. (2021), Aledani et al. (2024) e Stefanis et al. (2024); ressalva-se, contudo, que a concentração e a dose dos ativos da Mescla PHD correspondem ao protocolo institucional adotado, e não à concentração específica testada nesses estudos. Em casa, mantém-se o tônico Capilia Longa (derivado da cúrcuma), que auxilia na inibição da conversão em DHT."},
+    {"type":"h2","t":"9.3 Cronograma terapêutico"},
+    {"type":"p","t":"O cronograma inicia-se com uma fase intensiva semanal no primeiro mês e, a seguir, adota o esquema quinzenal (a cada 15 dias), alternando intradermoterapia e laserterapia:"},
+>>>>>>> f3c600e6c848af7b7757258e3e320a31942ac777
     {"type":"table",
       "header":["Período","Procedimento","Frequência","Base científica"],
       "rows":[
+<<<<<<< HEAD
         ["Semanas 1–4 (Mês 1)","Intradermoterapia (Mescla PHD)","1×/semana","Uzel et al. (2021); Aledani et al. (2024)"],
         ["A partir do Mês 2 — quinzena A","Laserterapia (fotobiomodulação, ~2 J/cm²)","1 sessão / 15 dias","Avci et al. (2014); Yoon et al. (2020)"],
         ["Mês 2 em diante — quinzena B","Intradermoterapia (Mescla PHD)","1 sessão / 15 dias","Stefanis et al. (2024); Aledani et al. (2024)"],
         ["A cada 8 semanas","Reavaliação (tricoscopia + foto padronizada)","Bimestral","Kuczara et al. (2024); Michelle et al. (2022)"],
         ["Após ~6 meses","Manutenção (laser + intradermo espaçados)","Mensal / conforme resposta","Wang e Chen (2025)"]
+=======
+        ["Semanas 1–4 (Mês 1)","Intradermoterapia (Mescla PHD)","1×/semana (4 sessões)","Técnica de pápula; 30G; 2–4 mm; ~0,05–0,1 mL/ponto; pápulas a cada 2 cm","Uzel et al. (2021); Aledani et al. (2024)"],
+        ["A partir do Mês 2 — quinzena A (a cada 15 dias)","Laserterapia (fotobiomodulação)","1 sessão / 15 dias","655–660 nm; ~2 J/cm²; 3–90 mW/cm²; ~20 min. Recomenda-se laser domiciliar 2–3×/semana entre as sessões","Avci et al. (2014); Pillai e Mysore (2022); Yoon et al. (2020)"],
+        ["Mês 2 em diante — quinzena B (intercalada)","Intradermoterapia (Mescla PHD)","1 sessão / 15 dias (alternando com o laser)","Mesma técnica de pápula da fase 1","Stefanis et al. (2024); Aledani et al. (2024)"],
+        ["A cada 8 semanas","Reavaliação (tricoscopia + foto padronizada)","Bimestral","Comparação de densidade e diâmetro dos fios","Kuczara et al. (2024); Michelle, Shilpa e Leelavathy (2022)"],
+        ["Após ~6 meses","Manutenção (laser + intradermo espaçados)","Mensal / conforme resposta","Manutenção dos ganhos obtidos","Wang e Chen (2025)"]
+>>>>>>> f3c600e6c848af7b7757258e3e320a31942ac777
       ]
     },
 
@@ -110,9 +137,43 @@
     {"type":"ref","t":"UZEL, B. P. K. et al. Intradermal injections with 0.5% minoxidil for the treatment of female androgenetic alopecia: a randomized, placebo-controlled trial. Dermatologic Therapy, v. 34, n. 1, 2021. Disponível em: https://doi.org/10.1111/dth.14622. Acesso em: 16 jun. 2026."},
     {"type":"ref","t":"WANG, Y.-F.; CHEN, Y.-C. Clinical trial comparing three wavelengths in photobiomodulation therapy for hair loss. Photobiomodulation, Photomedicine, and Laser Surgery, v. 43, n. 7, p. 288-293, 2025. Disponível em: https://pubmed.ncbi.nlm.nih.gov/40398915/. Acesso em: 16 jun. 2026."},
     {"type":"ref","t":"YOON, J. S. et al. Low-level light therapy using a helmet-type device for the treatment of androgenetic alopecia: a 16-week, multicenter, randomized, double-blind, sham device-controlled trial. Medicine (Baltimore), v. 99, n. 29, e21181, 2020. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC7373546/. Acesso em: 16 jun. 2026."},
+<<<<<<< HEAD
 
     {"type":"pagebreak"},
     {"type":"h1","t":"ANEXOS"},
     {"type":"p","t":"ANEXO A — Ficha(s) de anamnese capilar da paciente modelo. (A ser anexada: documento pendente de inclusão.)"}
+=======
+    {"type":"pagebreak"},
+    {"type":"h1","t":"ANEXOS"},
+    {"type":"p","t":"Os exames a seguir são apresentados exclusivamente como comprovação de sua realização pela paciente, mediante autorização (Termo de Consentimento Livre e Esclarecido). Seu conteúdo não constitui objeto de análise neste estudo de caso."},
+    {"type":"center","runs":[{"t":"Anexo A — Comprovante de exame realizado (2025)","b":true,"sz":20}]},
+    {"type":"image","src":"C:\\Users\\elson.lopes\\source\\repos\\uniplac\\attachments\\paciente\\exames\\2025\\exame-2025-anatamo-patologico-1.png","w":315,"h":470},
+    {"type":"center","runs":[{"t":"Fonte: arquivo da paciente.","i":true,"sz":18}]},
+    {"type":"blank"},
+    {"type":"center","runs":[{"t":"Anexo B — Comprovante de exame realizado (2025)","b":true,"sz":20}]},
+    {"type":"image","src":"C:\\Users\\elson.lopes\\source\\repos\\uniplac\\attachments\\paciente\\exames\\2025\\exame-2025-anatamo-patologico-2.png","w":308,"h":470},
+    {"type":"center","runs":[{"t":"Fonte: arquivo da paciente.","i":true,"sz":18}]},
+    {"type":"blank"},
+    {"type":"center","runs":[{"t":"Anexo C — Comprovante de exame realizado (2025)","b":true,"sz":20}]},
+    {"type":"image","src":"C:\\Users\\elson.lopes\\source\\repos\\uniplac\\attachments\\paciente\\exames\\2025\\exame-2025-desc.png","w":319,"h":470},
+    {"type":"center","runs":[{"t":"Fonte: arquivo da paciente.","i":true,"sz":18}]},
+    {"type":"blank"},
+    {"type":"center","runs":[{"t":"Anexo D — Comprovante de exame realizado (2025)","b":true,"sz":20}]},
+    {"type":"image","src":"C:\\Users\\elson.lopes\\source\\repos\\uniplac\\attachments\\paciente\\exames\\2025\\exame-2025-pic-1.png","w":309,"h":470},
+    {"type":"center","runs":[{"t":"Fonte: arquivo da paciente.","i":true,"sz":18}]},
+    {"type":"blank"},
+    {"type":"center","runs":[{"t":"Anexo E — Comprovante de exame realizado (2025)","b":true,"sz":20}]},
+    {"type":"image","src":"C:\\Users\\elson.lopes\\source\\repos\\uniplac\\attachments\\paciente\\exames\\2025\\exame-2025-pic-2.png","w":293,"h":470},
+    {"type":"center","runs":[{"t":"Fonte: arquivo da paciente.","i":true,"sz":18}]},
+    {"type":"blank"},
+    {"type":"center","runs":[{"t":"Anexo F — Comprovante de exame realizado (2026)","b":true,"sz":20}]},
+    {"type":"image","src":"C:\\Users\\elson.lopes\\source\\repos\\uniplac\\attachments\\paciente\\exames\\2026\\exame-2026-desc.png","w":330,"h":470},
+    {"type":"center","runs":[{"t":"Fonte: arquivo da paciente.","i":true,"sz":18}]},
+    {"type":"blank"},
+    {"type":"center","runs":[{"t":"Anexo G — Comprovante de exame realizado (2026)","b":true,"sz":20}]},
+    {"type":"image","src":"C:\\Users\\elson.lopes\\source\\repos\\uniplac\\attachments\\paciente\\exames\\2026\\exame-2026-pictures.png","w":290,"h":470},
+    {"type":"center","runs":[{"t":"Fonte: arquivo da paciente.","i":true,"sz":18}]},
+    {"type":"blank"}
+>>>>>>> f3c600e6c848af7b7757258e3e320a31942ac777
   ]
 }
