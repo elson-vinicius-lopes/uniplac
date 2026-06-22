@@ -27,11 +27,17 @@ async function main() {
   const refs = count(dtxt, "Disponível em:");
   check("Foco AAG: 'pylori' so coadjuvante (<=6)", count(dtxt, "pylori") <= 6, "n=" + count(dtxt, "pylori"));
   check("Microcorrentes trocadas (<=2)", count(dtxt, "microcorrente") <= 2, "n=" + count(dtxt, "microcorrente"));
-  check("Laserterapia presente (laser >=10)", count(dtxt, "laser") >= 10, "n=" + count(dtxt, "laser"));
+  check("Laserterapia/fotobiomodulacao presente (>=8)", count(dtxt, "laser") >= 8, "n=" + count(dtxt, "laser"));
   check("Fluencia 2 J/cm2 citada (>=2)", count(dtxt, "2 J") >= 2, "n=" + count(dtxt, "2 J"));
   check("Exatamente 26 referencias", refs === 26, "n=" + refs);
   check("Toda referencia tem link (http)", count(dtxt, "http") >= refs, "links=" + count(dtxt, "http"));
   check("ABNT: Times New Roman", dxml.includes("Times New Roman"));
+  check("Titulo reduzido (tricoscopia e tratamentos associados)", /tricoscopia e tratamentos associados/i.test(dtxt));
+  check("Sem RESUMO (Palavras-chave ausente)", !/Palavras-chave/i.test(dtxt));
+  check("Sem DISCUSSAO/CONCLUSAO no documento", !/\bDISCUSSÃO\b/.test(dtxt) && !/\bCONCLUSÃO\b/.test(dtxt));
+  check("Metodo com parametro do laser (655 nm)", dtxt.includes("655"));
+  check("Etica no metodo (CEP 6.603.39 / TCLE)", dtxt.includes("6.603.39") && dtxt.includes("TCLE"));
+  check("Anexos (ficha de anamnese) presente", /ANEXO/i.test(dtxt) && /anamnese/i.test(dtxt));
 
   // ---------- PPTX ----------
   console.log("\n== REVISADO.pptx ==");
@@ -43,11 +49,13 @@ async function main() {
   const slideRels = pz.file(/ppt\/slides\/_rels\/slide\d+\.xml\.rels$/);
   let minImgs = Infinity;
   for (const f of slideRels) minImgs = Math.min(minImgs, ((await f.async("string")).match(/\/media\//g) || []).length);
-  check("Pelo menos 15 slides", slideFiles.length >= 15, "n=" + slideFiles.length);
+  check("Pelo menos 14 slides", slideFiles.length >= 14, "n=" + slideFiles.length);
   check("Imagens embutidas (clinicas + logos, >=8)", media.length >= 8, "n=" + media.length);
   check("Logos UNIPLAC+LABEST em TODO slide (>=2 img/slide)", minImgs >= 2, "min/slide=" + minImgs);
   check("Foco AAG no deck: 'pylori' (<=4)", count(ptxt, "pylori") <= 4, "n=" + count(ptxt, "pylori"));
-  check("Laser no deck (>=5)", count(ptxt, "laser") >= 5, "n=" + count(ptxt, "laser"));
+  check("Laser no deck (>=4)", count(ptxt, "laser") >= 4, "n=" + count(ptxt, "laser"));
+  check("Titulo novo no deck (tratamentos associados)", /tratamentos associados/i.test(ptxt));
+  check("Estrutura classroom: Pergunta + Problematica + Justificativa + Metodo", /Pergunta da pesquisa/i.test(ptxt) && /Problemática/i.test(ptxt) && /Justificativa/i.test(ptxt) && /Método/i.test(ptxt));
   check("Diagnostico: 'tricoscop' e 'Ludwig'", count(ptxt, "tricoscop") > 0 && count(ptxt, "Ludwig") > 0);
 
   console.log(`\n${fails === 0 ? "TUDO OK — conforme o SPEC.md" : fails + " criterio(s) FALHARAM"}`);

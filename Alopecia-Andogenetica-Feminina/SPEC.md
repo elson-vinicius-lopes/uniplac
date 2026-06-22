@@ -6,12 +6,28 @@
 
 ## 1. Objetivo
 
-Produzir os dois entregáveis oficiais do estudo de caso, **focados em alopecia androgenética feminina**:
+Produzir os entregáveis oficiais do estudo de caso, **focados em alopecia androgenética feminina**.
+Título (reduzido, jun/2026): **"Alopecia androgenética feminina com tricoscopia e tratamentos associados: um estudo de caso"**.
 
 | Entregável | Caminho canônico |
 |---|---|
 | Documento (ABNT) | `../resultados finais/estudo de caso/Alopecia-Androgenetica-Feminina-Estudo-de-Caso-REVISADO.docx` |
 | Apresentação | `../resultados finais/estudo de caso/Alopecia-Androgenetica-Feminina-Estudo-de-Caso-REVISADO.pptx` |
+| Roteiro de apresentação | `../resultados finais/estudo de caso/Roteiro-de-Apresentacao-e-Estudo.docx` (gerado de `slides-foco-aag.json`) |
+
+### Etapa atual = PRÉ-PROJETO (revisão da professora, jun/2026)
+
+Documento reduzido à ordem oficial (ETAPAS / classroom): **1 Tema · 2 Pergunta · 3 Problemática · 4 Objetivos
+(4.1 geral / 4.2 específicos) · 5 Método · 6 Revisão de Literatura (6.1 Introdução + subtítulos) · 7 Cronograma ·
+8 Referências · ANEXOS**. Slides na ordem do classroom (Pergunta, Problemática, Justificativa, Objetivos,
+Introdução, desenvolvimento por tópicos, Método, Cronograma, Referências).
+
+**Removido e GUARDADO** em `_guardado/` (para etapas seguintes): Resumo, Apresentação do caso, Execução real,
+Discussão e Conclusão. **Não reincluir** nesta etapa.
+
+- Objetivo geral (texto da professora): "Avaliar os resultados de um protocolo estético baseado na fotobiomodulação e na intradermoterapia capilar para o controle da alopecia androgenética feminina."
+- Método com parâmetros: **laser vermelho 655–660 nm, ~2 J/cm², 3–90 mW/cm², ~20 min/sessão**; Mescla PHD (composição + técnica de pápula 30G/2–4 mm/0,05–0,1 mL por ponto); frequência pelo cronograma.
+- Anexos: **ficha(s) de anamnese pendente(s)** — placeholder no documento.
 
 ## 2. Decisão de foco (o "porquê")
 

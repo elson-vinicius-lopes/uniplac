@@ -3,60 +3,68 @@
   "assetsRel": "./assets-aag",
   "logoLeft": "logo-uniplac.png",
   "logoRight": "logo-labest.jpeg",
-  "footer": "AAG Feminina — Estudo de caso | Tec. em Estética e Cosmetologia — UNIPLAC 2026",
+  "footer": "AAG Feminina com tricoscopia e tratamentos associados — Estudo de caso | UNIPLAC 2026",
   "slides": [
     {
       "type": "capa",
-      "title": "ALOPECIA ANDROGENÉTICA FEMININA",
-      "subtitle": "Fisiopatologia, diagnóstico tricoscópico e proposta terapêutica com laserterapia de baixa intensidade e intradermoterapia — Estudo de caso",
+      "title": "ALOPECIA ANDROGENÉTICA FEMININA COM TRICOSCOPIA E TRATAMENTOS ASSOCIADOS",
+      "subtitle": "Um estudo de caso — fotobiomodulação e intradermoterapia capilar",
       "author": "Acadêmica: Paola Bortoli Pinheiro Lopes",
       "sub2": "Orientadoras: Profa. Marcia de Liz e Profa. Mariana Macedo Justi • UNIPLAC, Lages/SC — 2026",
-      "notes": "Bom dia. Eu sou a Paola. Vou apresentar um estudo de caso de alopecia androgenética feminina e a proposta de tratamento estético com laser de baixa intensidade e intradermoterapia."
+      "notes": "Bom dia. Eu sou a Paola, do curso de Tecnologia em Estética e Cosmetologia. Vou apresentar meu estudo de caso sobre alopecia androgenética feminina, com diagnóstico por tricoscopia e tratamento por fotobiomodulação e intradermoterapia capilar."
     },
     {
       "type": "content",
-      "title": "Tema e pergunta da pesquisa",
+      "title": "Pergunta da pesquisa",
       "bullets": [
-        "Tema: alopecia androgenética feminina (AAG) — a queda de cabelo mais comum na mulher.",
-        "Pergunta: como um protocolo de laserterapia de baixa intensidade (fotobiomodulação) + intradermoterapia capilar pode controlar a miniaturização e melhorar a densidade capilar?",
-        "Foco único: a alopecia androgenética. Fatores sistêmicos entram só como coadjuvantes."
+        "Como um protocolo estético baseado em fotobiomodulação (laser de baixa intensidade) e intradermoterapia capilar pode contribuir para o controle da miniaturização e a melhora da densidade capilar na alopecia androgenética feminina?"
       ],
-      "notes": "O tema é a alopecia androgenética feminina. A pergunta é se laser de baixa intensidade somado à intradermoterapia ajuda a controlar a queda e aumentar a densidade. O foco é a alopecia; o resto é coadjuvante."
+      "notes": "A pergunta da pesquisa é: como um protocolo de fotobiomodulação somado à intradermoterapia capilar pode ajudar a controlar a miniaturização dos fios e melhorar a densidade na alopecia androgenética feminina."
+    },
+    {
+      "type": "content",
+      "title": "Problemática",
+      "bullets": [
+        "A alopecia androgenética feminina é crônica, progressiva e afeta muito a autoestima.",
+        "A prevalência aumenta com a idade (Singal; Sonthalia; Verma, 2013).",
+        "Paciente de 60 anos, com predisposição genética e fatores sistêmicos que podem agravar.",
+        "Desafio: montar um protocolo estético seguro, individualizado e baseado em evidências, em paralelo ao médico."
+      ],
+      "notes": "A alopecia androgenética feminina é uma condição crônica que mexe muito com a autoestima e aumenta com a idade. Tenho uma paciente de 60 anos com predisposição genética. O problema é montar um tratamento estético seguro e com base científica, junto do acompanhamento médico."
+    },
+    {
+      "type": "content",
+      "title": "Justificativa",
+      "bullets": [
+        "Tema relevante: é a queda capilar mais comum na mulher e tem grande impacto emocional.",
+        "A fotobiomodulação e a intradermoterapia são opções não cirúrgicas com respaldo na literatura.",
+        "Atuar cedo ajuda a frear a miniaturização e a preservar os fios.",
+        "Justifica-se um protocolo individualizado, acompanhado por tricoscopia e em parceria com o médico."
+      ],
+      "notes": "O tema é importante porque a alopecia androgenética é a queda mais comum na mulher e afeta muito a autoestima. A fotobiomodulação e a intradermoterapia têm base científica e são opções não cirúrgicas. Tratar cedo ajuda a preservar os fios."
     },
     {
       "type": "content",
       "title": "Objetivos",
       "bullets": [
-        "Geral: propor e conduzir um protocolo estético integrativo para a AAG, baseado em evidências.",
-        "Descrever a fisiopatologia e a base genético-hormonal.",
-        "Apresentar o diagnóstico por tricoscopia.",
-        "Fundamentar laser de baixa intensidade e intradermoterapia com a Mescla PHD.",
-        "Estruturar um cronograma individualizado, com parâmetros baseados em artigos."
+        "Geral: avaliar os resultados de um protocolo estético baseado na fotobiomodulação e na intradermoterapia capilar para o controle da alopecia androgenética feminina.",
+        "a) Descrever a fisiopatologia e a base genético-hormonal;",
+        "b) Apresentar o diagnóstico por tricoscopia;",
+        "c) Fundamentar o uso da fotobiomodulação e da intradermoterapia capilar;",
+        "d) Estruturar um cronograma individualizado, com parâmetros baseados em evidências."
       ],
-      "notes": "O objetivo geral é montar um protocolo estético com base em evidência. Os específicos: explicar a doença, mostrar o diagnóstico por tricoscopia, justificar laser e intradermoterapia e montar o cronograma."
+      "notes": "O objetivo geral é avaliar os resultados de um protocolo de fotobiomodulação e intradermoterapia capilar para controlar a alopecia. Os específicos são: explicar a doença, mostrar o diagnóstico por tricoscopia, fundamentar as duas terapias e montar o cronograma."
     },
     {
       "type": "content",
-      "title": "Método",
-      "bullets": [
-        "Pesquisa qualitativa, estudo de caso descritivo — uma paciente, 60 anos.",
-        "Referencial: artigos indexados (PubMed/PMC) e livros-texto de tricologia.",
-        "Coleta: anamnese, tricoscopia (fotovideodermatoscópio) e foto padronizada.",
-        "Conduzido em paralelo ao acompanhamento médico.",
-        "Ética: Resolução 466/12; CEP-UNIPLAC nº 6.603.39; TCLE assinado."
-      ],
-      "notes": "É um estudo de caso de uma paciente de 60 anos. Usei artigos científicos e livros. Coletei por anamnese, tricoscopia e foto. Tudo em paralelo ao médico e com aprovação do comitê de ética."
-    },
-    {
-      "type": "content",
-      "title": "O que é a alopecia androgenética",
+      "title": "Introdução — o que é a AAG",
       "bullets": [
         "Forma mais comum de perda capilar progressiva.",
         "Causada pela ação da di-hidrotestosterona (DHT) em folículos geneticamente predispostos.",
         "Na mulher: rarefação difusa no topo, preservando a linha da frente (Singal; Sonthalia; Verma, 2013).",
-        "Aumenta com a idade: ~1,3% (18–29 anos) até ~11,8% (após os 70)."
+        "Diagnóstico estético-funcional por tricoscopia."
       ],
-      "notes": "A alopecia androgenética é a queda mais comum. O hormônio DHT age em folículos com predisposição genética. Na mulher, rareia o topo e preserva a frente. E aumenta com a idade."
+      "notes": "A alopecia androgenética é a queda mais comum. O hormônio DHT age em folículos com predisposição genética. Na mulher, rareia o topo e preserva a frente. O diagnóstico se faz pela tricoscopia."
     },
     {
       "type": "content",
@@ -65,9 +73,9 @@
         "A 5-alfa-redutase (tipo 2) converte testosterona em DHT.",
         "A DHT encurta a fase anágena (de crescimento) e miniaturiza o folículo.",
         "Cai a relação anágeno/telógeno (normal ~12:1) — Ho, Sood e Zito (2024).",
-        "Excesso de DHT troca fios terminais por velos finos — Ntshingila et al. (2023)."
+        "Forte componente genético (herdabilidade ~0,81) — Martinez-Jacobo et al. (2018)."
       ],
-      "notes": "A enzima 5-alfa-redutase transforma testosterona em DHT. A DHT encurta a fase de crescimento e vai afinando o fio até virar um veludo fino. É a miniaturização."
+      "notes": "A enzima 5-alfa-redutase transforma testosterona em DHT. A DHT encurta a fase de crescimento e vai afinando o fio, o que chamamos de miniaturização. E há forte componente genético."
     },
     {
       "type": "content",
@@ -75,11 +83,11 @@
       "bullets": [
         "Padrão feminino: afinamento difuso da coroa, preservando a linha frontal.",
         "Escala de Ludwig: 3 graus de gravidade (I, II e III).",
-        "Herança poligênica (herdabilidade ~0,81); gene do receptor androgênico no cromossomo X — Martinez-Jacobo et al. (2018)."
+        "A prevalência cresce com a idade."
       ],
       "imgs": ["escala-ludwig.png"],
       "imgCaption": "Padrões de rarefação feminina (escala de Ludwig)",
-      "notes": "Na mulher o padrão é o afinamento da coroa, preservando a frente. A escala de Ludwig mede a gravidade em três graus. E há forte componente genético."
+      "notes": "Na mulher o padrão é o afinamento da coroa, preservando a frente. A escala de Ludwig mede a gravidade em três graus."
     },
     {
       "type": "content",
@@ -101,63 +109,51 @@
         "A AAG é primariamente genético-hormonal; fatores sistêmicos só modulam.",
         "Estresse oxidativo elevado na AAG — Prie et al. (2016).",
         "Ferritina baixa associada à alopecia feminina — Kantor et al. (2003).",
-        "No caso: infecção prévia por Helicobacter pylori (já erradicada) e gastrite — apenas coadjuvantes."
+        "No caso (minha mãe): gastrite e Helicobacter pylori (já erradicada) podem reduzir ferro e B12 — fator coadjuvante, não a causa."
       ],
-      "notes": "A doença é hormonal e genética. Estresse oxidativo e ferro baixo podem piorar. No caso da paciente, ela teve H. pylori, já tratado, e gastrite. Isso entra só como coadjuvante, não é o foco."
+      "notes": "A doença é hormonal e genética, mas fatores sistêmicos podem agravar. No caso, que é a minha mãe, ela tem histórico de gastrite e H. pylori, já tratada. Isso pode reduzir a absorção de ferro e B12 e aumentar o estresse oxidativo, agravando a queda. Mas é coadjuvante, não a causa."
     },
     {
       "type": "content",
-      "title": "Laserterapia de baixa intensidade (LLLT)",
+      "title": "Fotobiomodulação — por que escolhi",
       "bullets": [
-        "Fotobiomodulação: não invasiva, segura e aprovada para a AAG.",
-        "Aumenta a produção de ATP, melhora a microcirculação e prolonga a fase anágena.",
-        "Luz vermelha 655–660 nm; sessões de 15–20 min — Pillai e Mysore (2022).",
-        "Eficácia em ensaios randomizados: +~41,9 fios/cm² — Yoon et al. (2020); Sondagar et al. (2023).",
-        "Substitui as microcorrentes usadas antes."
+        "Não invasiva, segura e com eficácia em ensaios randomizados.",
+        "O que faz de bom: aumenta o ATP da célula, melhora a microcirculação e prolonga a fase de crescimento.",
+        "Ganho de ~41,9 fios/cm² sem efeitos adversos — Yoon et al. (2020).",
+        "Dose baixa (~2 J/cm²) fica na janela que estimula — Avci et al. (2014); Pillai e Mysore (2022)."
       ],
-      "notes": "O laser de baixa intensidade é seguro e aprovado. Ele dá energia para a célula, melhora a circulação e faz o fio crescer por mais tempo. Estudos com sorteio mostraram ganho real de fios. Ele entra no lugar das microcorrentes."
-    },
-    {
-      "type": "content",
-      "title": "Por que 2 J/cm²?",
-      "bullets": [
-        "Resposta bifásica: dose baixa (~1 J/cm²) estimula; dose alta (~5 J/cm²) inibe — Avci et al. (2014).",
-        "Fluências úteis na literatura: 1 a 10 J/cm²; densidade de potência 3–90 mW/cm².",
-        "Por isso o protocolo adota fluência baixa de ~2 J/cm² (dentro da janela que estimula).",
-        "Fase ativa de ~3 meses e manutenção a cada 4–6 semanas — Wang e Chen (2025)."
-      ],
-      "notes": "O laser tem um efeito de dois lados: dose baixa estimula, dose alta atrapalha. Por isso escolhi uma dose baixa, em torno de 2 joules por centímetro quadrado, que fica na faixa que estimula o crescimento."
+      "notes": "Escolhi a fotobiomodulação porque é segura, não invasiva e tem eficácia comprovada. Ela aumenta a energia da célula, melhora a circulação e faz o fio crescer por mais tempo. Uso dose baixa, em torno de 2 joules, que é a faixa que estimula."
     },
     {
       "type": "content",
       "title": "Intradermoterapia — Mescla PHD",
       "bullets": [
-        "Microinjeções no couro cabeludo levam o ativo direto ao folículo (técnica de pápula).",
-        "30G; 2–4 mm; ~0,05–0,1 mL/ponto; pápulas a cada 2 cm.",
+        "O que faz de bom: leva o ativo direto ao folículo, contornando barreiras de absorção.",
+        "Técnica de pápula: 30G; 2–4 mm; ~0,05–0,1 mL/ponto; pápulas a cada 2 cm.",
         "Mescla PHD: Minoxidil 8 mg; Nanofatores de Crescimento 1%; Latanoprosta 50 mcg; Pill Food; Lidocaína 20 mg.",
-        "Base: Uzel et al. (2021); Aledani et al. (2024); Stefanis et al. (2024).",
-        "Em casa: tônico Capilia Longa (cúrcuma)."
+        "Base: Uzel et al. (2021); Aledani et al. (2024); Stefanis et al. (2024). Homecare: Capilia Longa."
       ],
       "imgs": ["capilia-longa.png"],
       "imgCaption": "Homecare — Capilia Longa (cúrcuma)",
-      "notes": "A intradermoterapia leva o remédio direto onde precisa, com microinjeções formando pápulas. A mistura PHD tem minoxidil, fatores de crescimento, latanoprosta, vitaminas e anestésico. Em casa, ela usa o tônico de cúrcuma."
+      "notes": "A intradermoterapia leva o remédio direto onde precisa, com microinjeções formando pápulas. A mistura PHD tem minoxidil, fatores de crescimento, latanoprosta, vitaminas e anestésico. Em casa, ela usa o tônico de cúrcuma, o Capilia Longa."
     },
     {
       "type": "content",
-      "title": "Apresentação do caso",
+      "title": "Método",
       "bullets": [
-        "Feminina, 60 anos; queda e rarefação no topo há ~3 anos.",
-        "Predisposição genética (pai com calvície).",
-        "Histórico: H. pylori erradicada, gastrite, alterações hormonais, estresse e sono ruim.",
-        "Tricoscopia: anisotricose, miniaturização e maior espaçamento — compatível com AAG."
+        "Estudo de caso qualitativo e descritivo (1 paciente, 60 anos).",
+        "Anamnese, tricoscopia (fotovideodermatoscópio) e registro fotográfico; em paralelo ao médico.",
+        "Laser: luz vermelha 655–660 nm; ~2 J/cm²; 3–90 mW/cm²; ~20 min/sessão.",
+        "Mescla PHD por técnica de pápula; intradermo semanal no 1º mês e quinzenal a partir do 2º.",
+        "Ética: Resolução 466/12; CEP-UNIPLAC nº 6.603.39; TCLE."
       ],
       "imgs": ["registro-frontal.jpeg", "registro-topo.jpeg"],
-      "imgCaption": "Registros do topo do couro cabeludo (área de rarefação)",
-      "notes": "A paciente tem 60 anos, queda no topo há três anos, pai calvo. Teve H. pylori, já curada. Nas fotos e na tricoscopia aparece a rarefação no topo e a variação dos fios, que fecham o diagnóstico de alopecia androgenética."
+      "imgCaption": "Registros do topo do couro cabeludo (paciente modelo)",
+      "notes": "É um estudo de caso de uma paciente de 60 anos. Coleto por anamnese, tricoscopia e foto, em paralelo ao médico. O laser é vermelho, de 655 a 660 nanômetros, dose de cerca de 2 joules, vinte minutos por sessão. A mescla PHD é aplicada por pápula, semanal no primeiro mês e quinzenal depois. Sempre cito a aprovação ética."
     },
     {
       "type": "cronograma",
-      "title": "Cronograma terapêutico (15/15)",
+      "title": "Cronograma",
       "header": ["Período", "Procedimento", "Frequência", "Base"],
       "rows": [
         ["Semanas 1–4", "Intradermoterapia (PHD)", "1×/semana", "Uzel (2021); Aledani (2024)"],
@@ -169,31 +165,6 @@
       "notes": "O cronograma começa intensivo: intradermoterapia uma vez por semana no primeiro mês. Depois entra o esquema de 15 em 15 dias, alternando laser e intradermoterapia. A cada dois meses reavalio na tricoscopia, e depois de seis meses entra a manutenção."
     },
     {
-      "type": "content",
-      "title": "Execução e segurança da combinação",
-      "bullets": [
-        "Mês 1: realizadas 3 das 4 sessões de intradermoterapia PHD.",
-        "A 4ª foi suspensa — a paciente passou mal e desmaiou (reação vasovagal, comum a injeções); a professora orientou não realizar.",
-        "Mês 2: laserterapia na 1ª quinzena; laser + intradermoterapia na 2ª.",
-        "Combinar não é \"excesso de estímulo\": o excesso é da dose do laser (Avci, 2014), não da soma de técnicas — elas agem por mecanismos diferentes.",
-        "Kaiser et al. (2022): combinação ≥ monoterapia e sem efeitos adversos da combinação.",
-        "Cuidado vasovagal: intradermoterapia com a paciente deitada, hidratada e monitorada."
-      ],
-      "notes": "No primeiro mês fizemos três das quatro sessões de intradermoterapia; a última foi suspensa porque a paciente passou mal e desmaiou — uma reação vasovagal, comum em procedimentos com agulha. No segundo mês começou o esquema quinzenal: laser e depois laser mais intradermoterapia. Combinar as duas não é excesso de estímulo: o cuidado com excesso é na dose do laser. A literatura mostra que combinar é seguro. Por causa do desmaio, a intradermoterapia deve ser feita com a paciente deitada e monitorada."
-    },
-    {
-      "type": "content",
-      "title": "Discussão e conclusão",
-      "bullets": [
-        "A AAG é genético-hormonal (DHT) e o diagnóstico se apoia na tricoscopia.",
-        "Laser de baixa intensidade + intradermoterapia têm respaldo em ensaios clínicos.",
-        "Fluência baixa (~2 J/cm²) alinha-se à resposta bifásica.",
-        "Fatores sistêmicos são coadjuvantes — o foco é a alopecia androgenética.",
-        "Proposta segura, individualizada e baseada em evidências; tricoscopia seriada acompanha a resposta."
-      ],
-      "notes": "Concluindo: a doença é hormonal e genética, diagnosticada por tricoscopia. A combinação de laser e intradermoterapia tem base científica. Uso dose baixa de laser. Os outros fatores são coadjuvantes. A proposta é segura e acompanhada por tricoscopia."
-    },
-    {
       "type": "refs",
       "title": "Referências principais",
       "items": [
@@ -203,11 +174,10 @@
         "PILLAI, J. K.; MYSORE, V. Role of LLLT in androgenetic alopecia. JCAS, 2022.",
         "UZEL, B. P. K. et al. Intradermal 0,5% minoxidil in FAGA: RCT. Dermatol. Ther., 2021.",
         "YOON, J. S. et al. LLLT helmet for androgenetic alopecia: RCT. Medicine, 2020.",
-        "ANASTASSAKIS, K. Androgenetic Alopecia From A to Z (livro). Springer, 2022.",
         "KAISER, M. A. et al. LLLT + minoxidil combinados na AAG: revisão. Skin Appendage Disord., 2022.",
         "Lista completa (26 referências com link) no documento Word do estudo de caso."
       ],
-      "notes": "Aqui estão as referências principais. A lista completa, com 25 fontes e os links, está no documento escrito."
+      "notes": "Aqui estão as referências principais. A lista completa, com 26 fontes e os links, está no documento escrito. Obrigada pela atenção."
     }
   ]
 }
