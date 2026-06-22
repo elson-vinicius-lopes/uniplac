@@ -3,7 +3,7 @@
  * Saida definida pelo campo "out" do JSON. ABNT: Times 12, 1,5, justificado, margens 3/2/3/2 cm.
  */
 const { Document, Packer, Paragraph, TextRun, HeadingLevel, AlignmentType, convertInchesToTwip,
-        Table, TableRow, TableCell, WidthType, ShadingType, PageBreak } = require("docx");
+        Table, TableRow, TableCell, WidthType, ShadingType, PageBreak, ImageRun } = require("docx");
 const fs = require("fs");
 const path = require("path");
 
@@ -62,6 +62,12 @@ async function main() {
       case "p": c.push(para(b)); break;
       case "ref": c.push(refPara(b.t)); break;
       case "table": c.push(tableOf(b)); break;
+      case "image": {
+        const sp = path.isAbsolute(b.src) ? b.src : path.resolve(__dirname, b.src);
+        c.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 60 },
+          children: [new ImageRun({ type: b.itype || "png", data: fs.readFileSync(sp), transformation: { width: b.w || 320, height: b.h || 470 } })] }));
+        break;
+      }
       default: break;
     }
   }
