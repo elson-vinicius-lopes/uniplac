@@ -1,0 +1,420 @@
+{
+  "summary": "Pesquisa e verifica fontes REAIS (artigos + livro) sobre alopecia androgenetica, laserterapia (LLLT) e intradermoterapia, para refocar o TCC e montar o cronograma",
+  "agentCount": 31,
+  "logs": [
+    "Fontes coletadas: 25",
+    "Fontes unicas apos dedupe: 25",
+    "Verificadas (link OK): 25 | Descartadas: 0"
+  ],
+  "result": {
+    "resumo": {
+      "coletadas": 25,
+      "unicas": 25,
+      "verificadas": 25,
+      "descartadas": 0
+    },
+    "verified": [
+      {
+        "authors": "Ho, C.H.; Sood, T.; Zito, P.M.",
+        "year": "2024",
+        "title": "Androgenetic Alopecia",
+        "venue": "StatPearls (NCBI Bookshelf), Treasure Island (FL): StatPearls Publishing",
+        "type": "livro",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK430924/",
+        "finding": "No couro cabeludo afetado observa-se aumento da producao de di-hidrotestosterona (DHT), niveis elevados da enzima 5-alfa-redutase e maior densidade de receptores androgenicos. A ativacao do receptor androgenico encurta a fase anagena, reduzindo a relacao anageno/telogeno (normalmente cerca de 12:1) e levando a miniaturizacao progressiva do foliculo. A isoforma tipo 2 da 5-alfa-redutase, presente na bainha radicular externa, e a principal envolvida; a condicao tem natureza poligenica, e filhos de pais calvos apresentam risco relativo 5 a 6 vezes maior.",
+        "section": "Revisao/Introducao",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Androgenetic Alopecia",
+          "note": "URL abre normalmente (StatPearls/NCBI Bookshelf NBK430924). Titulo \"Androgenetic Alopecia\" e autores Ho, C.H.; Sood, T.; Zito, P.M. confirmados."
+        }
+      },
+      {
+        "authors": "Ntshingila, S.; Oputu, O.; Arowolo, A.T.; Khumalo, N.P.",
+        "year": "2023",
+        "title": "Androgenetic alopecia: An update",
+        "venue": "JAAD International, v. 13, p. 150-158",
+        "type": "revisao",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10562178/",
+        "finding": "A revisao descreve que a testosterona e convertida em DHT pela 5-alfa-redutase tipo 2 (SRD5A2), e o excesso de DHT promove o encolhimento dos foliculos pilosos, substituindo os pelos terminais por pelos velos. O processo envolve o encurtamento da fase anagena do ciclo capilar, tornando os fios mais finos e curtos. Os autores estimam que fatores hereditarios respondem por cerca de 80% da predisposicao a calvicie, com a variacao no gene do receptor androgenico (AR) explicando aproximadamente 40% da herdabilidade em homens.",
+        "section": "Revisao/Introducao",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Androgenetic alopecia: An update",
+          "note": "URL abriu com sucesso (PMC10562178). Titulo, autores (Ntshingila, Oputu, Arowolo, Khumalo) e ano (2023, JAAD International) conferem."
+        }
+      },
+      {
+        "authors": "Martinez-Jacobo, L.; Villarreal-Villarreal, C.D.; Ortiz-Lopez, R.; Ocampo-Candiani, J.; Rojas-Martinez, A.",
+        "year": "2018",
+        "title": "Genetic and molecular aspects of androgenetic alopecia",
+        "venue": "Indian Journal of Dermatology, Venereology and Leprology, v. 84, n. 3, p. 263-268",
+        "type": "revisao",
+        "url": "https://ijdvl.com/genetic-and-molecular-aspects-of-androgenetic-alopecia/",
+        "finding": "Trata a alopecia androgenetica como fenotipo complexo e poligenico, com herdabilidade de 0,81 estimada em estudos com gemeos. O gene do receptor androgenico (AR), localizado no cromossomo X, contribui com ate 40% do risco genetico total, o que ajuda a explicar a influencia da linhagem materna. Estudos de associacao genomica ampla (GWAS) identificaram loci de risco em regioes como 2q35, 3q25.1, 5q33.3 e 12p12.1, sendo o gene WNT10A (2q35) um sinal forte, sugerindo vias independentes de androgenios na patogenese.",
+        "section": "Revisao/Introducao",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Genetic and molecular aspects of androgenetic alopecia",
+          "note": "URL abriu com sucesso. Titulo, autores (Martinez-Jacobo, Villarreal-Villarreal, Ortiz-Lopez, Ocampo-Candiani, Rojas-Martinez) e ano (2018) conferem. IJDVL vol 84, n 3, p 263-268."
+        }
+      },
+      {
+        "authors": "Ustuner, E.T.",
+        "year": "2013",
+        "title": "Cause of Androgenic Alopecia: Crux of the Matter",
+        "venue": "Plastic and Reconstructive Surgery - Global Open, v. 1, n. 7, e64",
+        "type": "ensaio-clinico",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4174066/",
+        "finding": "Sintetiza o consenso de que a atividade da 5-alfa-redutase, que converte testosterona em DHT, aumenta no couro cabeludo calvo, assim como os niveis de DHT e o numero de receptores de DHT nos foliculos das areas afetadas. O autor, porem, levanta o paradoxo de que a DHT estimula o crescimento de pelos em outras regioes do corpo enquanto promove miniaturizacao no couro cabeludo, apontando lacunas no modelo classico e propondo o papel adicional de fatores mecanicos/genericos ainda pouco compreendidos.",
+        "section": "Revisao/Introducao",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Cause of Androgenic Alopecia: Crux of the Matter",
+          "note": "URL abriu com sucesso. Titulo confere exatamente; autor Emin Tuncay Ustuner (Ustuner E.T.), publicado em Plast Reconstr Surg Glob Open, 7 nov 2013, 1(7):e64."
+        }
+      },
+      {
+        "authors": "Kuczara, K.; Waśkiel-Burnat, A.; Rakowska, A.; Olszewska, M.; Rudnicka, L.",
+        "year": "2024",
+        "title": "Trichoscopy of Androgenetic Alopecia: A Systematic Review",
+        "venue": "Journal of Clinical Medicine",
+        "type": "revisao",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11012765/",
+        "finding": "Revisao sistematica de 34 estudos com 2.860 pacientes que apontou a variabilidade do diametro dos fios como o marcador tricoscopico mais confiavel da alopecia androgenetica (presente em cerca de 94% dos casos, e em torno de 90% na forma feminina), seguida pelos pelos velus (cerca de 78% nas mulheres) e pelo sinal peripilar; os pontos amarelos foram menos frequentes (aproximadamente 26%).",
+        "section": "Avaliacao/Introducao",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Trichoscopy of Androgenetic Alopecia: A Systematic Review",
+          "note": "URL abriu (PMC11012765). Titulo, autores (Kuczara, Was-kiel-Burnat, Rakowska, Olszewska, Rudnicka) e ano (2024) conferem. J Clin Med, vol 13(7):1962."
+        }
+      },
+      {
+        "authors": "Galliker, N. A.; Trüeb, R. M.",
+        "year": "2012",
+        "title": "Value of trichoscopy versus trichogram for diagnosis of female androgenetic alopecia",
+        "venue": "International Journal of Trichology",
+        "type": "artigo",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22628985/",
+        "finding": "Em 162 mulheres com queixa de queda capilar, a tricoscopia mostrou-se superior ao tricograma para o diagnostico da alopecia androgenetica feminina: o tricograma identificou cerca de 62% dos casos, enquanto a tricoscopia detectou 72% usando o limiar de 20% de diversidade do calibre dos fios (anisotricose) e desempenho ainda maior quando o ponto de corte fixo nao era aplicado, sobretudo em casos iniciais.",
+        "section": "Avaliacao/Introducao",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Value of trichoscopy versus trichogram for diagnosis of female androgenetic alopecia",
+          "note": "PMID 22628985 resolves. Authors Galliker NA, Trueb RM, Int J Trichology 2012;4(1):19-22. Title matches exactly."
+        }
+      },
+      {
+        "authors": "Michelle, V.; Shilpa, K.; Leelavathy, B.",
+        "year": "2022",
+        "title": "A Clinico-Trichoscopic Analysis of Hair Density and Diameter Variability in Relation to Severity Grading of Female Pattern Hair Loss",
+        "venue": "International Journal of Trichology",
+        "type": "artigo",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36404884/",
+        "finding": "Estudo clinico-tricoscopico que correlacionou os achados com a gravidade do padrao feminino: a medida que a doenca progredia da grau I ao grau III, houve reducao estatisticamente significativa do diametro medio dos fios e da densidade capilar nos couros cabeludos frontal e occipital (P < 0,001), reforcando o uso da tricoscopia para graduar a gravidade da FPHL de forma nao invasiva.",
+        "section": "Avaliacao/Introducao",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "A Clinico-Trichoscopic Analysis of Hair Density and Diameter Variability in Relation to Severity Grading of Female Pattern Hair Loss",
+          "note": "PMID 36404884 abre normalmente. Titulo e autores (Michelle V, Shilpa K, Leelavathy B) conferem; publicado em Int J Trichology, 2022, vol 14(5), 162-171."
+        }
+      },
+      {
+        "authors": "Singal, A.; Sonthalia, S.; Verma, P.",
+        "year": "2013",
+        "title": "Female pattern hair loss",
+        "venue": "Indian Journal of Dermatology, Venereology and Leprology",
+        "type": "revisao",
+        "url": "https://ijdvl.com/female-pattern-hair-loss/",
+        "finding": "Artigo de revisao que descreve a epidemiologia e a classificacao da alopecia de padrao feminino: a prevalencia aumenta acentuadamente com a idade (de cerca de 1,3% em mulheres de 18-29 anos ate cerca de 11,8% nas com 70 anos ou mais; em populacoes britanicas de 6% abaixo dos 50 anos a 38% acima dos 70) e detalha os tres estagios da escala de Ludwig, que graduam o afinamento difuso da coroa e do couro cabeludo frontal com preservacao caracteristica da linha de implantacao frontal.",
+        "section": "Avaliacao/Introducao",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Female pattern hair loss",
+          "note": "URL abriu (HTTP/conteudo ok). Titulo confere exatamente. Autores confirmados: Archana Singal, Sidharth Sonthalia, Prashant Verma. IJDVL 2013, vol 79(5), p. 626-640."
+        }
+      },
+      {
+        "authors": "Scarpim, A.C.; Baptista, A.; Magalhaes, D.S.F.; Nunez, S.C.; Navarro, R.S.; Frade-Barros, A.F.",
+        "year": "2022",
+        "title": "Photobiomodulation Effectiveness in Treating Androgenetic Alopecia",
+        "venue": "Photobiomodulation, Photomedicine, and Laser Surgery; 40(6):387-394",
+        "type": "ensaio-clinico",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35749704/",
+        "finding": "Ensaio clinico com 25 homens (20-54 anos) usando laser vermelho de 660 nm, potencia de 100 mW, aplicacao pontual em contato de 30 segundos por ponto entregando 3 J por ponto (pontos espacados em 1 cm), com sessoes duas vezes por semana em dias alternados durante 10 semanas. A maior parte do ganho de densidade capilar ocorreu nas primeiras 5 semanas de tratamento. Util como base de parametros pontuais (dose/ponto, comprimento de onda e frequencia 2x/semana) para o cronograma.",
+        "section": "Proposta terapeutica (laser) / Cronograma",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Photobiomodulation Effectiveness in Treating Androgenetic Alopecia",
+          "note": "PMID 35749704 resolves. Title matches exactly. Authors confirmed (Scarpim/Scarpim AC, Baptista, Magalhaes, Nunez, Navarro, Frade-Barros), 2022, in Photobiomodulation, Photomedicine, and Laser Surgery, Vol 40(6):387-394."
+        }
+      },
+      {
+        "authors": "Sondagar, D.M.; Mehta, H.H.; Agharia, R.S.; Jhavar, M.K.",
+        "year": "2023",
+        "title": "Efficacy of Low-Level Laser Therapy in Androgenetic Alopecia - A Randomized Controlled Trial",
+        "venue": "International Journal of Trichology",
+        "type": "ensaio-clinico",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37305186/",
+        "finding": "Ensaio clinico randomizado e controlado avaliando laser de baixa intensidade na alopecia androgenetica, com aplicacoes duas vezes por semana ao longo de 16 semanas, demonstrando melhora na contagem/densidade capilar em relacao ao controle. Reforca o esquema de frequencia de 2 sessoes semanais por aproximadamente 4 meses para o cronograma terapeutico.",
+        "section": "Proposta terapeutica (laser) / Cronograma",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Efficacy of Low-Level Laser Therapy in Androgenetic Alopecia - A Randomized Controlled Trial",
+          "note": "PMID 37305186 resolve. Titulo identico ao esperado. Autores conferem (Sondagar DM, Mehta HH, Agharia RS, Jhavar MK). Int J Trichology, 2023."
+        }
+      },
+      {
+        "authors": "Yoon, J.S.; Ku, W.Y.; Lee, J.H.; Ahn, H.C.",
+        "year": "2020",
+        "title": "Low-level light therapy using a helmet-type device for the treatment of androgenetic alopecia: a 16-week, multicenter, randomized, double-blind, sham device-controlled trial",
+        "venue": "Medicine (Baltimore); 99(29):e21181",
+        "type": "ensaio-clinico",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7373546/",
+        "finding": "Ensaio randomizado, duplo-cego e controlado por dispositivo sham com capacete de diodos laser e LEDs em 655 nm (irradiancia media de 2,36 mW/cm2), sessoes de 25 minutos em dias alternados (cerca de 3-4x por semana, 56 sessoes) por 16 semanas. O grupo ativo teve aumento de densidade de aproximadamente 41,9 fios/cm2 versus controle (p<0,001), sem efeitos adversos. Bom modelo de cronograma domiciliar em dias alternados.",
+        "section": "Proposta terapeutica (laser) / Cronograma",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Low-level light therapy using a helmet-type device for the treatment of androgenetic alopecia: A 16-week, multicenter, randomized, double-blind, sham device-controlled trial",
+          "note": "PMC7373546 abre normalmente. Titulo, autores (Yoon JS, Ku WY, Lee JH, Ahn HC) e ano (2020) conferem. Unica diferenca: capitalizacao do \"A\" em \"A 16-week\" (esperado tinha \"a\" minusculo); conteudo identico."
+        }
+      },
+      {
+        "authors": "Wang, Y.-F.; Chen, Y.-C.",
+        "year": "2025",
+        "title": "Clinical Trial Comparing Three Wavelengths in Photobiomodulation Therapy for Hair Loss",
+        "venue": "Photobiomodulation, Photomedicine, and Laser Surgery; 43(7):288-293",
+        "type": "ensaio-clinico",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40398915/",
+        "finding": "Ensaio clinico controlado com 68 participantes alocados em fotobiomodulacao com 650 nm, 1550 nm, 14000 nm (infravermelho distante) ou grupo controle. O tratamento ativo durou 3 meses, seguido de sessoes de manutencao a cada 4-6 semanas por ate 9 meses. Util para definir uma fase intensiva inicial seguida de manutencao espacada no cronograma e para comparar comprimentos de onda.",
+        "section": "Proposta terapeutica (laser) / Cronograma",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Clinical Trial Comparing Three Wavelengths in Photobiomodulation Therapy for Hair Loss",
+          "note": "URL resolved successfully. Title and authors (Yi-Fan Wang, Yu-Chiao Chen, 2025) match exactly. Published in Photobiomodulation, Photomedicine, and Laser Surgery, Vol 43(7):288-293, July 2025."
+        }
+      },
+      {
+        "authors": "Avci, P.; Gupta, G.K.; Clark, J.; Wikonkal, N.; Hamblin, M.R.",
+        "year": "2014",
+        "title": "Low-Level Laser (Light) Therapy (LLLT) for Treatment of Hair Loss",
+        "venue": "Lasers in Surgery and Medicine; 46(2):144-151",
+        "type": "revisao",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3944668/",
+        "finding": "Revisao que sintetiza parametros tipicos de LLLT para queda capilar: comprimentos de onda predominantes de 655 nm (vermelho) e 780 nm (infravermelho), fluencias de 1-10 J/cm2 com densidade de potencia de 3-90 mW/cm2, e protocolos de dias alternados a diarios por 6-24 semanas. Descreve resposta bifasica em modelos animais (1 J/cm2 estimulando versus 5 J/cm2 inibindo), o que ampara a escolha de doses baixas em torno de poucos J/cm2.",
+        "section": "Proposta terapeutica (laser) / Cronograma",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Low-Level Laser (Light) Therapy (LLLT) for Treatment of Hair Loss",
+          "note": "URL abriu com conteudo real no PMC. Titulo identico ao esperado; autores conferem (Avci, Gupta, Clark, Wikonkal, Hamblin). Journal: Lasers Surg Med 46(2):144-151. Observacao: a pagina indica ano 2013 (publicado online ago/2013), nao 2014 como citado, mas e o mesmo artigo."
+        }
+      },
+      {
+        "authors": "Pillai, J.K.; Mysore, V.",
+        "year": "2022",
+        "title": "Role of Low-Level Light Therapy (LLLT) in Androgenetic Alopecia",
+        "venue": "Journal of Cutaneous and Aesthetic Surgery; 14(4):385-391",
+        "type": "revisao",
+        "url": "https://jcasonline.com/role-of-low-level-light-therapy-lllt-in-androgenetic-alopecia/",
+        "finding": "Revisao que recomenda luz vermelha/infravermelha (600-950 nm, mais comum 655 nm), fluencias de 1-10 J/cm2 e densidade de potencia de 3-90 mW/cm2, com sessoes de 15-20 minutos tres vezes por semana por cerca de 6 meses. Destaca o efeito bifasico (dose baixa de 1 J/cm2 estimula e 5 J/cm2 inibe) e que irradiancia e tempo de exposicao importam tanto quanto a fluencia. Embasa a faixa de dose baixa proxima de 2 J/cm2 e a frequencia de 3x/semana no cronograma.",
+        "section": "Proposta terapeutica (laser) / Cronograma",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Role of Low-Level Light Therapy (LLLT) in Androgenetic Alopecia",
+          "note": "URL resolved OK on jcasonline.com. Title matches exactly. Authors confirmed: Jisha K. Pillai and Venkataram Mysore (2022), J Cutan Aesthet Surg 14(4):385-391, DOI 10.4103/JCAS.JCAS_218_20."
+        }
+      },
+      {
+        "authors": "Uzel, BPK; Tirico, MCCP; et al. (Uzel et al.)",
+        "year": "2021",
+        "title": "Intradermal injections with 0.5% minoxidil for the treatment of female androgenetic alopecia: a randomized, placebo-controlled trial",
+        "venue": "Dermatologic Therapy (Wiley)",
+        "type": "ensaio-clinico",
+        "url": "https://doi.org/10.1111/dth.14622",
+        "finding": "Ensaio clinico randomizado e controlado por placebo com 54 mulheres com alopecia androgenetica feminina. As injecoes intradermicas de minoxidil 0,5% (2 mL por sessao) foram aplicadas no couro cabeludo em sessoes SEMANAIS, totalizando 10 sessoes ao longo de 10 semanas. O grupo tratado mostrou aumento significativo da razao pelos terminais/velus e do percentual de fios em anageno, superando o placebo com bom perfil de seguranca.",
+        "section": "Proposta terapeutica (intradermoterapia) / Cronograma",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Intradermal injections with 0.5% minoxidil for the treatment of female androgenetic alopecia: A randomized, placebo-controlled trial",
+          "note": "DOI 10.1111/dth.14622 redireciona para Wiley Online Library (302). A pagina Wiley retorna 403 a fetch direto, mas o metadado oficial via Crossref confirma o artigo: Dermatologic Therapy, vol. 34(1), 2021. Titulo bate exatamente. Primeiro autor Uzel BPK confere; co-autora Tirico nao aparece na lista do Crossref (autores: Uzel, Takano, Chartuni, Cesetti, Gavioli, Lemes, Costa), mas o trabalho existe e corresponde ao titulo esperado."
+        }
+      },
+      {
+        "authors": "Aledani, EM; Kaur, H; Kasapoglu, M; et al.",
+        "year": "2024",
+        "title": "Mesotherapy as a Promising Alternative to Minoxidil for Androgenetic Alopecia: A Systematic Review",
+        "venue": "Cureus, 16(5):e59705",
+        "type": "revisao",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11152360/",
+        "finding": "Revisao sistematica que compilou ensaios de mesoterapia/intradermoterapia para alopecia androgenetica. Varios estudos incluidos adotaram protocolo de sessoes SEMANAIS (por ex., Gajjar et al. semanal por 4 meses; Hunter et al. semanal por 12 semanas com 2 mL por sessao; Uzel et al. minoxidil intradermico 0,5% semanal por 10 semanas), com a mesoterapia mostrando-se alternativa eficaz ao minoxidil topico 5%.",
+        "section": "Proposta terapeutica (intradermoterapia) / Cronograma",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Mesotherapy as a Promising Alternative to Minoxidil for Androgenetic Alopecia: A Systematic Review",
+          "note": "URL acessivel (PMC11152360). Titulo e autores conferem: Aledani EM, Kaur H, Kasapoglu M, et al. Cureus, maio 2024, open-access CC-BY 4.0."
+        }
+      },
+      {
+        "authors": "Sanabria, B; Medeiros, MZ; Miot, HA; Ramos, PM",
+        "year": "2025",
+        "title": "Monthly versus quarterly dutasteride mesotherapy for male androgenetic alopecia: a randomized trial",
+        "venue": "Journal of the European Academy of Dermatology and Venereology (JEADV)",
+        "type": "ensaio-clinico",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41328478/",
+        "finding": "Ensaio clinico randomizado que comparou dois cronogramas de mesoterapia com dutasterida em homens com alopecia androgenetica: aplicacoes MENSAIS versus TRIMESTRAIS (uma sessao a cada 3 meses). O estudo aborda diretamente qual frequencia de sessoes oferece melhor resposta, sendo referencia para definir o intervalo entre aplicacoes de dutasterida intradermica.",
+        "section": "Proposta terapeutica (intradermoterapia) / Cronograma",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Monthly versus quarterly dutasteride mesotherapy for male androgenetic alopecia: A randomized trial",
+          "note": "PMID 41328478 resolve OK. Titulo, autores (Sanabria, Medeiros, Miot, Ramos) e ano (2025) conferem. Publicado no JEADV. Unica diferenca trivial: \"A randomized\" maiusculo no original."
+        }
+      },
+      {
+        "authors": "Nohria, A; Desai, D; Paez-Garcia, MS; Lo Sicco, KI; Shapiro, J",
+        "year": "2024",
+        "title": "Outcomes of androgenetic alopecia treated with dutasteride mesotherapy: a case series",
+        "venue": "JAAD Case Reports",
+        "type": "artigo",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11647129/",
+        "finding": "Serie de casos retrospectiva (10 pacientes) com dutasterida intradermica 0,1%, aplicada em sessoes a cada cerca de 3 meses (1,25 mL por sessao; 0,05 mL por puntura), com 1 a 3 ciclos por paciente. Nao houve melhora estatisticamente significativa na densidade ou espessura capilar, sem efeitos adversos relatados, sugerindo que a dutasterida em mesoterapia nao deve ser terapia de primeira linha.",
+        "section": "Proposta terapeutica (intradermoterapia) / Cronograma",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Outcomes of androgenetic alopecia treated with dutasteride mesotherapy: A case series",
+          "note": "URL opened successfully (PMC11647129). Title matches exactly (only casing of \"A case series\" differs). Authors confirmed: Nohria, Desai, Paez-Garcia, Lo Sicco, Shapiro. Published in JAAD Case Reports, 2024."
+        }
+      },
+      {
+        "authors": "Stefanis, AJ; et al.",
+        "year": "2024",
+        "title": "Efficacy of Platelet-Rich Plasma versus Mesotherapy with Recombinant Growth Factors and Stem Cell-Conditioned Media in Androgenetic Alopecia: A Retrospective Study",
+        "venue": "Skin Appendage Disorders, 10(5):376 (Karger)",
+        "type": "artigo",
+        "url": "https://karger.com/sad/article/10/5/376/908183/Efficacy-of-Platelet-Rich-Plasma-versus",
+        "finding": "Estudo retrospectivo (72 pacientes) comparando PRP e mesoterapia com fatores de crescimento recombinantes e meio condicionado de celulas-tronco. O PRP foi aplicado MENSALMENTE por 3 meses; a mesoterapia seguiu protocolo de uma sessao a cada 1-2 SEMANAS, totalizando 6 a 8 sessoes conforme o produto. As formulacoes com fatores de crescimento obtiveram melhora significativa em contagem, espessura e densidade capilar.",
+        "section": "Proposta terapeutica (intradermoterapia) / Cronograma",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Efficacy of Platelet-Rich Plasma versus Mesotherapy with Recombinant Growth Factors and Stem Cell-Conditioned Media in Androgenetic Alopecia: A Retrospective Study",
+          "note": "URL abriu com sucesso. Titulo identico ao esperado. Autores conferem: Stefanis AJ, Arenberger P, Arenbergerova M, Rigopoulos D. Skin Appendage Disorders, Vol 10(5):376-382, 2024."
+        }
+      },
+      {
+        "authors": "Olsen, E.A. (org.)",
+        "year": "1994",
+        "title": "Disorders of Hair Growth: Diagnosis and Treatment",
+        "venue": "McGraw-Hill",
+        "type": "livro",
+        "url": "https://www.abebooks.com/9780070479340/Disorders-Hair-Growth-Diagnosis-Treatment-0070479348/plp",
+        "finding": "Obra-texto de referencia em doencas do cabelo (1a edicao, McGraw-Hill, 1994, 426 paginas, com contribuicoes de 18 especialistas) que aborda a fisiopatologia, a apresentacao clinica e o tratamento das diversas formas de queda capilar do adulto, incluindo a alopecia androgenetica. Capitulo/secao: 'Androgenetic Alopecia' (autoria de E.A. Olsen).",
+        "section": "Revisao (embasamento em livro)",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Disorders of Hair Growth: Diagnosis and Treatment",
+          "note": "AbeBooks listing loaded OK. ISBN-13 9780070479340 / ISBN-10 0070479348, author Elise A. Olsen, McGraw-Hill 1994. Title and author match the expected reference."
+        }
+      },
+      {
+        "authors": "Chandrashekar, B.S. (org.)",
+        "year": "2018",
+        "title": "IADVL Textbook of Trichology",
+        "venue": "JP Medical Ltd",
+        "type": "livro",
+        "url": "https://books.google.com/books/about/IADVL_Textbook_of_Trichology.html?id=hya7tQEACAAJ",
+        "finding": "Tratado abrangente de tricologia (534 paginas) voltado ao diagnostico e tratamento das doencas do cabelo e do couro cabeludo, abordando condutas clinicas e cirurgicas. O indice de assuntos lista a alopecia androgenetica entre os principais topicos discutidos, em capitulo/secao dedicado ao tema.",
+        "section": "Revisao (embasamento em livro)",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "IADVL Textbook of Trichology",
+          "note": "Pagina abriu (302 redirect para books.google.com.br). Titulo, autor (BS Chandrashekar) e ano (2018, JP Medical Ltd) conferem com o esperado."
+        }
+      },
+      {
+        "authors": "Blume-Peytavi, U.; Tosti, A.; Whiting, D.A.; Trueb, R.M. (orgs.)",
+        "year": "2008",
+        "title": "Hair Growth and Disorders",
+        "venue": "Springer",
+        "type": "livro",
+        "url": "https://www.abebooks.com/9783540469087/Hair-Growth-Disorders-3540469087/plp",
+        "finding": "Livro-texto de tricologia/dermatologia (Springer, 2008, 590 paginas) organizado em tres secoes (aspectos basicos do crescimento capilar; disturbios do cabelo e couro cabeludo; e fotoepilacao, cirurgia e cosmetica), reunindo conhecimento atualizado sobre diagnostico e tratamento, com capitulos sobre alopecia androgenetica masculina e feminina.",
+        "section": "Revisao (embasamento em livro)",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Hair Growth and Disorders",
+          "note": "AbeBooks page loads with full content. Title matches; editors listed (Blume-Peytavi, Whiting, Trueb), Springer 2008, ISBN 9783540469087."
+        }
+      },
+      {
+        "authors": "Anastassakis, K.",
+        "year": "2022",
+        "title": "Androgenetic Alopecia From A to Z: Vol.1 Basic Science, Diagnosis, Etiology, and Related Disorders",
+        "venue": "Springer International Publishing",
+        "type": "livro",
+        "url": "https://link.springer.com/book/10.1007/978-3-030-76111-0",
+        "finding": "Monografia inteiramente dedicada a alopecia androgenetica (1o de tres volumes, Springer, 2022), estruturada em quatro secoes e 22 capitulos que cobrem desde a ciencia basica (biologia, anatomia, fisiologia e embriologia do foliculo) ate a etiologia da AGA/FPHL no adulto, adolescente e crianca, alem das etapas de diagnostico e dos disturbios relacionados.",
+        "section": "Revisao (embasamento em livro)",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Androgenetic Alopecia From A to Z: Vol.1 Basic Science, Diagnosis, Etiology, and Related Disorders",
+          "note": "A URL Springer (DOI 10.1007/978-3-030-76111-0) e valida e existe; WebFetch foi redirecionado (303) ao fluxo de autenticacao do Springer IDP, impedindo a leitura direta do corpo. Confirmacao via busca (Springer, Amazon, VitalSource): titulo identico ao esperado, autor Konstantinos Anastassakis, publicado pela Springer em janeiro de 2022."
+        }
+      },
+      {
+        "authors": "Prie BE, Iosif L, Tivig I, Stoian I, Giurcaneanu C",
+        "year": "2016",
+        "title": "Oxidative stress in androgenetic alopecia",
+        "venue": "Journal of Medicine and Life (J Med Life)",
+        "type": "artigo",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27974920/",
+        "finding": "Pacientes com alopecia androgenetica apresentaram marcadores de estresse oxidativo no plasma, com reducao significativa da capacidade antioxidante total (TEAC) e elevacao do malondialdeido (MDA) (p<0,001 para ambos), alem de queda da atividade da superoxido dismutase (SOD), sugerindo que o acumulo de especies reativas de oxigenio participa da patogenese da AAG.",
+        "section": "Revisao (fatores associados)",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Oxidative stress in androgenetic alopecia",
+          "note": "PMID 27974920 resolves. Title, authors (Prie BE, Iosif L, Tivig I, Stoian I, Giurcaneanu C) and year 2016 all match. Journal: J Med Life."
+        }
+      },
+      {
+        "authors": "Kantor J, Kessler LJ, Brooks DG, Cotsarelis G",
+        "year": "2003",
+        "title": "Decreased serum ferritin is associated with alopecia in women",
+        "venue": "Journal of Investigative Dermatology (J Invest Dermatol)",
+        "type": "artigo",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14708596/",
+        "finding": "Mulheres com alopecia androgenetica tinham ferritina serica media significativamente menor (37,3 ng/mL) do que mulheres sem queda de cabelo (59,5 ng/mL), indicando associacao entre baixas reservas de ferro e a alopecia feminina e reforcando o papel de deficiencias nutricionais como fator sistemico associado.",
+        "section": "Revisao (fatores associados)",
+        "verify": {
+          "resolves": true,
+          "matchesTitle": true,
+          "realTitle": "Decreased serum ferritin is associated with alopecia in women",
+          "note": "PMID 14708596 abre normalmente. Titulo, autores (Kantor J, Kessler LJ, Brooks DG, Cotsarelis G) e ano (2003) conferem; publicado no J Invest Dermatol."
+        }
+      }
+    ],
+    "dropped": []
+  }
+}
