@@ -138,18 +138,45 @@
       "notes": "A intradermoterapia leva o remédio direto onde precisa, com microinjeções formando pápulas. A mistura PHD tem minoxidil, fatores de crescimento, latanoprosta, vitaminas e anestésico. Em casa, ela usa o tônico de cúrcuma, o Capilia Longa."
     },
     {
+      "type": "cronograma",
+      "title": "Relação entre o tratamento e as causas",
+      "intro": "Cada frente do protocolo atua sobre uma causa da alopecia androgenética:",
+      "header": ["Causa (alvo)", "Como o tratamento age sobre ela"],
+      "colW": [4.2, 7.9],
+      "rowH": 1.0,
+      "fontSize": 12,
+      "rows": [
+        ["Miniaturização pela DHT (causa principal, genético-hormonal)", "A intradermoterapia entrega minoxidil, latanoprosta e fatores de crescimento que reativam o folículo; a fotobiomodulação prolonga a fase anágena (crescimento)."],
+        ["Estresse oxidativo", "A fotobiomodulação aumenta o ATP e melhora a microcirculação do couro cabeludo, criando um ambiente mais favorável ao folículo."],
+        ["Deficiências nutricionais (ferro, B12)", "A intradermoterapia leva vitaminas e ativos (Pill Food) direto ao couro cabeludo, contornando a má absorção; a reposição é feita pelo médico."],
+        ["Gastrite / H. pylori (coadjuvante)", "Tratada pelo médico (erradicação); a estética atua em paralelo sobre os efeitos capilares."]
+      ],
+      "notes": "Aqui eu ligo cada causa ao tratamento. A causa principal é a miniaturização pela DHT: a intradermoterapia leva minoxidil, latanoprosta e fatores de crescimento que reativam o folículo, e o laser prolonga a fase de crescimento. O estresse oxidativo é combatido pelo laser, que melhora energia e circulação. As deficiências de ferro e B12 são contornadas pela intradermoterapia e repostas pelo médico. A gastrite com H. pylori, que é coadjuvante, é tratada pelo médico, enquanto a estética cuida do cabelo em paralelo."
+    },
+    {
       "type": "content",
-      "title": "Método",
+      "title": "Método — desenho do estudo",
       "bullets": [
         "Estudo de caso qualitativo e descritivo (1 paciente, 60 anos).",
-        "Anamnese, tricoscopia (fotovideodermatoscópio) e registro fotográfico; em paralelo ao médico.",
-        "Laser: luz vermelha 655–660 nm; ~2 J/cm²; 3–90 mW/cm²; ~20 min/sessão.",
-        "Mescla PHD por técnica de pápula; intradermo semanal no 1º mês e quinzenal a partir do 2º.",
+        "Avaliação: anamnese, tricoscopia (fotovideodermatoscópio) e registro fotográfico padronizado.",
+        "Intervenção estética conduzida em paralelo ao acompanhamento médico.",
         "Ética: Resolução 466/12; CEP-UNIPLAC nº 6.603.39; TCLE."
       ],
       "imgs": ["registro-frontal.jpeg", "registro-topo.jpeg"],
       "imgCaption": "Registros do topo do couro cabeludo (paciente modelo)",
-      "notes": "É um estudo de caso de uma paciente de 60 anos. Coleto por anamnese, tricoscopia e foto, em paralelo ao médico. O laser é vermelho, de 655 a 660 nanômetros, dose de cerca de 2 joules, vinte minutos por sessão. A mescla PHD é aplicada por pápula, semanal no primeiro mês e quinzenal depois. Sempre cito a aprovação ética."
+      "notes": "É um estudo de caso de uma paciente de 60 anos. A avaliação é por anamnese, tricoscopia e foto padronizada, sempre em paralelo ao médico, com aprovação do comitê de ética."
+    },
+    {
+      "type": "content",
+      "title": "Método — protocolo aplicado",
+      "bullets": [
+        "Fotobiomodulação: laser vermelho 655–660 nm; ~2 J/cm²; 3–90 mW/cm²; ~20 min/sessão; gel condutor e manobras circulares.",
+        "Intradermoterapia (Mescla PHD): Minoxidil 8 mg, Nanofatores de Crescimento 1%, Latanoprosta 50 mcg, Pill Food e Lidocaína 20 mg.",
+        "Técnica de pápula: agulha 30G; 2–4 mm; ~0,05–0,1 mL/ponto; pápulas a cada 2 cm.",
+        "Frequência: intradermoterapia semanal no 1º mês; a partir do 2º mês, esquema quinzenal alternando com a laserterapia.",
+        "Homecare: tônico Capilia Longa (cúrcuma)."
+      ],
+      "notes": "O protocolo: a fotobiomodulação usa laser vermelho de 655 a 660 nanômetros, cerca de 2 joules, 20 minutos por sessão. A intradermoterapia é a mescla PHD, com minoxidil, fatores de crescimento, latanoprosta, vitaminas e anestésico, aplicada por pápula. A frequência é semanal no primeiro mês e depois quinzenal, alternando com o laser. Em casa, o tônico Capilia Longa."
     },
     {
       "type": "cronograma",

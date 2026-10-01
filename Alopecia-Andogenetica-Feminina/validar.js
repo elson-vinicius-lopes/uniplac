@@ -23,6 +23,7 @@ async function main() {
   console.log("== REVISADO.docx ==");
   const dz = await JSZip.loadAsync(fs.readFileSync(DOCX));
   const dxml = await dz.file("word/document.xml").async("string");
+  const dstyles = dz.file("word/styles.xml") ? await dz.file("word/styles.xml").async("string") : "";
   const dtxt = strip(dxml);
   const refs = count(dtxt, "Disponível em:");
   check("Foco AAG: 'pylori' so coadjuvante (<=6)", count(dtxt, "pylori") <= 6, "n=" + count(dtxt, "pylori"));
@@ -31,7 +32,7 @@ async function main() {
   check("Fluencia 2 J/cm2 citada (>=2)", count(dtxt, "2 J") >= 2, "n=" + count(dtxt, "2 J"));
   check("Exatamente 26 referencias", refs === 26, "n=" + refs);
   check("Toda referencia tem link (http)", count(dtxt, "http") >= refs, "links=" + count(dtxt, "http"));
-  check("ABNT: Times New Roman", dxml.includes("Times New Roman"));
+  check("ABNT: Times New Roman", (dxml + dstyles).includes("Times New Roman"));
   check("Titulo reduzido (tricoscopia e tratamentos associados)", /tricoscopia e tratamentos associados/i.test(dtxt));
   check("Sem RESUMO (Palavras-chave ausente)", !/Palavras-chave/i.test(dtxt));
   check("Sem DISCUSSAO/CONCLUSAO no documento", !/\bDISCUSSÃO\b/.test(dtxt) && !/\bCONCLUSÃO\b/.test(dtxt));

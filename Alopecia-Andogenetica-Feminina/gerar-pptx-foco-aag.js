@@ -78,8 +78,10 @@ for (const sl of data.slides) {
     if (hasImgs) placeImages(s, sl.imgs, sl.imgCaption);
   } else if (sl.type === "cronograma") {
     const head = sl.header.map(t => ({ text: t, options: { bold: true, color: WHITE, fill: { color: PRIM }, fontFace: FONT, fontSize: 13, valign: "middle", align: "center" } }));
-    const body = sl.rows.map((r, ri) => r.map(c => ({ text: c, options: { fontFace: FONT, fontSize: 12, color: DARK, fill: { color: ri % 2 ? WHITE : LIGHT }, valign: "middle" } })));
-    s.addTable([head, ...body], { x: 0.6, y: 1.35, w: 12.1, colW: [3.1, 3.3, 2.5, 3.2], border: { type: "solid", color: "BFBFBF", pt: 0.5 }, rowH: 0.55, autoPage: false });
+    const body = sl.rows.map((r, ri) => r.map(c => ({ text: c, options: { fontFace: FONT, fontSize: sl.fontSize || 12, color: DARK, fill: { color: ri % 2 ? WHITE : LIGHT }, valign: "middle" } })));
+    const ty = sl.intro ? 2.0 : 1.35;
+    if (sl.intro) s.addText(sl.intro, { x: 0.6, y: 1.3, w: 12.1, h: 0.55, fontFace: FONT, fontSize: 15, color: DARK, valign: "top" });
+    s.addTable([head, ...body], { x: 0.6, y: ty, w: 12.1, colW: sl.colW || [3.1, 3.3, 2.5, 3.2], border: { type: "solid", color: "BFBFBF", pt: 0.5 }, rowH: sl.rowH || 0.55, autoPage: false });
   } else if (sl.type === "refs") {
     bulletsBox(s, sl.items, { fontSize: 14, lineSpacingMultiple: 1.15 });
   }

@@ -1,0 +1,14 @@
+COLOQUE AS FOTOS ANTES/DEPOIS AQUI
+==================================
+
+Salve cada foto com EXATAMENTE estes nomes (em .jpg). Quando estiverem aqui,
+é só me avisar que eu regero o relatório e a apresentação — as fotos entram
+sozinhas no lugar dos espaços reservados.
+
+  paola-braco-antes.jpg       -> Paola, braços, avaliação inicial (30/04/2026)
+  paola-braco-depois.jpg      -> Paola, braços, avaliação final  (18/06/2026)
+  vanessa-abdomen-antes.jpg   -> Vanessa, abdômen, avaliação inicial (30/04/2026)
+  vanessa-abdomen-depois.jpg  -> Vanessa, abdômen, avaliação final  (18/06/2026)
+
+Dica: se a foto for .png em vez de .jpg, me avise que eu ajusto o nome no gerador.
+Enquanto não estiverem aqui, o documento mostra um quadro tracejado "[INSERIR FOTO]".

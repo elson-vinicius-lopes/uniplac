@@ -1,0 +1,125 @@
+{
+  "out": "../resultados finais/eletroterapia avancada 2026-1/Relatorio-Eletroterapia-Avancada-Radiofrequencia-Braco.docx",
+  "blocks": [
+    {"type":"blank"},
+    {"type":"center","runs":[{"t":"UNIVERSIDADE DO PLANALTO CATARINENSE — UNIPLAC","b":true,"sz":26}]},
+    {"type":"center","runs":[{"t":"Tecnologia em Estética e Cosmética — 5ª Fase — 2026/1","sz":22}]},
+    {"type":"center","runs":[{"t":"Eletroterapia Avançada","sz":22}]},
+    {"type":"blank"},{"type":"blank"},{"type":"blank"},
+    {"type":"center","runs":[{"t":"RELATÓRIO DE PRÁTICA EM ELETROTERAPIA AVANÇADA","b":true,"sz":28}]},
+    {"type":"center","runs":[{"t":"Redução de medidas e flacidez: radiofrequência, ultrassom e carboxiterapia — relato de prática laboratorial","sz":22}]},
+    {"type":"blank"},{"type":"blank"},{"type":"blank"},{"type":"blank"},
+    {"type":"center","runs":[{"t":"Acadêmicas: Paola Bortoli Pinheiro Lopes e Vanessa Melo","sz":22}]},
+    {"type":"center","runs":[{"t":"Modelos atendidas: Paola (braços) e Vanessa (abdômen e glúteo)","sz":22}]},
+    {"type":"blank"},{"type":"blank"},{"type":"blank"},
+    {"type":"center","runs":[{"t":"Professora: Mariana Macedo Justi","sz":22}]},
+    {"type":"blank"},{"type":"blank"},{"type":"blank"},{"type":"blank"},
+    {"type":"center","runs":[{"t":"LAGES — SC | 2026","b":true,"sz":22}]},
+    {"type":"pagebreak"},
+
+    {"type":"h1","t":"1 INTRODUÇÃO"},
+    {"type":"p","t":"A eletroterapia reúne recursos elétricos, térmicos e mecânicos amplamente empregados na estética corporal para o tratamento de disfunções como a gordura localizada e a flacidez tissular (GUIRRO; GUIRRO, 2010). Tecnologias como a radiofrequência, o ultrassom e a carboxiterapia atuam por mecanismos distintos e complementares, promovendo aquecimento controlado, estímulo de colágeno e mobilização de gordura (AGNE, 2009; BORGES, 2010)."},
+    {"type":"p","t":"Este relatório descreve as práticas laboratoriais realizadas na disciplina de Eletroterapia Avançada pela dupla de acadêmicas, que atuaram como esteticistas e como modelos. O foco principal recai sobre a aplicação de radiofrequência nos braços de uma das acadêmicas (paciente-modelo), com o objetivo de reduzir medidas e melhorar a flacidez; apresentam-se, ainda, os procedimentos e medidas da segunda acadêmica (abdômen e glúteo). A resposta aos protocolos foi acompanhada por perimetria, em avaliação inicial e final."},
+
+    {"type":"h1","t":"2 DESENVOLVIMENTO"},
+    {"type":"p","t":"A seguir, apresentam-se as tecnologias de eletroterapia utilizadas durante as práticas, com um breve comentário sobre cada uma."},
+    {"type":"h2","t":"2.1 Radiofrequência"},
+    {"type":"p","t":"A radiofrequência é uma terapia que utiliza corrente elétrica de alta frequência (acima de 250 kHz), classificada conforme o tipo de aparelho — capacitivo (frequência próxima a 450 kHz) ou resistivo (acima de 1 MHz). O calor é gerado pela agitação das moléculas de água e pelo atrito entre as moléculas dos tecidos diante da passagem da corrente, elevando a temperatura local de forma controlada (GUIRRO; GUIRRO, 2010; AGNE, 2009)."},
+    {"type":"p","t":"Na faixa terapêutica de 39 °C a 45 °C ocorre a retração imediata das fibras colágenas pela sua reorganização, sem dano tecidual, enquanto a desnaturação só se inicia acima de 50 °C — o que reforça a importância de monitorar a temperatura. O aquecimento promove vasodilatação e aumento da circulação (a partir de 40 °C), eleva a atividade metabólica (cerca de 13% a cada 1 °C) e desencadeia pequenos processos inflamatórios que estimulam os fibroblastos à neocolagênese e à neoelastogênese, com pico de produção por volta de 21 dias e efeito que perdura por até 4 meses após a sessão (BORGES, 2010). O aumento da temperatura interna também favorece a lipólise, com mobilização do conteúdo dos adipócitos, auxiliando no tratamento da gordura localizada. Trata-se de recurso não invasivo, indolor e de boa tolerância (AGNE, 2009)."},
+    {"type":"h2","t":"2.2 Ultrassom estético"},
+    {"type":"p","t":"O ultrassom utiliza ondas mecânicas de alta frequência que produzem efeitos térmicos e mecânicos (cavitação e microcorrentes) nos tecidos, favorecendo a permeação de ativos, a melhora da circulação e a mobilização da gordura localizada (GUIRRO; GUIRRO, 2010)."},
+    {"type":"h2","t":"2.3 Ultrassom microfocado"},
+    {"type":"p","t":"O ultrassom microfocado entrega energia em pontos focais de profundidade definida, gerando pontos de coagulação térmica que estimulam a contração e a renovação do colágeno em camadas mais profundas, sendo indicado principalmente para o tratamento da flacidez (BORGES, 2010)."},
+    {"type":"h2","t":"2.4 Carboxiterapia"},
+    {"type":"p","t":"A carboxiterapia consiste na aplicação subcutânea de gás carbônico medicinal (CO₂), que melhora a oxigenação tecidual (efeito Bohr), estimula a microcirculação e o metabolismo local e auxilia no tratamento da gordura localizada, da flacidez e da fibrose pós-procedimentos (BORGES, 2010)."},
+    {"type":"h2","t":"2.5 Eletroestimulação (correntes)"},
+    {"type":"p","t":"As correntes elétricas excitomotoras promovem contração muscular passiva, sendo empregadas para tonificação e hipertrofia (estímulo da musculatura, p. ex., do glúteo); correntes de finalidade analgésica também são utilizadas para o conforto durante e após os procedimentos (AGNE, 2009; GUIRRO; GUIRRO, 2010)."},
+
+    {"type":"h1","t":"3 PROTOCOLO"},
+    {"type":"h2","t":"3.1 Paola — Radiofrequência nos braços (foco)"},
+    {"type":"p","t":"Área tratada: braços (direito e esquerdo). Objetivo: redução de medidas (gordura localizada) e melhora da flacidez tissular. Foram realizadas 3 (três) sessões de radiofrequência, nas datas das aulas práticas, conforme o quadro a seguir."},
+    {"type":"table",
+      "header":["Sessão","Data","Área","Tecnologia"],
+      "rows":[
+        ["1ª sessão","07/05/2026","Braços (D e E)","Radiofrequência"],
+        ["2ª sessão","28/05/2026","Braços (D e E)","Radiofrequência"],
+        ["3ª sessão","18/06/2026","Braços (D e E)","Radiofrequência"]
+      ]
+    },
+    {"type":"blank"},
+    {"type":"p","runs":[{"t":"Configuração do aparelho utilizada:","b":true}]},
+    {"type":"table",
+      "header":["Parâmetro","Configuração"],
+      "rows":[
+        ["Técnica","Radiofrequência monopolar"],
+        ["Placa de retorno","Sim"],
+        ["Temperatura-alvo","42 °C"],
+        ["Potência","Máxima"],
+        ["Frequência","[a confirmar — verificar no caderno]"],
+        ["Tempo por sessão","15 minutos"],
+        ["Objetivo","Flacidez tissular e gordura localizada"]
+      ]
+    },
+    {"type":"blank"},
+    {"type":"p","t":"Técnica de aplicação: aplicou-se gel/creme condutor sobre a área, com manobras circulares contínuas do manípulo, mantendo a temperatura-alvo de 42 °C monitorada por termômetro durante toda a sessão (15 minutos por braço). Cuidados e intercorrências: a temperatura foi controlada para evitar queimaduras e, ao final, a área foi hidratada; não foram observadas intercorrências (eritema persistente, dor ou bolhas)."},
+    {"type":"h2","t":"3.2 Vanessa — procedimentos realizados"},
+    {"type":"p","t":"A segunda acadêmica realizou procedimentos na face (carboxiterapia) e no glúteo (eletroestimulação, radiofrequência e carboxiterapia associada ao descolamento de fibrose), conforme o quadro a seguir."},
+    {"type":"table",
+      "header":["Procedimento","Área","Sessões / datas"],
+      "rows":[
+        ["Carboxiterapia (bigode chinês)","Face","2× — 07/05 e 18/06/2026"],
+        ["Eletroestimulação (correntes, analgesia)","Glúteo","2×"],
+        ["Eletroestimulação (hipertrofia)","Glúteo","1×"],
+        ["Radiofrequência","Glúteo","1×"],
+        ["Descolamento de fibrose (celulite) + carboxiterapia","Glúteo","1×"]
+      ]
+    },
+    {"type":"placeholder","t":"[CONFIRMAR datas e configuração dos aparelhos dos procedimentos da Vanessa — conforme anotações do laboratório.]"},
+
+    {"type":"h1","t":"4 REGISTRO FOTOGRÁFICO (ANTES E DEPOIS)"},
+    {"type":"p","t":"As imagens a seguir registram o aspecto das regiões tratadas na avaliação inicial e na final, sob mesma posição e iluminação, para fins de comparação."},
+    {"type":"center","runs":[{"t":"Figura 1 — Paola: braços ANTES (30/04/2026)","b":true,"sz":20}]},
+    {"type":"image","src":"../attachments/Eletroterapia avançada 2026-1/fotos-relatorio/paola-braco-antes.jpg","w":300,"h":380,"alt":"[INSERIR FOTO — PAOLA BRAÇOS ANTES (30/04/2026)]"},
+    {"type":"center","runs":[{"t":"Figura 2 — Paola: braços DEPOIS (18/06/2026)","b":true,"sz":20}]},
+    {"type":"image","src":"../attachments/Eletroterapia avançada 2026-1/fotos-relatorio/paola-braco-depois.jpg","w":300,"h":380,"alt":"[INSERIR FOTO — PAOLA BRAÇOS DEPOIS (18/06/2026)]"},
+    {"type":"center","runs":[{"t":"Figura 3 — Vanessa: abdômen ANTES (30/04/2026)","b":true,"sz":20}]},
+    {"type":"image","src":"../attachments/Eletroterapia avançada 2026-1/fotos-relatorio/vanessa-abdomen-antes.jpg","w":300,"h":380,"alt":"[INSERIR FOTO — VANESSA ABDÔMEN ANTES (30/04/2026)]"},
+    {"type":"center","runs":[{"t":"Figura 4 — Vanessa: abdômen DEPOIS (18/06/2026)","b":true,"sz":20}]},
+    {"type":"image","src":"../attachments/Eletroterapia avançada 2026-1/fotos-relatorio/vanessa-abdomen-depois.jpg","w":300,"h":380,"alt":"[INSERIR FOTO — VANESSA ABDÔMEN DEPOIS (18/06/2026)]"},
+    {"type":"center","runs":[{"t":"Fonte: arquivo das acadêmicas.","i":true,"sz":18}]},
+
+    {"type":"h1","t":"5 RELATÓRIO DE MEDIDAS (REDUÇÃO DE MEDIDAS)"},
+    {"type":"h2","t":"5.1 Paola — braços (radiofrequência)"},
+    {"type":"p","t":"A perimetria dos braços foi realizada na avaliação inicial (30/04/2026) e na final (18/06/2026), após as três sessões de radiofrequência. Os valores, em centímetros, e a variação são apresentados a seguir."},
+    {"type":"table",
+      "header":["Região","Antes (30/04/2026)","Depois (18/06/2026)","Redução"],
+      "rows":[
+        ["Braço direito","33,0 cm","32,5 cm","−0,5 cm"],
+        ["Braço esquerdo","32,5 cm","31,5 cm","−1,0 cm"],
+        ["Redução total (D + E)","—","—","−1,5 cm"]
+      ]
+    },
+    {"type":"blank"},
+    {"type":"p","t":"Observa-se redução das medidas em ambos os braços, mais expressiva à esquerda (−1,0 cm), totalizando 1,5 cm ao longo das três sessões, além de melhora subjetiva da firmeza e da textura da pele — resposta compatível com o estímulo de neocolagênese promovido pela radiofrequência (GUIRRO; GUIRRO, 2010)."},
+    {"type":"h2","t":"5.2 Vanessa — abdômen e quadril"},
+    {"type":"p","t":"As medidas de abdômen e quadril da segunda acadêmica, em avaliação inicial (30/04/2026) e final (18/06/2026), são apresentadas no quadro a seguir."},
+    {"type":"table",
+      "header":["Região","Antes (30/04/2026)","Depois (18/06/2026)","Redução"],
+      "rows":[
+        ["Abdômen — 5 cm acima do umbigo","74 cm","70 cm","−4 cm"],
+        ["Abdômen — 10 cm acima do umbigo","77 cm","75 cm","−2 cm"],
+        ["Abdômen — 5 cm abaixo do umbigo","85 cm","83 cm","−2 cm"],
+        ["Abdômen — 10 cm abaixo do umbigo","99 cm","90 cm","−9 cm"],
+        ["Quadril","106 cm","104 cm","−2 cm"]
+      ]
+    },
+    {"type":"blank"},
+    {"type":"p","t":"Houve redução consistente nos quatro pontos do abdômen e no quadril (somando aproximadamente 19 cm), compatível com os procedimentos realizados na região. As medidas das coxas e dos braços da segunda acadêmica não foram incluídas no quadro por inconsistência dos registros (valores de coxa aparentemente trocados entre as avaliações) e por ausência de medida inicial comparável do braço; recomenda-se reconferir esses valores nas anotações da aula antes da inclusão."},
+
+    {"type":"pagebreak"},
+    {"type":"h1","t":"REFERÊNCIAS"},
+    {"type":"ref","t":"AGNE, J. E. Eu sei eletroterapia. Santa Maria: Pallotti, 2009."},
+    {"type":"ref","t":"BORGES, F. S. Dermato-funcional: modalidades terapêuticas nas disfunções estéticas. 2. ed. rev. e ampl. São Paulo: Phorte, 2010."},
+    {"type":"ref","t":"GUIRRO, E. C. O.; GUIRRO, R. R. J. Fisioterapia dermato-funcional: fundamentos, recursos, patologias. 3. ed. rev. e ampl. Barueri: Manole, 2010."}
+  ]
+}

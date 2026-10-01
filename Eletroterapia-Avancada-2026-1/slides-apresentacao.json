@@ -1,0 +1,114 @@
+{
+  "outRel": "../resultados finais/eletroterapia avancada 2026-1/Apresentacao-Eletroterapia-Avancada-Radiofrequencia-Braco.pptx",
+  "footer": "Eletroterapia Avançada 2026/1 — Radiofrequência em braço | UNIPLAC",
+  "slides": [
+    {
+      "type": "capa",
+      "title": "RADIOFREQUÊNCIA PARA REDUÇÃO DE MEDIDAS E FLACIDEZ EM BRAÇO",
+      "subtitle": "Relato de prática em Eletroterapia Avançada — estudo de caso",
+      "author": "Acadêmicas: Paola Bortoli Pinheiro Lopes e Vanessa Melo",
+      "sub2": "Professora: Mariana Macedo Justi • Tec. em Estética e Cosmética — UNIPLAC, Lages/SC — 2026",
+      "notes": "Bom dia. Eu sou a Paola. Vou apresentar nosso relato de prática em eletroterapia: o uso da radiofrequência para reduzir medidas e melhorar a flacidez nos braços, sendo eu a paciente-modelo."
+    },
+    {
+      "type": "content",
+      "title": "Introdução",
+      "bullets": [
+        "Disfunções tratadas: gordura localizada e flacidez nos braços.",
+        "Tecnologia escolhida: radiofrequência (não invasiva, indolor).",
+        "Paciente-modelo: Paola; acompanhamento por perimetria (medição dos braços).",
+        "Avaliações: inicial (30/04/2026) e final (18/06/2026), em paralelo ao protocolo."
+      ],
+      "notes": "O objetivo foi tratar gordura localizada e flacidez nos braços com radiofrequência. Eu fui a paciente-modelo. Medimos os braços no começo, em 30 de abril, e no fim, em 18 de junho."
+    },
+    {
+      "type": "content",
+      "title": "Radiofrequência — o que é",
+      "bullets": [
+        "Corrente elétrica de alta frequência (acima de 250 kHz).",
+        "Aparelhos: capacitivo (~450 kHz) ou resistivo (acima de 1 MHz).",
+        "Gera calor pela agitação das moléculas de água e atrito entre as moléculas do tecido.",
+        "Observação da aula: não é o valor da frequência que determina a qualidade do equipamento."
+      ],
+      "notes": "A radiofrequência é uma corrente de alta frequência, acima de 250 kHz. Pode ser capacitiva, por volta de 450 kHz, ou resistiva, acima de 1 MHz. Ela aquece agitando as moléculas de água do tecido. Como a professora explicou, não é o número da frequência que diz se o aparelho é melhor."
+    },
+    {
+      "type": "content",
+      "title": "Radiofrequência — efeitos fisiológicos",
+      "bullets": [
+        "Vasodilatação e aumento da circulação (a partir de ~40 °C).",
+        "Aumento da atividade metabólica (~13% a cada 1 °C).",
+        "Neocolagênese e neoelastogênese: pico ~21 dias, perdura até 4 meses.",
+        "Lipólise: o calor mobiliza o conteúdo dos adipócitos (gordura localizada).",
+        "Efeito lifting: retração imediata das fibras colágenas."
+      ],
+      "notes": "O calor da radiofrequência aumenta a circulação a partir de 40 graus, acelera o metabolismo, e estimula o fibroblasto a produzir colágeno e elastina novos — com pico em 21 dias e efeito que dura até 4 meses. Também ajuda na lipólise, soltando a gordura, e dá o efeito lifting, que é a retração imediata do colágeno."
+    },
+    {
+      "type": "content",
+      "title": "Por que para flacidez e gordura? Segurança",
+      "bullets": [
+        "Entre 39 °C e 45 °C: retração do colágeno sem dano tecidual.",
+        "Acima de 50 °C: começa a desnaturação — por isso monitorar a temperatura.",
+        "Indicações: flacidez, gordura localizada, celulite, estrias, rejuvenescimento.",
+        "Recurso não invasivo, indolor e bem tolerado (Guirro; Guirro, 2010; Agne, 2009)."
+      ],
+      "notes": "A faixa segura e eficaz fica entre 39 e 45 graus, onde o colágeno retrai sem dano. Acima de 50 graus já começa a desnaturar, por isso eu monitorei a temperatura o tempo todo. A radiofrequência serve para flacidez, gordura, celulite e rejuvenescimento, e é indolor."
+    },
+    {
+      "type": "content",
+      "title": "Protocolo",
+      "bullets": [
+        "Área: braços (direito e esquerdo). Objetivo: flacidez tissular e gordura localizada.",
+        "3 sessões de radiofrequência: 07/05, 28/05 e 18/06 de 2026.",
+        "Técnica: radiofrequência monopolar com placa de retorno; gel condutor + manobras circulares.",
+        "Configuração: 42 °C, potência máxima, 15 min/sessão (frequência a confirmar).",
+        "Sem intercorrências; área hidratada ao final."
+      ],
+      "notes": "Foram três sessões de radiofrequência monopolar nos braços, em 7 de maio, 28 de maio e 18 de junho, sempre com placa de retorno. Usei gel condutor e manobras circulares, mantendo 42 graus, na potência máxima, por 15 minutos em cada braço. Não tive nenhuma intercorrência."
+    },
+    {
+      "type": "content",
+      "title": "Avaliação (perimetria)",
+      "bullets": [
+        "Mensuração da circunferência dos braços com fita métrica.",
+        "Mesma referência anatômica e mesma posição nas duas avaliações.",
+        "Avaliação inicial em 30/04/2026 e final em 18/06/2026.",
+        "Registro fotográfico padronizado (mesma posição e iluminação)."
+      ],
+      "notes": "Para avaliar, eu medi a circunferência dos braços com fita métrica, sempre no mesmo ponto e na mesma posição, na avaliação inicial e na final. Também tirei fotos padronizadas, na mesma posição e luz, para comparar."
+    },
+    {
+      "type": "placeholder",
+      "title": "Antes e Depois",
+      "boxes": ["[INSERIR FOTO — ANTES (30/04/2026)]", "[INSERIR FOTO — DEPOIS (18/06/2026)]"],
+      "images": ["../attachments/Eletroterapia avançada 2026-1/fotos-relatorio/paola-braco-antes.jpg", "../attachments/Eletroterapia avançada 2026-1/fotos-relatorio/paola-braco-depois.jpg"],
+      "notes": "Aqui mostro as fotos dos braços antes e depois, na mesma posição e iluminação, para comparar a melhora da flacidez."
+    },
+    {
+      "type": "table",
+      "title": "Resultado — redução de medidas no braço",
+      "intro": "Perimetria dos braços (em centímetros): avaliação inicial × avaliação final.",
+      "header": ["Região", "Antes (30/04/2026)", "Depois (18/06/2026)", "Redução"],
+      "rows": [
+        ["Braço direito", "33,0 cm", "32,5 cm", "−0,5 cm"],
+        ["Braço esquerdo", "32,5 cm", "31,5 cm", "−1,0 cm"],
+        ["Total (D + E)", "—", "—", "−1,5 cm"]
+      ],
+      "colW": [3.4, 2.8, 2.8, 1.9],
+      "nota": "Resultado de uma paciente-modelo (não generalizável). Além da redução, observou-se melhora subjetiva da firmeza da pele.",
+      "notes": "Este é o resultado. O braço direito reduziu meio centímetro e o esquerdo um centímetro, somando 1,5 cm de redução nas três sessões. Além disso, senti melhora na firmeza da pele. Por ser uma paciente só, não é generalizável, mas mostra a resposta ao protocolo."
+    },
+    {
+      "type": "content",
+      "title": "Considerações finais",
+      "bullets": [
+        "A radiofrequência mostrou-se segura, indolor e bem tolerada.",
+        "Houve redução de medidas nos dois braços (total −1,5 cm) e melhora da firmeza.",
+        "Resposta coerente com a neocolagênese e a lipólise descritas na literatura e na aula.",
+        "Limitações: amostra de 1 modelo; influência de hidratação, dieta e atividade física."
+      ],
+      "notes": "Para concluir: a radiofrequência foi segura e bem tolerada, houve redução de medidas e melhora da firmeza, coerente com a neocolagênese e a lipólise. A limitação é ser só uma modelo. Obrigada."
+    }
+  ]
+}

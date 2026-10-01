@@ -1,0 +1,44 @@
+{
+  "out": "../resultados finais/eletroterapia avancada 2026-1/Cronograma-de-Estudo-Apresentacao.docx",
+  "blocks": [
+    {"type":"center","runs":[{"t":"CRONOGRAMA DE ESTUDO PARA A APRESENTAÇÃO","b":true,"sz":28}]},
+    {"type":"center","runs":[{"t":"Eletroterapia Avançada 2026/1 — Radiofrequência em braço | Paola Bortoli","sz":20}]},
+    {"type":"blank"},
+    {"type":"p","t":"Objetivo: dominar a apresentação (cerca de 8 a 10 minutos), sabendo explicar a radiofrequência, o protocolo e o resultado sem ler os slides. Apresentação dos relatórios: 25/06/2026 (e 02/07/2026). Use as notas do orador de cada slide como roteiro de fala."},
+
+    {"type":"h1","t":"1 PLANO DE ESTUDO (passo a passo)"},
+    {"type":"table",
+      "header":["Etapa","Foco","O que fazer","Tempo"],
+      "rows":[
+        ["1","Entender a RF","Reler os slides 3 a 5: o que é (>250 kHz, capacitivo/resistivo), efeitos (neocolagênese pico 21 dias/até 4 meses; lipólise) e a faixa segura de 39–45 °C.","30 min"],
+        ["2","Decorar os números","Memorizar: 42 °C, potência máxima, 15 min, 3 sessões (07/05, 28/05, 18/06). Resultado: braço dir −0,5; esq −1,0; total −1,5 cm.","20 min"],
+        ["3","Protocolo","Saber explicar: monopolar, placa de retorno, gel condutor, manobras circulares e monitorar a temperatura.","20 min"],
+        ["4","Resultado","Treinar a leitura da tabela de medidas e a conclusão (redução + melhora da firmeza).","15 min"],
+        ["5","Ensaiar em voz alta","Cronometrar ~45–60 s por slide (meta 8–10 min). Falar usando as notas do orador, sem ler o slide.","2× de 15 min"],
+        ["6","Banca","Treinar as respostas das perguntas prováveis (seção 3).","20 min"],
+        ["7","Véspera/dia","Revisar tudo 1×; conferir se a frequência (Hz) e as fotos já estão no arquivo; testar o .pptx no PowerPoint.","20 min"]
+      ]
+    },
+
+    {"type":"h1","t":"2 NÚMEROS-CHAVE (decore)"},
+    {"type":"p","firstLine":true,"t":"• Radiofrequência: corrente de alta frequência (acima de 250 kHz); capacitivo ~450 kHz, resistivo acima de 1 MHz."},
+    {"type":"p","firstLine":true,"t":"• Faixa segura/eficaz: 39–45 °C (retrai o colágeno sem dano); acima de 50 °C começa a desnaturação."},
+    {"type":"p","firstLine":true,"t":"• Configuração usada: monopolar, com placa de retorno, 42 °C, potência máxima, 15 min por sessão."},
+    {"type":"p","firstLine":true,"t":"• Sessões: 3 — 07/05, 28/05 e 18/06/2026. Avaliações: 30/04 (inicial) e 18/06 (final)."},
+    {"type":"p","firstLine":true,"t":"• Resultado (braço): direito 33,0 → 32,5 cm (−0,5); esquerdo 32,5 → 31,5 cm (−1,0); total −1,5 cm + melhora da firmeza."},
+
+    {"type":"h1","t":"3 PERGUNTAS PROVÁVEIS DA BANCA (com respostas)"},
+    {"type":"p","runs":[{"t":"P: O que é a radiofrequência e como ela age? ","b":true},{"t":"R: É uma corrente elétrica de alta frequência (acima de 250 kHz) que aquece o tecido pela agitação das moléculas de água; o calor controlado contrai e estimula novo colágeno (neocolagênese) e favorece a lipólise."}]},
+    {"type":"p","runs":[{"t":"P: Por que trabalhar em torno de 42 °C? ","b":true},{"t":"R: Porque entre 39 e 45 °C o colágeno se retrai sem dano; acima de 50 °C começa a desnaturação. Por isso a temperatura é monitorada."}]},
+    {"type":"p","runs":[{"t":"P: Qual a diferença entre capacitivo e resistivo? ","b":true},{"t":"R: É o tipo de aparelho/acoplamento — capacitivo trabalha em frequência próxima a 450 kHz (camadas mais superficiais) e resistivo acima de 1 MHz (mais profundo). Não é a frequência que define a qualidade do aparelho."}]},
+    {"type":"p","runs":[{"t":"P: Por que usar placa de retorno? ","b":true},{"t":"R: Porque a aplicação foi monopolar; a placa fecha o circuito, permitindo que a corrente atravesse o tecido entre o manípulo e a placa."}]},
+    {"type":"p","runs":[{"t":"P: Como avaliou o resultado? ","b":true},{"t":"R: Por perimetria (medida da circunferência dos braços com fita métrica, mesma referência e posição) e por registro fotográfico padronizado, na avaliação inicial e final."}]},
+    {"type":"p","runs":[{"t":"P: Quais as limitações? ","b":true},{"t":"R: É um relato de caso com uma única modelo (não generalizável) e o resultado pode ser influenciado por hidratação, alimentação e atividade física no período."}]},
+
+    {"type":"h1","t":"4 CHECKLIST DO DIA"},
+    {"type":"p","firstLine":true,"t":"• Levar o arquivo da apresentação + um backup (pendrive/nuvem)."},
+    {"type":"p","firstLine":true,"t":"• Conferir antes: frequência (Hz) preenchida e as 4 fotos inseridas."},
+    {"type":"p","firstLine":true,"t":"• Falar com calma, olhando para a banca; não ler o slide."},
+    {"type":"p","firstLine":true,"t":"• Começar pela introdução e terminar pelo resultado (a tabela de medidas)."}
+  ]
+}
