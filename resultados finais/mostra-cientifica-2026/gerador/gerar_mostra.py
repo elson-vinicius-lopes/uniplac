@@ -5,8 +5,9 @@ sys.stdout.reconfigure(encoding='utf-8')
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import conteudo_mostra as C
 
-TPL = r"C:\Users\elson.lopes\source\repos\uniplac\mostra-cientifica-uniplac"
-OUT = r"C:\Users\elson.lopes\source\repos\uniplac\resultados finais\mostra-cientifica-2026"
+_AQUI = os.path.dirname(os.path.abspath(__file__))
+OUT = os.path.abspath(os.path.join(_AQUI, ".."))                                  # resultados finais/mostra-cientifica-2026
+TPL = os.path.abspath(os.path.join(_AQUI, "..", "..", "..", "mostra-cientifica-uniplac"))  # templates oficiais
 os.makedirs(OUT, exist_ok=True)
 
 # =============================================================== DOCX helpers
@@ -90,6 +91,25 @@ def cabecalho(compacto=False):
         p.append(EMPTY)
     return "".join(p)
 
+def tabela_docx(header, rows, widths):
+    """Tabela Word simples (bordas finas, cabecalho sombreado). widths em dxa."""
+    def tc(txt, w, bold=False, fill=None):
+        shd = '<w:shd w:val="clear" w:color="auto" w:fill="%s"/>' % fill if fill else ''
+        rpr = '<w:rPr>%s<w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr>' % ('<w:b/><w:bCs/>' if bold else '')
+        return ('<w:tc><w:tcPr><w:tcW w:w="%d" w:type="dxa"/>%s</w:tcPr>'
+                '<w:p><w:pPr><w:spacing w:before="20" w:after="20" w:line="240" w:lineRule="auto"/>'
+                '<w:jc w:val="left"/></w:pPr><w:r>%s<w:t xml:space="preserve">%s</w:t></w:r></w:p></w:tc>'
+                % (w, shd, rpr, escape(txt)))
+    bd = ''.join('<w:%s w:val="single" w:sz="4" w:space="0" w:color="808080"/>' % s
+                 for s in ('top', 'left', 'bottom', 'right', 'insideH', 'insideV'))
+    x = ('<w:tbl><w:tblPr><w:tblW w:w="%d" w:type="dxa"/><w:tblBorders>%s</w:tblBorders>'
+         '<w:tblLayout w:type="fixed"/></w:tblPr><w:tblGrid>%s</w:tblGrid>'
+         % (sum(widths), bd, ''.join('<w:gridCol w:w="%d"/>' % w for w in widths)))
+    x += '<w:tr>%s</w:tr>' % ''.join(tc(h, w, bold=True, fill="D9E2F3") for h, w in zip(header, widths))
+    for r in rows:
+        x += '<w:tr>%s</w:tr>' % ''.join(tc(c, w) for c, w in zip(r, widths))
+    return x + '</w:tbl>'
+
 # =============================================================== RESUMO SIMPLES
 def gerar_simples():
     runs = []
@@ -119,6 +139,10 @@ def gerar_expandido():
         if kind == "h":
             body += EMPTY
             body += para(run(txt, bold=True), align="left", spacing_after=60)
+        elif kind == "tbl":
+            body += para(run(C.QUADRO_LEGENDA, bold=True), align="left", spacing_before=60, spacing_after=60)
+            body += tabela_docx(C.QUADRO_HEADER, C.QUADRO_ROWS, [800, 1300, 2700, 1700, 2571])
+            body += para(run("Fonte: dados da pesquisa (2026).", italic=True), align="left", spacing_before=40, spacing_after=60)
         else:
             body += para(runs_italicizados(txt), align="both", indent=851, spacing_after=60)
     body += EMPTY
@@ -155,6 +179,41 @@ def set_ph_text(slide_xml, ph_match, paras_xml):
     end = slide_xml.index('</p:txBody>', start)
     return slide_xml[:start] + paras_xml + slide_xml[end:]
 
+def slide_quadro(sld2, dark):
+    """Slide com o Quadro da metodologia (tabela nativa), no mesmo cartao branco dos demais."""
+    s = set_ph_text(sld2, 'type="title"',
+                    a_para("METODOLOGIA — PROTOCOLO APLICADO", 1600, bold=True, bullet=False,
+                           align="l", space_after=0, color=dark))
+    s = s.replace('<a:off x="311700" y="445025"/><a:ext cx="8520600" cy="572700"/>',
+                  '<a:off x="420000" y="330000"/><a:ext cx="8300000" cy="620000"/>')
+    # remove o placeholder de corpo (a tabela ocupa o lugar dele)
+    i = s.index('type="body"')
+    a = s.rfind('<p:sp>', 0, i)
+    b = s.index('</p:sp>', i) + len('</p:sp>')
+    s = s[:a] + s[b:]
+    larg = [650000, 1150000, 2550000, 1600000, 2350000]          # soma = 8.300.000 EMU
+    ln = ''.join('<a:%s w="6350"><a:solidFill><a:srgbClr val="BFBFBF"/></a:solidFill></a:%s>' % (t, t)
+                 for t in ('lnL', 'lnR', 'lnT', 'lnB'))
+    def tc(txt, bold, fill, cor):
+        return ('<a:tc><a:txBody><a:bodyPr/><a:lstStyle/><a:p><a:pPr algn="l"/>'
+                '<a:r><a:rPr lang="pt-BR" sz="900"%s><a:solidFill><a:srgbClr val="%s"/></a:solidFill></a:rPr>'
+                '<a:t>%s</a:t></a:r></a:p></a:txBody>'
+                '<a:tcPr marL="60000" marR="60000" marT="30000" marB="30000" anchor="ctr">%s'
+                '<a:solidFill><a:srgbClr val="%s"/></a:solidFill></a:tcPr></a:tc>'
+                % (' b="1"' if bold else '', cor, escape(txt), ln, fill))
+    rows = '<a:tr h="330000">%s</a:tr>' % ''.join(tc(h, True, "0B5FA5", "FFFFFF") for h in C.QUADRO_HEADER)
+    for k, r in enumerate(C.QUADRO_ROWS):
+        rows += '<a:tr h="520000">%s</a:tr>' % ''.join(
+            tc(c, False, "EAF2FB" if k % 2 == 0 else "FFFFFF", "1A1A1A") for c in r)
+    frame = ('<p:graphicFrame><p:nvGraphicFramePr><p:cNvPr id="90" name="Quadro da metodologia"/>'
+             '<p:cNvGraphicFramePr><a:graphicFrameLocks noGrp="1"/></p:cNvGraphicFramePr><p:nvPr/>'
+             '</p:nvGraphicFramePr><p:xfrm><a:off x="420000" y="1100000"/><a:ext cx="8300000" cy="2400000"/></p:xfrm>'
+             '<a:graphic><a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">'
+             '<a:tbl><a:tblPr firstRow="1" bandRow="1"/><a:tblGrid>%s</a:tblGrid>%s</a:tbl>'
+             '</a:graphicData></a:graphic></p:graphicFrame>'
+             % (''.join('<a:gridCol w="%d"/>' % w for w in larg), rows))
+    return s.replace('</p:spTree>', frame + '</p:spTree>')
+
 def gerar_pptx():
     src = os.path.join(TPL, "Modelo de Apresentação - Fundo Claro - Mostra Científica.pptx")
     dst = os.path.join(OUT, "Mostra-Cientifica-2026-Apresentacao-AAF-H-pylori.pptx")
@@ -170,7 +229,7 @@ def gerar_pptx():
     DARK = "0F2B5B"; ACC = "0B5FA5"
     # --- capa
     capa = sld1
-    tit = a_para("Alopecia androgenética feminina e saúde gastrointestinal", 1800, bold=True,
+    tit = a_para(C.TITULO, 1300, bold=True,
                  bullet=False, align="ctr", space_after=0, color=DARK)
     capa = set_ph_text(capa, 'type="ctrTitle"', tit)
     sub = "".join(a_para(l, 1100, bullet=False, align="ctr", space_after=200, color=ACC)
@@ -203,7 +262,12 @@ def gerar_pptx():
                       '<a:off x="420000" y="330000"/><a:ext cx="8300000" cy="620000"/>')
         s = s.replace('<a:off x="311700" y="1152475"/><a:ext cx="8520600" cy="2832900"/>',
                       '<a:off x="420000" y="1020000"/><a:ext cx="8300000" cy="3050000"/>')
-        slides.append((s, rel2c))
+        if titulo == "METODOLOGIA":
+            # Edicao da Paola (13/10/2026): o slide de topicos da Metodologia foi removido;
+            # o slide do quadro "METODOLOGIA — PROTOCOLO APLICADO" ocupa o lugar dele.
+            slides.append((slide_quadro(sld2, DARK), rel2c))
+        else:
+            slides.append((s, rel2c))
 
     ct = zin.read('[Content_Types].xml').decode('utf-8')
     pres = zin.read('ppt/presentation.xml').decode('utf-8')

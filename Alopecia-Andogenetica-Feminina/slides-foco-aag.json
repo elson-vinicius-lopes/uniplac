@@ -7,23 +7,11 @@
   "slides": [
     {
       "type": "capa",
-      "title": "ALOPECIA ANDROGENÉTICA FEMININA E SAÚDE GASTROINTESTINAL",
-      "subtitle": "Estudo de caso de um protocolo estético com fotobiomodulação, intradermoterapia capilar e cuidado domiciliar",
+      "title": "ALOPECIA ANDROGENÉTICA FEMININA E SAÚDE GASTROINTESTINAL: ESTUDO DE CASO DE UM PROTOCOLO ESTÉTICO COM FOTOBIOMODULAÇÃO, INTRADERMOTERAPIA CAPILAR E CUIDADO DOMICILIAR",
+      "subtitle": "",
       "author": "Acadêmica: Paola Bortoli Pinheiro Lopes",
       "sub2": "Orientadoras: Profa. Marcia de Liz, Esp. em Tricologia (MBA) e Profa. Mariana Macedo Justi, Esp. em Biomedicina Estética • Tecnologia em Estética e Cosmetologia • UNIPLAC, Lages/SC — 2026",
       "notes": "Bom dia. Eu sou a Paola, do curso de Tecnologia em Estética e Cosmetologia. Vou apresentar o meu artigo: um estudo de caso sobre alopecia androgenética feminina em uma paciente de 60 anos com histórico de gastrite e de infecção por Helicobacter pylori já erradicada."
-    },
-    {
-      "type": "content",
-      "title": "Resumo do trabalho",
-      "bullets": [
-        "O que é: artigo científico no formato de estudo de caso descritivo e qualitativo, com uma única paciente.",
-        "Contexto em uma frase: uma paciente de 60 anos com alopecia androgenética feminina e histórico de gastrite crônica e de Helicobacter pylori já erradicada foi acompanhada com um protocolo estético em duas fases, conduzido em paralelo ao acompanhamento médico.",
-        "O que foi aplicado: fotobiomodulação, intradermoterapia capilar e cuidado domiciliar com tônico capilar.",
-        "O que se observou: melhora do couro cabeludo e novos fios nas áreas rarefeitas, precedidas de uma fase inicial de resposta insatisfatória ligada à baixa adesão domiciliar.",
-        "Palavras-chave: alopecia; fotobiomodulação; intradermoterapia; tricoscopia; Helicobacter pylori."
-      ],
-      "notes": "Antes de entrar nos detalhes, um resumo. Este é um artigo em formato de estudo de caso, com uma paciente de 60 anos que tem alopecia androgenética feminina e histórico de gastrite e H. pylori já erradicada. Apliquei um protocolo em duas fases: fotobiomodulação, intradermoterapia e cuidado em casa. Houve melhora do couro cabeludo e surgimento de novos fios, mas só depois de uma fase inicial em que o resultado ficou abaixo do esperado por baixa adesão."
     },
     {
       "type": "content",
@@ -32,11 +20,9 @@
         "1 Introdução — o que é a alopecia androgenética feminina e por que o caso é relevante.",
         "2 Desenvolvimento — fisiopatologia, fatores sistêmicos associados e recursos estéticos.",
         "3 Método — desenho do estudo, paciente, instrumentos, protocolo e aspectos éticos.",
-        "4 Discussão e resultados — o que funcionou, o que não funcionou e por quê.",
-        "5 Considerações finais — o que o caso permite (e o que não permite) afirmar.",
         "Referências e anexos — elementos pós-textuais."
       ],
-      "notes": "A apresentação segue a estrutura do artigo: introdução, desenvolvimento com o método, discussão dos resultados e considerações finais."
+      "notes": "A apresentação segue a estrutura do artigo: introdução, desenvolvimento e método, com o protocolo aplicado."
     },
     {
       "type": "content",
@@ -117,9 +103,9 @@
         "Mecanismo: estímulo à produção de ATP nas células foliculares, melhora da microcirculação e prolongamento da fase anágena (Avci et al., 2014).",
         "Ganho de aproximadamente 41,9 fios/cm², sem efeitos adversos (Yoon et al., 2020); melhora de densidade confirmada por Sondagar et al. (2023).",
         "Parâmetros usuais: luz vermelha de 650 a 660 nm, fluências de 1 a 10 J/cm², sessões de 15 a 20 minutos (Pillai; Mysore, 2022).",
-        "Resposta bifásica: dose baixa estimula, dose alta inibe — por isso priorizei fluências baixas na fase de estímulo. A luz azul foi usada antes, para controlar inflamação e oleosidade."
+        "Resposta bifásica: dose baixa estimula, dose alta inibe — por isso priorizei fluências baixas."
       ],
-      "notes": "Escolhi a fotobiomodulação porque é segura, não invasiva e tem eficácia em ensaios randomizados. Ela aumenta a energia da célula, melhora a circulação e prolonga a fase de crescimento. Como a resposta é bifásica, dose baixa estimula e dose alta inibe, trabalhei com fluência baixa. A luz azul entrou antes, para desinflamar e controlar a oleosidade."
+      "notes": "Escolhi a fotobiomodulação porque é segura, não invasiva e tem eficácia em ensaios randomizados. Ela aumenta a energia da célula, melhora a circulação e prolonga a fase de crescimento. Como a resposta é bifásica, dose baixa estimula e dose alta inibe, trabalhei com fluência baixa."
     },
     {
       "type": "content",
@@ -145,9 +131,10 @@
         "Referencial teórico: artigos indexados em PubMed/PMC e SciELO, periódicos de dermatologia e tricologia e livros-texto.",
         "Paciente: 60 anos, queixa de queda e rarefação progressiva no topo (vértice), com cerca de três anos de evolução.",
         "Histórico: calvície paterna; gastrite crônica em tratamento; Helicobacter pylori já erradicada e confirmada por exames (Anexos A a G); alterações hormonais; química capilar; estresse elevado e sono fragmentado.",
+        "Antecedente: em 2023 fez um tratamento de desinflamação do couro cabeludo (não realizado pela autora); meses depois notou piora, descobriu H. pylori e gastrite, curou a infecção com antibióticos e a gastrite permaneceu. Em 2024 iniciou-se a estimulação mais intensa: intradermoterapia e fotobiomodulação.",
         "Uso contínuo de medicação pressórica/cardiovascular, cuja bula descreve edema e retenção hídrica entre os efeitos adversos possíveis."
       ],
-      "notes": "É um estudo de caso qualitativo e descritivo, com uma paciente só. Ela tem 60 anos, queixa de queda no topo há uns três anos, pai calvo, gastrite crônica em tratamento e H. pylori já erradicada, confirmada por exames que estão nos anexos. Também tem estresse alto, sono ruim, histórico de química no cabelo e usa medicação contínua para pressão."
+      "notes": "É um estudo de caso qualitativo e descritivo, com uma paciente só. Ela tem 60 anos, queixa de queda no topo há uns três anos, pai calvo, gastrite crônica em tratamento e H. pylori já erradicada, confirmada por exames que estão nos anexos. Também tem estresse alto, sono ruim, histórico de química no cabelo e usa medicação contínua para pressão. Importante: ela já tinha feito, em 2023, um tratamento de desinflamação do couro cabeludo — não fui eu que fiz, ela só me contou. Alguns meses depois ela piorou, descobriu a H. pylori e a gastrite, curou a infecção com antibiótico e ficou só a gastrite. Foi aí que, em 2024, partimos para algo mais forte, com intradermoterapia e laser, por causa da queda e da miniaturização mais acelerada."
     },
     {
       "type": "content",
@@ -170,44 +157,52 @@
       "type": "cronograma",
       "title": "Quadro 1 – Síntese do protocolo aplicado",
       "header": [
-        "Fase",
-        "Recursos",
+        "Etapa",
+        "Período",
+        "Recurso",
         "Frequência",
-        "Base científica"
+        "Como foi feito"
       ],
       "rows": [
         [
-          "Fase 1 — Desinflamação",
-          "Aromaterapia, argiloterapia e fotobiomodulação (luz azul)",
-          "2 sessões/semana",
-          "Avci (2014); Pillai e Mysore (2022)"
+          "1",
+          "Mês 1",
+          "Intradermoterapia (Mescla PHD)",
+          "1 vez por semana",
+          "técnica de pápula, agulha 30G, 2–4 mm, ~0,05–0,1 mL por ponto, pápulas a cada 2 cm"
         ],
         [
-          "Fase 2 — Estímulo (cabine)",
-          "Intradermoterapia (Mescla PHD), técnica de pápula",
-          "Quinzenal",
-          "Uzel (2021); Aledani (2024); Stefanis (2024)"
+          "2",
+          "A partir do mês 2",
+          "Fotobiomodulação (laser vermelho 655–660 nm, ~2 J/cm², ~20 min)",
+          "1 sessão a cada 15 dias",
+          "intercalada com a intradermoterapia"
         ],
         [
-          "Fase 2 — Estímulo (cabine)",
-          "Fotobiomodulação, luz vermelha (650–660 nm, ~20 min)",
-          "2 a 3 sessões/semana",
-          "Yoon (2020); Sondagar (2023); Wang e Chen (2025)"
+          "2",
+          "A partir do mês 2",
+          "Intradermoterapia (mesma técnica)",
+          "1 sessão a cada 15 dias",
+          "intercalada com o laser"
         ],
         [
-          "Homecare",
-          "Tônico Capilia Longa e orientações de higienização, alimentação, sono e estresse",
-          "Uso diário contínuo",
-          "Guo e Katta (2017)"
-        ],
-        [
-          "Reavaliação",
-          "Tricoscopia e registro fotográfico padronizado",
-          "Bimestral",
-          "Kuczara (2024); Michelle, Shilpa e Leelavathy (2022)"
+          "Contínuo",
+          "Todo o período",
+          "Tônico Capilia Longa",
+          "diário, em casa",
+          "cuidado domiciliar"
         ]
       ],
-      "notes": "O protocolo teve duas fases, respeitando a lógica de desinflamar antes de estimular, porque só um couro cabeludo equilibrado responde bem ao estímulo. A fase 1 usou aromaterapia, argiloterapia e luz azul. A fase 2, intradermoterapia com a mescla PHD e luz vermelha, com o homecare diário e reavaliação bimestral. A série de sessões inicialmente prevista foi estendida por causa da resposta mais lenta que o esperado."
+      "notes": "O protocolo que eu apliquei foi de estímulo: intradermoterapia com a mescla PHD e luz vermelha, com o homecare diário e reavaliação bimestral. A desinflamação foi um tratamento anterior da paciente, que eu só cito como antecedente. A série de sessões inicialmente prevista foi estendida por causa da resposta mais lenta que o esperado.",
+      "colW": [
+        1,
+        1.7,
+        3.3,
+        2.2,
+        3.9
+      ],
+      "fontSize": 12,
+      "rowH": 0.8
     },
     {
       "type": "content",
@@ -219,59 +214,6 @@
         "O TCLE autoriza os procedimentos, o registro fotográfico e a divulgação acadêmica das imagens e dos exames, preservada a identificação."
       ],
       "notes": "O trabalho seguiu a Resolução 466 de 2012, com aprovação prévia do Comitê de Ética em Pesquisa da UNIPLAC sob o número 6.603.39. A paciente assinou o Termo de Consentimento Livre e Esclarecido, autorizando os procedimentos, as fotos e a divulgação acadêmica com a identificação preservada."
-    },
-    {
-      "type": "content",
-      "title": "4 Discussão e resultados — o que foi bem",
-      "bullets": [
-        "A evolução do caso não foi linear, e relatar isso com honestidade faz parte do resultado científico.",
-        "Fase 1: controle satisfatório da inflamação e da oleosidade; ao final da etapa, hiperemia e oleosidade reduzidas.",
-        "Couro cabeludo equilibrado — condição necessária para iniciar a fase de estímulo.",
-        "Após a correção de conduta (adiante): aumento da microcirculação e surgimento de novos fios nos espaçamentos das áreas antes rarefeitas.",
-        "Melhora da condição geral do couro cabeludo, acompanhada por tricoscopia e registro fotográfico padronizado."
-      ],
-      "imgs": [
-        "registro-topo.jpeg",
-        "registro-frontal.jpeg"
-      ],
-      "imgCaption": "Figura 4 – Registro fotográfico padronizado da região do topo (arquivo da autora, 2026)",
-      "notes": "Começo pelo que foi bem. A fase 1 funcionou: a inflamação e a oleosidade caíram e o couro cabeludo ficou equilibrado, que era a condição para estimular. Depois da correção de conduta, que eu explico no próximo slide, apareceram fios novos nos espaços das áreas rarefeitas e a microcirculação melhorou."
-    },
-    {
-      "type": "content",
-      "title": "Discussão — o que não foi bem e como foi corrigido",
-      "bullets": [
-        "Na transição para a Fase 2, a resposta ficou aquém do esperado: a tricoscopia não mostrou o ganho de densidade previsto e a paciente percebeu aumento transitório da queda.",
-        "Reanamnese: higienização insuficiente, com intervalos longos entre lavagens e acúmulo de sebo sobre os óstios foliculares, e uso irregular do tônico domiciliar.",
-        "Correção de conduta: reforço da orientação de frequência e técnica de higienização, revisão dos produtos de casa, retomada sistemática do tônico e acompanhamento da adesão a cada sessão.",
-        "Após o ajuste, a resposta clínica mudou de forma perceptível — e a série de sessões foi estendida, adequando o cronograma ao ritmo real da paciente.",
-        "A adesão domiciliar mostrou-se o determinante mais evidente da oscilação da resposta."
-      ],
-      "notes": "Agora o que não foi bem. Na entrada da fase 2 a resposta ficou abaixo do esperado e ela sentiu até um aumento da queda. Investigando na reanamnese, apareceu o motivo: ela lavava pouco o cabelo, acumulando sebo sobre os óstios, e esquecia o tônico. Corrigi a conduta, reforcei orientação, revisei os produtos e passei a checar a adesão toda sessão. Depois disso a resposta mudou, e eu estendi a série de sessões."
-    },
-    {
-      "type": "content",
-      "title": "Discussão — o que o caso não permite afirmar",
-      "bullets": [
-        "Os resultados não podem ser atribuídos isoladamente a um único recurso: o protocolo foi combinado (Kaiser et al., 2022).",
-        "Estudo de caso único: delineamento que não permite inferência causal nem generalização.",
-        "Fatores de confusão: natureza multifatorial da AAF (genética, hormônios, idade, química capilar); adesão; sedentarismo, estresse e sono fragmentado; medicação contínua com edema e retenção hídrica entre os efeitos possíveis.",
-        "Histórico de Helicobacter pylori e gastrite crônica: podem ter contribuído para deficiências de micronutrientes nos anos anteriores — coexistência e fator associado plausível, não relação de causa e efeito.",
-        "Reitera-se: a evidência direta H. pylori ↔ queda capilar é de alopecia areata, de mecanismo autoimune distinto."
-      ],
-      "notes": "É importante dizer o que o caso não permite afirmar. Como combinei recursos, não dá para isolar a contribuição de cada um. É um caso único, então não há inferência causal nem generalização. Há vários fatores de confusão: genética, hormônios, idade, química, adesão, estresse, sono e a medicação contínua. E sobre a H. pylori, reforço: é coexistência e fator associado plausível, não causa. A evidência direta é de alopecia areata."
-    },
-    {
-      "type": "content",
-      "title": "5 Considerações finais",
-      "bullets": [
-        "O protocolo em duas fases — desinflamação seguida de estímulo — foi bem tolerado e acompanhou-se de melhora do couro cabeludo e de surgimento de novos fios nas áreas rarefeitas.",
-        "A adesão às orientações domiciliares foi o fator mais determinante da qualidade da resposta: o período de descuido coincidiu com estagnação e piora percebida.",
-        "Educação e acompanhamento próximo da paciente são componentes do próprio protocolo, não recomendações acessórias.",
-        "Saúde gastrointestinal: H. pylori pregressa, gastrite crônica e seu tratamento são fatores sistêmicos associados, com plausibilidade mecanística (má absorção e estresse oxidativo) — não causa isolada nem determinante.",
-        "Limitações: caso único, sem grupo controle, recursos combinados e avaliação predominantemente qualitativa. Estudos futuros: amostras maiores, dosagem seriada de ferritina, B12 e zinco e medida quantitativa de densidade."
-      ],
-      "notes": "Concluindo: o protocolo em duas fases foi bem tolerado e acompanhou melhora do couro cabeludo e fios novos. O fator mais determinante foi a adesão da paciente em casa, o que mostra que educar e acompanhar faz parte do protocolo. Sobre a saúde gastrointestinal, é fator associado com plausibilidade mecanística, nunca causa isolada. As limitações são o caso único, sem controle, com recursos combinados, e a sugestão é estudar isso com amostras maiores e exames laboratoriais seriados."
     },
     {
       "type": "refs",

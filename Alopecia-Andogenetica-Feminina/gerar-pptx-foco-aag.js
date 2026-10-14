@@ -58,8 +58,9 @@ for (const sl of data.slides) {
     const s = p.addSlide({ masterName: "M" });
     logos(s, 0.35, 1.15);
     s.addShape(p.ShapeType.rect, { x: 0, y: 2.2, w: "100%", h: 2.9, fill: { color: PRIM } });
-    s.addText(sl.title, { x: 0.5, y: 2.35, w: 12.3, h: 1.0, align: "center", fontFace: FONT, fontSize: 34, bold: true, color: WHITE });
-    s.addText(sl.subtitle, { x: 1.0, y: 3.35, w: 11.3, h: 1.5, align: "center", fontFace: FONT, fontSize: 16, italic: true, color: WHITE });
+    const longo = sl.title.length > 70;   // titulo extenso: letra menor e caixa maior
+    s.addText(sl.title, { x: 0.6, y: longo ? 2.3 : 2.35, w: 12.1, h: longo ? 2.6 : 1.0, align: "center", valign: longo ? "middle" : "top", fontFace: FONT, fontSize: longo ? 26 : 34, bold: true, color: WHITE });
+    if (sl.subtitle) s.addText(sl.subtitle, { x: 1.0, y: 3.35, w: 11.3, h: 1.5, align: "center", fontFace: FONT, fontSize: 16, italic: true, color: WHITE });
     s.addText([
       { text: sl.author + "\n", options: { fontSize: 16, bold: true } },
       { text: sl.sub2, options: { fontSize: 12, color: GRAY } },
@@ -82,6 +83,21 @@ for (const sl of data.slides) {
     const ty = sl.intro ? 2.0 : 1.35;
     if (sl.intro) s.addText(sl.intro, { x: 0.6, y: 1.3, w: 12.1, h: 0.55, fontFace: FONT, fontSize: 15, color: DARK, valign: "top" });
     s.addTable([head, ...body], { x: 0.6, y: ty, w: 12.1, colW: sl.colW || [3.1, 3.3, 2.5, 3.2], border: { type: "solid", color: "BFBFBF", pt: 0.5 }, rowH: sl.rowH || 0.55, autoPage: false });
+  } else if (sl.type === "placeholder") {
+    // foto antes/depois: usa o arquivo se existir; senao, quadro tracejado reservado
+    if (sl.bullets) bulletsBox(s, sl.bullets, { h: 1.0 });
+    const boxes = sl.boxes || ["[INSERIR FOTO — ANTES]", "[INSERIR FOTO — DEPOIS]"];
+    const y = sl.bullets ? 2.5 : 1.5, h = 4.2, w = 5.6;
+    boxes.slice(0, 2).forEach((label, i) => {
+      const x = i === 0 ? 0.9 : 6.85;
+      const ip = sl.images && sl.images[i] ? path.resolve(DIR, sl.images[i]) : null;
+      if (ip && fs.existsSync(ip)) {
+        s.addImage({ path: ip, x, y, w, h, sizing: { type: "contain", w, h } });
+      } else {
+        s.addShape(p.ShapeType.rect, { x, y, w, h, fill: { color: "F2F2F2" }, line: { color: "AAAAAA", width: 1, dashType: "dash" } });
+        s.addText(label, { x, y, w, h, align: "center", valign: "middle", fontFace: FONT, fontSize: 16, italic: true, color: "777777" });
+      }
+    });
   } else if (sl.type === "refs") {
     bulletsBox(s, sl.items, { fontSize: 14, lineSpacingMultiple: 1.15 });
   }

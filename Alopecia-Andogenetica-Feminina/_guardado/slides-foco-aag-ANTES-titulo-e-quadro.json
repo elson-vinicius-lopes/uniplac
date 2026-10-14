@@ -1,0 +1,234 @@
+{
+  "outRel": "../resultados finais/estudo de caso/Alopecia-Androgenetica-Feminina-Estudo-de-Caso-REVISADO.pptx",
+  "assetsRel": "./assets-aag",
+  "logoLeft": "logo-uniplac.png",
+  "logoRight": "logo-labest.jpeg",
+  "footer": "Alopecia androgenética feminina e saúde gastrointestinal — estudo de caso | UNIPLAC 2026",
+  "slides": [
+    {
+      "type": "capa",
+      "title": "ALOPECIA ANDROGENÉTICA FEMININA E SAÚDE GASTROINTESTINAL",
+      "subtitle": "Estudo de caso de um protocolo estético com fotobiomodulação, intradermoterapia capilar e cuidado domiciliar",
+      "author": "Acadêmica: Paola Bortoli Pinheiro Lopes",
+      "sub2": "Orientadoras: Profa. Marcia de Liz, Esp. em Tricologia (MBA) e Profa. Mariana Macedo Justi, Esp. em Biomedicina Estética • Tecnologia em Estética e Cosmetologia • UNIPLAC, Lages/SC — 2026",
+      "notes": "Bom dia. Eu sou a Paola, do curso de Tecnologia em Estética e Cosmetologia. Vou apresentar o meu artigo: um estudo de caso sobre alopecia androgenética feminina em uma paciente de 60 anos com histórico de gastrite e de infecção por Helicobacter pylori já erradicada."
+    },
+    {
+      "type": "content",
+      "title": "Como está organizado o artigo",
+      "bullets": [
+        "1 Introdução — o que é a alopecia androgenética feminina e por que o caso é relevante.",
+        "2 Desenvolvimento — fisiopatologia, fatores sistêmicos associados e recursos estéticos.",
+        "3 Método — desenho do estudo, paciente, instrumentos, protocolo e aspectos éticos.",
+        "Referências e anexos — elementos pós-textuais."
+      ],
+      "notes": "A apresentação segue a estrutura do artigo: introdução, desenvolvimento e método, com o protocolo aplicado."
+    },
+    {
+      "type": "content",
+      "title": "1 Introdução — a alopecia androgenética feminina",
+      "bullets": [
+        "Forma mais comum de perda capilar progressiva; decorre da ação da di-hidrotestosterona (DHT) em folículos geneticamente predispostos (Ho; Sood; Zito, 2024).",
+        "Na mulher: rarefação difusa do topo, com preservação da linha frontal (Singal; Sonthalia; Verma, 2013).",
+        "A prevalência cresce com a idade: de cerca de 1,3% entre 18 e 29 anos para aproximadamente 11,8% após os 70 anos.",
+        "Além do impacto estético, há repercussão emocional relevante — o que justifica condutas estéticas seguras e baseadas em evidências.",
+        "Objetivo do artigo: descrever e discutir os resultados de um protocolo de fotobiomodulação, intradermoterapia e cuidado domiciliar, em paralelo ao acompanhamento médico."
+      ],
+      "notes": "A alopecia androgenética é a queda capilar mais comum e progressiva. Na mulher, rareia o topo e preserva a linha da frente. A prevalência sobe muito com a idade. O objetivo do artigo é descrever e discutir os resultados do protocolo estético que apliquei, sempre em paralelo ao médico."
+    },
+    {
+      "type": "content",
+      "title": "2 Desenvolvimento — fisiopatologia: DHT e genética",
+      "bullets": [
+        "A 5-alfa-redutase (isoforma tipo 2, SRD5A2) converte testosterona em DHT.",
+        "A DHT encurta a fase anágena e miniaturiza o folículo, substituindo fios terminais por velos (Ntshingila et al., 2023).",
+        "Cai a relação anágeno/telógeno, normalmente próxima de 12:1 (Ho; Sood; Zito, 2024).",
+        "Fenótipo poligênico, herdabilidade estimada em 0,81; o gene do receptor androgênico responde por até 40% do risco (Martinez-Jacobo et al., 2018).",
+        "No caso: histórico familiar de calvície (pai da paciente), coerente com esse componente genético."
+      ],
+      "notes": "A enzima 5-alfa-redutase transforma testosterona em DHT. A DHT encurta a fase de crescimento e vai afinando o fio, o que chamamos de miniaturização. Há forte componente genético, e a paciente tem histórico familiar: o pai é calvo."
+    },
+    {
+      "type": "content",
+      "title": "Quadro clínico e classificação — escala de Ludwig",
+      "bullets": [
+        "Padrão feminino: afinamento difuso da coroa, com preservação da linha frontal.",
+        "Escala de Ludwig: três estágios de gravidade (Singal; Sonthalia; Verma, 2013).",
+        "A classificação orienta o planejamento do protocolo e a comparação evolutiva."
+      ],
+      "imgs": [
+        "escala-ludwig.png"
+      ],
+      "imgCaption": "Figura 1 – Escala de Ludwig (adaptado de Singal, Sonthalia e Verma, 2013)",
+      "notes": "Na mulher, o padrão é o afinamento da coroa preservando a frente. A escala de Ludwig classifica a gravidade em três estágios e ajuda a acompanhar a evolução."
+    },
+    {
+      "type": "content",
+      "title": "Fatores sistêmicos associados: absorção de micronutrientes",
+      "bullets": [
+        "A infecção por Helicobacter pylori está associada à anemia ferropriva por gastrite crônica e redução da acidez gástrica (Does..., 2010).",
+        "O próprio tratamento pesa: o uso prolongado de inibidores da bomba de prótons reduz a acidez necessária à liberação do ferro não heme e à absorção da vitamina B12.",
+        "Ferritina baixa associa-se à alopecia feminina: média de 37,3 ng/mL nas pacientes contra 59,5 ng/mL nos controles (Kantor et al., 2003).",
+        "Ferro, zinco, vitamina B12 e aporte proteico sustentam a fase anágena — o folículo é uma das estruturas de maior taxa mitótica do corpo (Guo; Katta, 2017)."
+      ],
+      "notes": "Aqui entra a parte gastrointestinal. A H. pylori e a gastrite crônica reduzem a acidez do estômago e prejudicam a absorção de ferro e de B12. E o próprio remédio da gastrite, o inibidor de bomba de prótons, faz o mesmo. Ferritina baixa está associada à queda capilar feminina, e o folículo depende desses nutrientes para manter a fase de crescimento."
+    },
+    {
+      "type": "content",
+      "title": "Delimitação científica: fator associado, nunca causa",
+      "bullets": [
+        "A evidência direta que liga Helicobacter pylori à queda capilar concentra-se na alopecia AREATA, de mecanismo autoimune — não na androgenética.",
+        "Não há, na literatura consultada, evidência que autorize afirmar que a infecção cause a alopecia androgenética feminina.",
+        "O que se sustenta é uma ponte mecanística indireta e plausível: má absorção de micronutrientes + estresse oxidativo sistêmico, ambos documentadamente associados ao agravamento da queda.",
+        "Portanto: a condição gastrointestinal é tratada como fator coadjuvante e potencialmente acelerador, jamais como causa determinante.",
+        "Consequência prática (terapêutica): por existir possibilidade de má absorção, a via intradérmica — que entrega o ativo direto no plano dérmico — é coerente com o perfil da paciente."
+      ],
+      "notes": "Este slide é o cuidado metodológico central do trabalho. A evidência direta entre H. pylori e queda de cabelo é de alopecia areata, que é autoimune, e não da androgenética. Eu não afirmo causalidade. O que a literatura sustenta é uma ponte indireta: má absorção de nutrientes e estresse oxidativo. Por isso trato a questão gastrointestinal como fator associado, coadjuvante. E isso tem uma consequência prática: como pode haver má absorção, faz sentido levar o ativo direto pela via intradérmica."
+    },
+    {
+      "type": "content",
+      "title": "Estresse oxidativo e ambiente folicular",
+      "bullets": [
+        "Prie et al. (2016) evidenciaram estresse oxidativo na alopecia androgenética: queda da capacidade antioxidante total, elevação do malondialdeído (p<0,001) e redução da superóxido dismutase.",
+        "Estresse oxidativo + inflamação sistêmica de baixo grau + microcirculação perifolicular comprometida = elo mecanístico compartilhado.",
+        "Elo compartilhado não é relação determinística: explica plausibilidade, não causalidade."
+      ],
+      "notes": "O estresse oxidativo já está documentado na alopecia androgenética. Junto com a inflamação de baixo grau e a piora da microcirculação, ele é o elo que liga a condição gastrointestinal à progressão da queda. Mas é um elo de plausibilidade, não de causa."
+    },
+    {
+      "type": "content",
+      "title": "Recursos empregados — fotobiomodulação",
+      "bullets": [
+        "Modalidade não invasiva, segura e com eficácia demonstrada em ensaios randomizados.",
+        "Mecanismo: estímulo à produção de ATP nas células foliculares, melhora da microcirculação e prolongamento da fase anágena (Avci et al., 2014).",
+        "Ganho de aproximadamente 41,9 fios/cm², sem efeitos adversos (Yoon et al., 2020); melhora de densidade confirmada por Sondagar et al. (2023).",
+        "Parâmetros usuais: luz vermelha de 650 a 660 nm, fluências de 1 a 10 J/cm², sessões de 15 a 20 minutos (Pillai; Mysore, 2022).",
+        "Resposta bifásica: dose baixa estimula, dose alta inibe — por isso priorizei fluências baixas."
+      ],
+      "notes": "Escolhi a fotobiomodulação porque é segura, não invasiva e tem eficácia em ensaios randomizados. Ela aumenta a energia da célula, melhora a circulação e prolonga a fase de crescimento. Como a resposta é bifásica, dose baixa estimula e dose alta inibe, trabalhei com fluência baixa."
+    },
+    {
+      "type": "content",
+      "title": "Recursos empregados — intradermoterapia e cuidado domiciliar",
+      "bullets": [
+        "Microinjeções levam o ativo direto ao folículo e contornam as barreiras de absorção gastrointestinal.",
+        "Técnica de pápula: 30G, 2 a 4 mm, ~0,05 a 0,1 mL por ponto, pápulas a cada 2 cm.",
+        "Mescla PHD: Minoxidil 8 mg; Nanofatores 1%; Latanoprosta 50 mcg; Pill Food; Lidocaína 20 mg.",
+        "Evidência: Uzel et al. (2021); Aledani et al. (2024); Stefanis et al. (2024).",
+        "Homecare: tônico Capilia Longa (cúrcuma), que auxilia na inibição da conversão de testosterona em DHT, mais higienização, alimentação, sono e manejo do estresse."
+      ],
+      "imgs": [
+        "capilia-longa.png"
+      ],
+      "imgCaption": "Cuidado domiciliar — tônico com Capilia Longa (cúrcuma)",
+      "notes": "A intradermoterapia leva o ativo direto ao folículo, o que faz sentido justamente porque a absorção pelo intestino pode estar comprometida. Aplico por pápulas, com agulha 30G, a cada dois centímetros. A mescla PHD tem minoxidil, nanofatores, latanoprosta, vitaminas e anestésico. Em casa ela usa o tônico de cúrcuma, além das orientações de higienização, alimentação, sono e estresse."
+    },
+    {
+      "type": "content",
+      "title": "3 Método — desenho do estudo e a paciente",
+      "bullets": [
+        "Pesquisa qualitativa, do tipo estudo de caso descritivo, com uma única paciente do sexo feminino.",
+        "Referencial teórico: artigos indexados em PubMed/PMC e SciELO, periódicos de dermatologia e tricologia e livros-texto.",
+        "Paciente: 60 anos, queixa de queda e rarefação progressiva no topo (vértice), com cerca de três anos de evolução.",
+        "Histórico: calvície paterna; gastrite crônica em tratamento; Helicobacter pylori já erradicada e confirmada por exames (Anexos A a G); alterações hormonais; química capilar; estresse elevado e sono fragmentado.",
+        "Antecedente: em 2023 fez um tratamento de desinflamação do couro cabeludo (não realizado pela autora); meses depois notou piora, descobriu H. pylori e gastrite, curou a infecção com antibióticos e a gastrite permaneceu. Em 2024 iniciou-se a estimulação mais intensa: intradermoterapia e fotobiomodulação.",
+        "Uso contínuo de medicação pressórica/cardiovascular, cuja bula descreve edema e retenção hídrica entre os efeitos adversos possíveis."
+      ],
+      "notes": "É um estudo de caso qualitativo e descritivo, com uma paciente só. Ela tem 60 anos, queixa de queda no topo há uns três anos, pai calvo, gastrite crônica em tratamento e H. pylori já erradicada, confirmada por exames que estão nos anexos. Também tem estresse alto, sono ruim, histórico de química no cabelo e usa medicação contínua para pressão. Importante: ela já tinha feito, em 2023, um tratamento de desinflamação do couro cabeludo — não fui eu que fiz, ela só me contou. Alguns meses depois ela piorou, descobriu a H. pylori e a gastrite, curou a infecção com antibiótico e ficou só a gastrite. Foi aí que, em 2024, partimos para algo mais forte, com intradermoterapia e laser, por causa da queda e da miniaturização mais acelerada."
+    },
+    {
+      "type": "content",
+      "title": "3 Método — instrumentos e diagnóstico estético-funcional",
+      "bullets": [
+        "Anamnese capilar, tricoscopia com fotovideodermatoscópio e foto padronizada (mesma luz, enquadramento e distância).",
+        "Avaliação inicial: sinais inflamatórios, hiperemia e oleosidade aumentada.",
+        "Achados: rarefação no topo/vértice, miniaturização, maior espaçamento interfolicular e diversidade de calibre.",
+        "Anisotricose em ~90% dos casos femininos (Kuczara et al., 2024); tricoscopia supera o tricograma, 72% x 62% (Galliker; Trüeb, 2012).",
+        "Diagnóstico estético-funcional: padrão compatível com AAF."
+      ],
+      "imgs": [
+        "tricoscopia-1.png",
+        "tricoscopia-2.png"
+      ],
+      "imgCaption": "Figuras 2 e 3 — Tricoscopia da paciente (arquivo da autora, 2026)",
+      "notes": "Usei anamnese, tricoscopia e foto padronizada, sempre na mesma luz e distância. Na avaliação inicial o couro cabeludo estava inflamado e oleoso. Na tricoscopia dá para ver fios grossos junto de fios finos, que é a anisotricose, o marcador mais confiável, e o espaçamento entre os folículos."
+    },
+    {
+      "type": "cronograma",
+      "title": "Quadro 1 – Síntese do protocolo aplicado",
+      "header": [
+        "Etapa",
+        "Recursos",
+        "Frequência",
+        "Base científica"
+      ],
+      "rows": [
+        [
+          "Estímulo (cabine)",
+          "Intradermoterapia (Mescla PHD), técnica de pápula",
+          "Quinzenal",
+          "Uzel (2021); Aledani (2024); Stefanis (2024)"
+        ],
+        [
+          "Estímulo (cabine)",
+          "Fotobiomodulação, luz vermelha (650–660 nm, ~20 min)",
+          "2 a 3 sessões/semana",
+          "Yoon (2020); Sondagar (2023); Wang e Chen (2025)"
+        ],
+        [
+          "Homecare",
+          "Tônico Capilia Longa e orientações de higienização, alimentação, sono e estresse",
+          "Uso diário contínuo",
+          "Guo e Katta (2017)"
+        ],
+        [
+          "Reavaliação",
+          "Tricoscopia e registro fotográfico padronizado",
+          "Bimestral",
+          "Kuczara (2024); Michelle, Shilpa e Leelavathy (2022)"
+        ]
+      ],
+      "notes": "O protocolo que eu apliquei foi de estímulo: intradermoterapia com a mescla PHD e luz vermelha, com o homecare diário e reavaliação bimestral. A desinflamação foi um tratamento anterior da paciente, que eu só cito como antecedente. A série de sessões inicialmente prevista foi estendida por causa da resposta mais lenta que o esperado."
+    },
+    {
+      "type": "content",
+      "title": "Aspectos éticos",
+      "bullets": [
+        "Princípios éticos da pesquisa com seres humanos conforme a Resolução 466/12 do Conselho Nacional de Saúde.",
+        "Aprovação prévia pelo Comitê de Ética em Pesquisa (CEP) da UNIPLAC, sob o número 6.603.39.",
+        "Termo de Consentimento Livre e Esclarecido (TCLE) assinado pela paciente modelo.",
+        "O TCLE autoriza os procedimentos, o registro fotográfico e a divulgação acadêmica das imagens e dos exames, preservada a identificação."
+      ],
+      "notes": "O trabalho seguiu a Resolução 466 de 2012, com aprovação prévia do Comitê de Ética em Pesquisa da UNIPLAC sob o número 6.603.39. A paciente assinou o Termo de Consentimento Livre e Esclarecido, autorizando os procedimentos, as fotos e a divulgação acadêmica com a identificação preservada."
+    },
+    {
+      "type": "refs",
+      "title": "Referências principais",
+      "items": [
+        "AVCI, P. et al. Low-level laser (light) therapy for treatment of hair loss. Lasers in Surgery and Medicine, 2014.",
+        "DOES Helicobacter pylori infection play a role in iron deficiency anemia? A meta-analysis. World J. Gastroenterol., 2010.",
+        "GUO, E. L.; KATTA, R. Diet and hair loss: effects of nutrient deficiency and supplement use. Dermatol. Pract. Concept., 2017.",
+        "HO, C. H.; SOOD, T.; ZITO, P. M. Androgenetic alopecia. StatPearls, 2024.",
+        "KANTOR, J. et al. Decreased serum ferritin is associated with alopecia in women. J. Invest. Dermatol., 2003.",
+        "KUCZARA, K. et al. Trichoscopy of androgenetic alopecia: a systematic review. J. Clin. Med., 2024.",
+        "PRIE, B. E. et al. Oxidative stress in androgenetic alopecia. J. Med. Life, 2016.",
+        "UZEL, B. P. K. et al. Intradermal 0,5% minoxidil in female androgenetic alopecia: RCT. Dermatol. Ther., 2021.",
+        "YOON, J. S. et al. LLLT helmet for androgenetic alopecia: randomized sham-controlled trial. Medicine, 2020.",
+        "Lista completa (27 referências, com link e data de acesso) no artigo em Word/PDF."
+      ],
+      "notes": "Estas são as referências principais. A lista completa, com os links e as datas de acesso, está no artigo entregue em Word e em PDF."
+    },
+    {
+      "type": "content",
+      "title": "Anexos, créditos e pendências",
+      "bullets": [
+        "Anexos A a G: exames anatomopatológicos e endoscópicos (2025) e exame de controle (2026) com confirmação da erradicação da infecção — apresentados mediante autorização expressa no TCLE.",
+        "Os exames comprovam o acompanhamento médico e a erradicação; não são objeto de análise laboratorial neste estudo.",
+        "Anexo H — Ficha de anamnese capilar: PENDENTE de digitalização e inclusão pela autora.",
+        "Orientadoras: Profa. Marcia de Liz — Tecnóloga em Cosmetologia e Estética pela UNIPLAC, Especialista em Estética e Imagem Corporal e MBA em Tricologia, Coordenadora do Curso de Tecnologia em Estética e Cosmetologia da UNIPLAC, Tricologista; e Profa. Mariana Macedo Justi — Biomédica e Cosmetóloga Esteta pela UNIPLAC, Especialista em Biomedicina Estética e em Ozonioterapia na Estética.",
+        "Agradecimentos: à paciente modelo, às professoras orientadoras e ao corpo docente do curso de Tecnologia em Estética e Cosmetologia da UNIPLAC."
+      ],
+      "notes": "Nos anexos estão os exames que comprovam o acompanhamento médico e a erradicação da infecção, todos com autorização no TCLE. A ficha de anamnese, o anexo H, ainda está pendente de digitalização. Agradeço à paciente modelo, às orientadoras e ao corpo docente. Obrigada pela atenção."
+    }
+  ]
+}

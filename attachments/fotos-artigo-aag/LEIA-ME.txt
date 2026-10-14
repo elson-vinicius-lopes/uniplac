@@ -1,0 +1,13 @@
+FOTOS ANTES / DEPOIS DO ARTIGO (alopecia androgenetica feminina)
+=================================================================
+
+Salve as fotos aqui com EXATAMENTE estes nomes (.jpg):
+
+  antes.jpg    -> foto ANTES (inicio do protocolo)
+  depois.jpg   -> foto DEPOIS (mesma regiao, mesma luz, mesmo enquadramento e distancia)
+
+Importante: a foto do "depois" deve ser da MESMA regiao e nas MESMAS condicoes da
+foto do "antes" (a foto de referencia que ja existe no artigo e do topo, nao e "depois").
+
+Quando as duas estiverem aqui, e so pedir para regerar o artigo e o PowerPoint:
+as fotos entram sozinhas no lugar dos quadros tracejados "[INSERIR FOTO]".

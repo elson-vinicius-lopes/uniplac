@@ -1,0 +1,233 @@
+{
+  "out": "../resultados finais/estudo de caso/Alopecia-Androgenetica-Feminina-ARTIGO.docx",
+  "footnotes": {
+    "1": "Paola Bortoli Pinheiro Lopes. Graduanda do curso de Tecnologia em Estética e Cosmetologia pela Universidade do Planalto Catarinense — UNIPLAC. E-mail: paolabortolilionn@gmail.com.",
+    "2": "Marcia de Liz. Orientadora. Tecnóloga em Cosmetologia e Estética Facial e Corporal pela Universidade do Planalto Catarinense — UNIPLAC. Especialista em Estética e Imagem Corporal e MBA em Tricologia. Coordenadora do Curso de Tecnologia em Estética e Cosmetologia da UNIPLAC. Tricologista. Lattes: http://lattes.cnpq.br/5077931888781194.",
+    "3": "Mariana Macedo Justi. Orientadora. Biomédica e Cosmetóloga Esteta pela Universidade do Planalto Catarinense — UNIPLAC. Especialista em Biomedicina Estética e em Ozonioterapia na Estética. Docente do curso de Tecnologia em Estética e Cosmetologia da UNIPLAC. Lattes: http://lattes.cnpq.br/5883666144835290."
+  },
+  "blocks": [
+    {"type":"titulo","t":"Alopecia androgenética feminina e saúde gastrointestinal: estudo de caso de um protocolo estético com fotobiomodulação, intradermoterapia capilar e cuidado domiciliar"},
+
+    {"type":"autoria","runs":[{"t":"Paola Bortoli Pinheiro Lopes"},{"fn":1}]},
+    {"type":"autoria","runs":[{"t":"Marcia de Liz"},{"fn":2}]},
+    {"type":"autoria","runs":[{"t":"Mariana Macedo Justi"},{"fn":3}],"after":240},
+
+    {"type":"h1","t":"RESUMO","center":true},
+    {"type":"p0","runs":[
+      {"t":"A alopecia androgenética feminina é uma disfunção capilar crônica, progressiva e multifatorial, de base genética e hormonal, caracterizada pela miniaturização folicular e pela rarefação difusa do topo do couro cabeludo. Sua progressão pode ser modulada por fatores sistêmicos, entre os quais as alterações gastrointestinais capazes de comprometer a absorção de micronutrientes essenciais ao ciclo capilar. O presente artigo descreve e discute os resultados de um protocolo estético aplicado a uma paciente de 60 anos com diagnóstico de alopecia androgenética feminina e histórico de gastrite crônica e de infecção por "},
+      {"t":"Helicobacter pylori","i":true},
+      {"t":" já erradicada. Trata-se de estudo de caso descritivo e qualitativo, conduzido por meio de anamnese capilar, avaliação tricoscópica e registro fotográfico padronizado, cujo protocolo associou fotobiomodulação, intradermoterapia capilar e cuidado domiciliar com tônico capilar. Observou-se melhora da condição do couro cabeludo e surgimento de novos fios nas áreas rarefeitas, precedida de fase inicial de resposta insatisfatória atribuída à baixa adesão domiciliar. Conclui-se que a abordagem estética individualizada e articulada ao acompanhamento médico contribui para o controle da miniaturização, sendo a adesão da paciente determinante para o resultado."}
+    ]},
+    {"type":"blank"},
+    {"type":"p0","runs":[{"t":"Palavras-chave: ","b":true},{"t":"alopecia; fotobiomodulação; intradermoterapia; tricoscopia; "},{"t":"Helicobacter pylori","i":true},{"t":"."}]},
+    {"type":"blank"},
+
+    {"type":"h1","t":"ABSTRACT","center":true},
+    {"type":"p0","runs":[
+      {"t":"Female androgenetic alopecia is a chronic, progressive and multifactorial hair disorder with a genetic and hormonal basis, characterized by follicular miniaturization and diffuse rarefaction of the scalp vertex. Its progression may be modulated by systemic factors, including gastrointestinal disorders capable of impairing the absorption of micronutrients essential to the hair cycle. This article describes and discusses the results of an aesthetic protocol applied to a 60-year-old female patient diagnosed with female androgenetic alopecia and a history of chronic gastritis and previously eradicated "},
+      {"t":"Helicobacter pylori","i":true},
+      {"t":" infection. This is a descriptive case study with a qualitative approach, based on hair anamnesis, trichoscopic assessment and standardized photographic records, combining photobiomodulation, scalp intradermotherapy and home care with a hair tonic. Progressive improvement of scalp condition and the emergence of new hair shafts in rarefied areas were observed, preceded by an initial phase of unsatisfactory response attributed to low adherence to home care. It is concluded that an individualized aesthetic approach, articulated with medical follow-up, contributes to controlling miniaturization, with patient adherence being decisive for the outcome."}
+    ]},
+    {"type":"blank"},
+    {"type":"p0","runs":[{"t":"Keywords: ","b":true},{"t":"alopecia; photobiomodulation; intradermotherapy; trichoscopy; "},{"t":"Helicobacter pylori","i":true},{"t":"."}]},
+
+    {"type":"h1","t":"1 INTRODUÇÃO"},
+    {"type":"p","t":"A alopecia androgenética (AAG) é a forma mais comum de perda capilar progressiva e decorre da ação da di-hidrotestosterona (DHT) sobre folículos geneticamente predispostos. Conforme Ho, Sood e Zito (2024), no couro cabeludo afetado há aumento da produção de DHT, elevação da atividade da enzima 5-alfa-redutase e maior densidade de receptores androgênicos, o que encurta a fase anágena e conduz à miniaturização folicular progressiva. Na mulher, o quadro manifesta-se como rarefação difusa da região do topo, com preservação da linha frontal de implantação (Singal; Sonthalia; Verma, 2013)."},
+    {"type":"p","t":"A prevalência da condição aumenta com a idade, passando de cerca de 1,3% entre 18 e 29 anos para aproximadamente 11,8% após os 70 anos (Singal; Sonthalia; Verma, 2013). Além do impacto estético, a alopecia androgenética feminina (AAF) associa-se a repercussões emocionais relevantes, o que justifica a busca por condutas estéticas seguras, não invasivas e apoiadas em evidências científicas."},
+    {"type":"p","t":"Embora a etiologia da AAF seja primariamente genético-hormonal, trata-se de uma condição multifatorial, cuja velocidade de progressão pode ser modulada por fatores nutricionais, oxidativos, medicamentosos, comportamentais e etários. Nesse contexto, alterações gastrointestinais crônicas ganham relevância clínica: ao comprometerem a absorção de proteínas, ferro, vitamina B12 e zinco, podem privar o folículo dos substratos necessários à síntese da haste, agravando a miniaturização de um folículo já suscetível."},
+    {"type":"p","runs":[
+      {"t":"O presente estudo de caso acompanha uma paciente de 60 anos com diagnóstico estético-funcional de AAF, predisposição genética documentada (pai com calvície), gastrite crônica em tratamento e histórico de infecção por "},
+      {"t":"Helicobacter pylori","i":true},
+      {"t":" já erradicada e confirmada por exames. Cabe registrar, desde a introdução, uma delimitação metodológica essencial: não se pretende, neste trabalho, afirmar relação causal direta entre a infecção pregressa e a instalação da alopecia. A literatura disponível permite sustentar apenas a existência de fatores associados e de mecanismos compartilhados plausíveis — sobretudo a má absorção de micronutrientes e o estresse oxidativo —, e é nessa condição de fator coadjuvante, e não de causa, que a condição gastrointestinal é aqui discutida."}
+    ]},
+    {"type":"p","t":"Assim, o objetivo geral deste artigo é descrever e discutir os resultados de um protocolo estético fundamentado em fotobiomodulação, intradermoterapia capilar e cuidado domiciliar, conduzido em paralelo ao acompanhamento médico, para o controle da miniaturização folicular e a melhora da qualidade capilar da paciente. Como objetivos específicos, buscou-se descrever a fisiopatologia da AAF, apresentar o diagnóstico estético-funcional obtido por tricoscopia, fundamentar cientificamente os recursos empregados e relatar de forma honesta a evolução clínica, incluindo os períodos de resposta insatisfatória e seus prováveis determinantes."},
+
+    {"type":"h1","t":"2 DESENVOLVIMENTO"},
+
+    {"type":"h2","t":"2.1 Fisiopatologia da alopecia androgenética feminina"},
+    {"type":"h3","t":"2.1.1 Base genética e hormonal"},
+    {"type":"p","t":"A patogênese da AAG centra-se na conversão da testosterona em DHT pela 5-alfa-redutase. Ho, Sood e Zito (2024) descrevem a redução da relação anágeno/telógeno — normalmente próxima de 12:1 — e a miniaturização progressiva, sendo a isoforma tipo 2 da enzima a principal envolvida. Ntshingila et al. (2023) acrescentam que o excesso de DHT, gerado pela 5-alfa-redutase tipo 2 (SRD5A2), substitui fios terminais por velos e encurta a fase anágena. Ustuner (2013) ressalta o paradoxo de a DHT estimular pelos em outras regiões corporais enquanto promove miniaturização no couro cabeludo."},
+    {"type":"p","t":"No plano genético, Martinez-Jacobo et al. (2018) caracterizam a AAG como fenótipo poligênico, com herdabilidade estimada em 0,81; o gene do receptor androgênico (AR), localizado no cromossomo X, contribui com até 40% do risco — dado coerente com o histórico familiar da paciente, cujo pai apresenta calvície."},
+
+    {"type":"h3","t":"2.1.2 Quadro clínico, classificação e diagnóstico tricoscópico"},
+    {"type":"p","t":"Singal, Sonthalia e Verma (2013) classificam a gravidade da AAF pela escala de Ludwig, em três estágios, caracterizados pelo afinamento difuso da coroa com preservação da linha frontal. A tricoscopia é o exame de eleição para o diagnóstico não invasivo: a revisão sistemática de Kuczara et al. (2024), com 34 estudos e 2.860 pacientes, identificou a variabilidade do diâmetro dos fios (anisotricose) como o marcador mais confiável da AAG, presente em cerca de 90% dos casos da forma feminina, seguida dos pelos velos. Galliker e Trüeb (2012) demonstraram que a tricoscopia supera o tricograma na acurácia diagnóstica (72% versus 62%), e Michelle, Shilpa e Leelavathy (2022) correlacionaram a redução do diâmetro e da densidade dos fios com a gravidade do quadro (p<0,001)."},
+    {"type":"blank"},
+    {"type":"legenda","t":"Figura 1 – Escala de Ludwig para classificação da alopecia androgenética feminina","b":true},
+    {"type":"image","src":"assets-aag/escala-ludwig.png","w":380,"h":324},
+    {"type":"legenda","t":"Fonte: adaptado de Singal, Sonthalia e Verma (2013).","after":120},
+
+    {"type":"h2","t":"2.2 Fatores sistêmicos associados à progressão da alopecia"},
+    {"type":"h3","t":"2.2.1 Alterações gastrointestinais e absorção de micronutrientes"},
+    {"type":"p","runs":[
+      {"t":"A infecção por "},
+      {"t":"Helicobacter pylori","i":true},
+      {"t":" é reconhecidamente associada à anemia ferropriva, conforme metanálise publicada no World Journal of Gastroenterology (Does..., 2010). O mecanismo envolve a gastrite crônica, a redução da acidez gástrica e o consequente prejuízo na absorção de ferro e de vitamina B12. Soma-se a esse quadro o efeito do próprio tratamento: o uso prolongado de inibidores da bomba de prótons, indicado no manejo da gastrite, reduz a acidez estomacal necessária à liberação do ferro não heme e à absorção da vitamina B12, podendo contribuir para deficiências nutricionais subclínicas."}
+    ]},
+    {"type":"p","t":"A relevância capilar dessas deficiências está documentada. Kantor et al. (2003) associaram a ferritina sérica baixa à alopecia feminina, com média de 37,3 ng/mL nas pacientes contra 59,5 ng/mL nos controles. Revisão sistemática com metanálise sobre deficiência de ferro e alopecias não cicatriciais em mulheres (Iron..., 2022) reforça essa associação, e Guo e Katta (2017) descrevem o papel do ferro, do zinco, da vitamina B12 e do aporte proteico na manutenção da fase anágena, uma vez que o folículo piloso é uma das estruturas de maior taxa mitótica do organismo."},
+    {"type":"p","runs":[
+      {"t":"É indispensável, porém, delimitar o alcance dessa correlação. A maior parte da evidência que associa diretamente "},
+      {"t":"H. pylori","i":true},
+      {"t":" à queda capilar refere-se à alopecia areata, condição de natureza autoimune, e não à alopecia androgenética. Não há, na literatura consultada, evidência que autorize afirmar que a infecção cause a AAF. O que se pode sustentar cientificamente é a existência de uma ponte mecanística indireta e plausível: infecção e gastrite crônicas comprometem a absorção de micronutrientes e aumentam o estresse oxidativo sistêmico, e ambos os fenômenos estão documentadamente associados ao agravamento da queda capilar. A condição gastrointestinal é, portanto, tratada neste estudo como fator coadjuvante e potencialmente acelerador, jamais como causa determinante."}
+    ]},
+
+    {"type":"h3","t":"2.2.2 Estresse oxidativo e ambiente folicular"},
+    {"type":"p","t":"Prie et al. (2016) evidenciaram estresse oxidativo em pacientes com alopecia androgenética, com redução da capacidade antioxidante total, elevação do malondialdeído (p<0,001) e queda da superóxido dismutase. O estresse oxidativo, a inflamação sistêmica de baixo grau e o comprometimento da microcirculação perifolicular constituem, assim, o elo mecanístico compartilhado entre a condição gastrointestinal e a progressão da alopecia, sem que se estabeleça entre elas qualquer relação determinística."},
+
+    {"type":"h2","t":"2.3 Recursos estéticos empregados"},
+    {"type":"h3","t":"2.3.1 Fotobiomodulação"},
+    {"type":"p","t":"A fotobiomodulação foi escolhida por ser modalidade não invasiva, segura e com eficácia demonstrada em ensaios clínicos randomizados para a alopecia androgenética. Seu benefício decorre do estímulo à produção de ATP nas células foliculares, da melhora da microcirculação do couro cabeludo e do prolongamento da fase anágena, o que favorece o aumento da densidade capilar (Avci et al., 2014). Yoon et al. (2020), em ensaio randomizado, duplo-cego e controlado por dispositivo simulado, obtiveram ganho de aproximadamente 41,9 fios/cm² sem efeitos adversos, e Sondagar et al. (2023) confirmaram a melhora da densidade em ensaio controlado."},
+    {"type":"p","t":"Pillai e Mysore (2022) sintetizam os parâmetros usualmente adotados: luz vermelha na faixa de 650 a 660 nm, fluências de 1 a 10 J/cm² e sessões de 15 a 20 minutos. Com base na resposta bifásica descrita por Avci et al. (2014) — segundo a qual doses baixas estimulam e doses elevadas inibem —, priorizaram-se fluências baixas."},
+
+    {"type":"h3","t":"2.3.2 Intradermoterapia capilar"},
+    {"type":"p","t":"A intradermoterapia, ou mesoterapia capilar, consiste em microinjeções de ativos diretamente no couro cabeludo, garantindo biodisponibilidade local. Seu principal benefício, neste caso, é entregar os princípios ativos exatamente onde são necessários, contornando as barreiras de absorção gastrointestinal descritas na seção 2.2.1. Uzel et al. (2021), em ensaio randomizado e controlado por placebo com 54 mulheres, observaram aumento da razão entre fios terminais e velos com minoxidil intradérmico; Aledani et al. (2024), em revisão sistemática, posicionam a mesoterapia como alternativa eficaz ao minoxidil tópico; e Stefanis et al. (2024) registraram melhora de densidade com mesoterapia de fatores de crescimento. Revisão sistemática sobre mesoterapia na queda capilar (Systematic..., 2023) corrobora a modalidade como recurso complementar."},
+
+    {"type":"h3","t":"2.3.3 Cuidado domiciliar"},
+    {"type":"p","t":"O cuidado domiciliar sustenta, entre as sessões, o resultado obtido em cabine. Empregou-se tônico capilar à base de Capilia Longa, derivado da cúrcuma, que auxilia na inibição da conversão de testosterona em di-hidrotestosterona, associado a orientações de higienização adequada do couro cabeludo, alimentação equilibrada com atenção ao aporte de ferro, vitamina B12 e zinco, manejo do estresse e higiene do sono."},
+
+    {"type":"h1","t":"3 MÉTODO"},
+    {"type":"h2","t":"3.1 Tipo de estudo"},
+    {"type":"p","t":"Trata-se de pesquisa qualitativa, do tipo estudo de caso descritivo, com amostra composta por uma única paciente do sexo feminino. O referencial teórico foi construído a partir de artigos científicos indexados nas bases PubMed/PMC e SciELO, de periódicos de dermatologia e tricologia e de livros-texto da área."},
+
+    {"type":"h2","t":"3.2 Caracterização da paciente"},
+    {"type":"p","runs":[
+      {"t":"Paciente do sexo feminino, 60 anos ao início do acompanhamento, com queixa principal de queda capilar na região do topo (vértice) do couro cabeludo e rarefação progressiva, com tempo de evolução aproximado de três anos. Apresenta histórico familiar de calvície (pai), gastrite crônica em tratamento medicamentoso, infecção pregressa por "},
+      {"t":"Helicobacter pylori","i":true},
+      {"t":" já erradicada e confirmada por exames recentes (Anexos A a G), alterações hormonais, histórico de procedimentos químicos capilares (mechas e coloração), nível de estresse elevado e sono fragmentado. Faz uso contínuo de medicação para controle pressórico e cardiovascular, cuja bula descreve, entre os efeitos adversos possíveis, edema e retenção hídrica."}
+    ]},
+
+    {"type":"h2","t":"3.3 Instrumentos de avaliação"},
+    {"type":"p","t":"A coleta de dados utilizou ficha de anamnese capilar (Anexo H), avaliação por tricoscopia com fotovideodermatoscópio e registro fotográfico padronizado, mantidos a mesma iluminação, o mesmo enquadramento e a mesma distância, para permitir comparação evolutiva."},
+    {"type":"blank"},
+    {"type":"legenda","t":"Figura 2 – Tricoscopia do couro cabeludo: diversidade de calibre dos fios e óstios foliculares","b":true},
+    {"type":"image","src":"assets-aag/tricoscopia-1.png","w":380,"h":304},
+    {"type":"legenda","t":"Fonte: arquivo da autora (2026).","after":120},
+    {"type":"legenda","t":"Figura 3 – Tricoscopia do couro cabeludo: rarefação e espaçamento interfolicular na região do topo","b":true},
+    {"type":"image","src":"assets-aag/tricoscopia-2.png","w":380,"h":304},
+    {"type":"legenda","t":"Fonte: arquivo da autora (2026).","after":120},
+    {"type":"legenda","t":"Figura 4 – Registro fotográfico padronizado da região do topo","b":true},
+    {"type":"image","src":"assets-aag/registro-topo.jpeg","itype":"jpg","w":200,"h":385},
+    {"type":"legenda","t":"Fonte: arquivo da autora (2026).","after":120},
+
+    {"type":"h2","t":"3.4 Diagnóstico estético-funcional"},
+    {"type":"p","t":"À avaliação inicial, o couro cabeludo apresentava sinais inflamatórios, com hiperemia e oleosidade aumentada. Observaram-se rarefação na região do topo/vértice, miniaturização folicular, aumento do espaçamento interfolicular, afinamento progressivo e diversidade de calibre dos fios — padrão compatível com alopecia androgenética feminina. O diagnóstico estético-funcional fundamentou-se, portanto, na queixa relatada, no histórico familiar de calvície, nos achados tricoscópicos e na correlação com as condições gastrointestinal e hormonal documentadas."},
+
+    {"type":"h2","t":"3.5 Protocolo terapêutico"},
+    {"type":"p","runs":[
+      {"t":"Antecedente terapêutico. ","b":true},
+      {"t":"Cerca de dois anos antes deste acompanhamento, a paciente realizou, por conta da alopecia androgenética, um tratamento prévio de desinflamação do couro cabeludo, que não integra o protocolo aqui descrito e não foi conduzido pela autora. Alguns meses após esse tratamento, a paciente notou piora do quadro. A investigação identificou infecção por "},
+      {"t":"Helicobacter pylori","i":true},
+      {"t":" e gastrite; a infecção foi tratada com antibioticoterapia, com cura, e a gastrite permaneceu. Diante da piora e da miniaturização folicular mais acelerada, optou-se por uma estimulação mais intensa da região, por meio de recursos mais invasivos, com a intradermoterapia capilar associada à fotobiomodulação, objeto deste estudo."}
+    ]},
+    {"type":"p","t":"O protocolo aplicado pela autora consistiu em uma única etapa de estímulo, que associou intradermoterapia capilar pela técnica de pápula, fotobiomodulação com luz vermelha e manutenção domiciliar."},
+    {"type":"p","t":"Na intradermoterapia, aplicou-se a Mescla PHD — Minoxidil 8 mg, Nanofatores de Crescimento Capilar 1%, Latanoprosta 50 mcg, Pill Food (L-metionina, L-taurina, L-prolina, biotina, D-pantenol, vitaminas B2, B3 e B6 e L-carnitina) e Lidocaína 20 mg — por meio de microinjeções na junção dermoepidérmica, em profundidade de 2 a 4 mm, com agulha 30G, depositando cerca de 0,05 a 0,1 mL por ponto, em pápulas espaçadas a cada 2 cm por toda a área de rarefação. A fotobiomodulação foi realizada com sessões de aproximadamente 20 minutos, com os parâmetros conferidos no manual do equipamento utilizado e ajustados conforme a tolerância da paciente. Em domicílio, manteve-se o uso contínuo do tônico Capilia Longa."},
+    {"type":"blank"},
+    {"type":"legenda","t":"Quadro 1 – Síntese do protocolo aplicado","b":true},
+    {"type":"table",
+      "header":["Etapa","Recursos","Frequência","Base científica"],
+      "rows":[
+        ["Estímulo (cabine)","Intradermoterapia capilar (Mescla PHD), técnica de pápula","Quinzenal","Uzel et al. (2021); Aledani et al. (2024); Stefanis et al. (2024)"],
+        ["Estímulo (cabine)","Fotobiomodulação com luz vermelha (650–660 nm, ~20 min)","2 a 3 sessões/semana","Yoon et al. (2020); Sondagar et al. (2023); Wang e Chen (2025)"],
+        ["Homecare","Tônico Capilia Longa e orientações de higienização, alimentação, sono e manejo do estresse","Uso diário contínuo","Guo e Katta (2017)"],
+        ["Reavaliação","Tricoscopia e registro fotográfico padronizado","Bimestral","Kuczara et al. (2024); Michelle, Shilpa e Leelavathy (2022)"]
+      ]
+    },
+    {"type":"legenda","t":"Fonte: dados da pesquisa (2026).","after":120},
+    {"type":"p","t":"A série de sessões inicialmente prevista, tomada da literatura como referência de planejamento, foi estendida ao longo do acompanhamento em razão da resposta clínica mais lenta que a esperada, decisão fundamentada na reavaliação tricoscópica periódica e na individualização da conduta."},
+
+    {"type":"h2","t":"3.6 Aspectos éticos"},
+    {"type":"p","t":"Este trabalho seguiu os princípios éticos da pesquisa com seres humanos conforme a Resolução 466/12 do Conselho Nacional de Saúde, com aprovação prévia pelo Comitê de Ética em Pesquisa (CEP) da UNIPLAC sob o número de aprovação 6.603.39. A paciente modelo assinou o Termo de Consentimento Livre e Esclarecido (TCLE), autorizando a realização dos procedimentos, o registro fotográfico e a divulgação acadêmica das imagens e dos exames apresentados nos anexos, preservada sua identificação."},
+
+    {"type":"h1","t":"4 DISCUSSÃO E RESULTADOS"},
+    {"type":"p","t":"A evolução do caso não foi linear, e o relato honesto desse percurso é parte do resultado científico deste estudo."},
+    {"type":"p","t":"Nas primeiras reavaliações do protocolo de estímulo, a resposta ficou aquém do esperado. A tricoscopia não evidenciou o ganho de densidade previsto para o período, e a paciente relatou percepção de aumento transitório da queda. A investigação das causas, conduzida por meio de reanamnese, apontou fatores diretamente relacionados à adesão: higienização capilar insuficiente, com intervalos longos entre as lavagens e acúmulo de sebo e resíduos sobre os óstios foliculares, e uso irregular do tônico domiciliar, frequentemente esquecido. Esses achados são coerentes com a literatura, que atribui à manutenção domiciliar papel decisivo na sustentação dos resultados obtidos em cabine."},
+    {"type":"p","t":"Diante disso, procedeu-se à correção de conduta: reforço da orientação quanto à frequência e à técnica de higienização, revisão dos produtos utilizados em casa, retomada sistemática do tônico e estabelecimento de acompanhamento mais próximo da adesão a cada sessão. Após esse ajuste, a resposta clínica modificou-se de forma perceptível. Registraram-se aumento da microcirculação do couro cabeludo e surgimento de novos fios nos espaçamentos das áreas anteriormente rarefeitas, com melhora da condição geral do couro cabeludo. Optou-se, então, por estender a série de sessões inicialmente planejada, adequando o cronograma ao ritmo real de resposta da paciente."},
+    {"type":"p","t":"Cabe destacar que os resultados obtidos não podem ser atribuídos isoladamente a um único recurso. O protocolo combinou fotobiomodulação, intradermoterapia e cuidado domiciliar, e a literatura de terapia combinada indica benefício ao menos equivalente ao da monoterapia, sem efeitos adversos atribuíveis à associação (Kaiser et al., 2022). Trata-se, ainda, de estudo de caso único, delineamento que não permite inferência causal nem generalização dos achados."},
+    {"type":"p","runs":[
+      {"t":"Diversos fatores de confusão devem ser considerados na leitura dos resultados. Em primeiro lugar, a própria natureza multifatorial da AAF: predisposição genética, alterações hormonais, idade e histórico de procedimentos químicos capilares atuam simultaneamente. Em segundo lugar, a variável adesão, já discutida, que se mostrou o determinante mais evidente da oscilação da resposta. Em terceiro, o sedentarismo e o estresse elevado relatados, associados a sono fragmentado. Em quarto, o uso contínuo de medicação para controle pressórico e cardiovascular, cuja bula descreve edema e retenção hídrica entre os efeitos adversos possíveis, condições capazes de interferir na avaliação clínica do couro cabeludo. Por fim, o histórico de infecção por "},
+      {"t":"Helicobacter pylori","i":true},
+      {"t":", já erradicada, e a gastrite crônica em tratamento, que podem ter contribuído para deficiências de micronutrientes ao longo dos anos anteriores ao acompanhamento estético."}
+    ]},
+    {"type":"p","runs":[
+      {"t":"Sobre este último ponto, reitera-se a cautela metodológica anunciada na introdução. Não é possível, a partir deste estudo, afirmar que a infecção por "},
+      {"t":"H. pylori","i":true},
+      {"t":" tenha causado ou determinado a alopecia androgenética da paciente. O que se observa é a coexistência de uma condição capilar de base genético-hormonal com um histórico gastrointestinal capaz de comprometer a absorção de nutrientes essenciais ao ciclo folicular, o que configura um fator associado plausível, não uma relação de causa e efeito. Essa distinção é especialmente importante porque a evidência direta que vincula "},
+      {"t":"H. pylori","i":true},
+      {"t":" à queda capilar concentra-se na alopecia areata, de mecanismo autoimune distinto. A contribuição prática desse reconhecimento é terapêutica: justamente por existir a possibilidade de má absorção, a escolha pela via intradérmica, que entrega os ativos diretamente no plano dérmico, mostra-se coerente com o perfil da paciente."}
+    ]},
+
+    {"type":"h1","t":"5 CONSIDERAÇÕES FINAIS"},
+    {"type":"p","runs":[
+      {"t":"O acompanhamento descrito permitiu observar que um protocolo estético de estímulo, associando fotobiomodulação, intradermoterapia capilar e cuidado domiciliar, foi bem tolerado e acompanhou-se de melhora da condição do couro cabeludo e do surgimento de novos fios nas áreas rarefeitas de uma paciente com alopecia androgenética feminina. O protocolo foi iniciado após um tratamento prévio de desinflamação, realizado anteriormente, e após o tratamento da infecção por "},
+      {"t":"Helicobacter pylori","i":true},
+      {"t":", diante da piora e da miniaturização mais acelerada do quadro."}
+    ]},
+    {"type":"p","t":"Verificou-se que a adesão às orientações domiciliares constituiu o fator mais determinante da qualidade da resposta: o período de higienização inadequada e de uso irregular do tônico coincidiu com estagnação e piora percebida do quadro, enquanto a correção da conduta precedeu a retomada da evolução favorável. Esse achado sustenta a importância do acompanhamento próximo e da educação da paciente como componentes do próprio protocolo, e não como recomendações acessórias."},
+    {"type":"p","runs":[
+      {"t":"Quanto à relação entre saúde gastrointestinal e alopecia androgenética, o estudo permite afirmar que a infecção pregressa por "},
+      {"t":"Helicobacter pylori","i":true},
+      {"t":", a gastrite crônica e seu tratamento medicamentoso configuram fatores sistêmicos associados, com plausibilidade mecanística ancorada na má absorção de micronutrientes e no estresse oxidativo, mas não constituem causa isolada nem determinante do quadro. A alopecia androgenética permanece uma condição multifatorial, e qualquer afirmação de causalidade direta extrapolaria a evidência disponível e o delineamento adotado."}
+    ]},
+    {"type":"p","t":"Como limitações, registram-se o delineamento de caso único, a ausência de grupo controle, o uso combinado de recursos que impede isolar a contribuição de cada um e a avaliação predominantemente qualitativa da evolução. Sugere-se que estudos futuros, com amostras maiores, avaliação laboratorial seriada de ferritina, vitamina B12 e zinco e mensuração quantitativa da densidade capilar, investiguem de modo controlado a interface entre saúde gastrointestinal e progressão da alopecia androgenética feminina."},
+
+    {"type":"h1","t":"AGRADECIMENTOS","center":true},
+    {"type":"p","t":"Agradece-se à paciente modelo, pela confiança e pela disponibilidade ao longo de todo o acompanhamento, às professoras orientadoras, pela condução criteriosa do trabalho, e ao corpo docente do curso de Tecnologia em Estética e Cosmetologia da UNIPLAC, pelo suporte técnico e científico."},
+
+    {"type":"pagebreak"},
+    {"type":"h1","t":"REFERÊNCIAS","center":true},
+    {"type":"ref","t":"ALEDANI, E. M. et al. Mesotherapy as a promising alternative to minoxidil for androgenetic alopecia: a systematic review. Cureus, v. 16, n. 5, e59705, 2024. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC11152360/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"ANASTASSAKIS, K. Androgenetic alopecia from A to Z: vol. 1 – basic science, diagnosis, etiology, and related disorders. Cham: Springer, 2022. Disponível em: https://link.springer.com/book/10.1007/978-3-030-76111-0. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"AVCI, P. et al. Low-level laser (light) therapy (LLLT) for treatment of hair loss. Lasers in Surgery and Medicine, v. 46, n. 2, p. 144-151, 2014. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC3944668/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"BLUME-PEYTAVI, U.; TOSTI, A.; WHITING, D. A.; TRÜEB, R. M. (org.). Hair growth and disorders. Berlin: Springer, 2008."},
+    {"type":"ref","t":"CHANDRASHEKAR, B. S. (org.). IADVL textbook of trichology. New Delhi: JP Medical, 2018."},
+    {"type":"ref","t":"DOES Helicobacter pylori infection play a role in iron deficiency anemia? A meta-analysis. World Journal of Gastroenterology, 2010. Disponível em: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825337/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"GALLIKER, N. A.; TRÜEB, R. M. Value of trichoscopy versus trichogram for diagnosis of female androgenetic alopecia. International Journal of Trichology, v. 4, n. 1, p. 19-22, 2012. Disponível em: https://pubmed.ncbi.nlm.nih.gov/22628985/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"GUO, E. L.; KATTA, R. Diet and hair loss: effects of nutrient deficiency and supplement use. Dermatology Practical & Conceptual, v. 7, n. 1, p. 1-10, 2017. Disponível em: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5315033/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"HO, C. H.; SOOD, T.; ZITO, P. M. Androgenetic alopecia. In: StatPearls. Treasure Island (FL): StatPearls Publishing, 2024. Disponível em: https://www.ncbi.nlm.nih.gov/books/NBK430924/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"IRON deficiency and nonscarring alopecia in women: systematic review and meta-analysis. 2022. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC8928181/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"KAISER, M. A. et al. Low-level light therapy and minoxidil combination treatment in androgenetic alopecia: a review of the literature. Skin Appendage Disorders, v. 9, n. 2, p. 104-110, 2022. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC10015651/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"KANTOR, J. et al. Decreased serum ferritin is associated with alopecia in women. Journal of Investigative Dermatology, v. 121, n. 5, p. 985-988, 2003. Disponível em: https://pubmed.ncbi.nlm.nih.gov/14708596/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"KUCZARA, K. et al. Trichoscopy of androgenetic alopecia: a systematic review. Journal of Clinical Medicine, v. 13, n. 7, 1962, 2024. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC11012765/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"MARTINEZ-JACOBO, L. et al. Genetic and molecular aspects of androgenetic alopecia. Indian Journal of Dermatology, Venereology and Leprology, v. 84, n. 3, p. 263-268, 2018. Disponível em: https://ijdvl.com/genetic-and-molecular-aspects-of-androgenetic-alopecia/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"MICHELLE, V.; SHILPA, K.; LEELAVATHY, B. A clinico-trichoscopic analysis of hair density and diameter variability in relation to severity grading of female pattern hair loss. International Journal of Trichology, v. 14, n. 5, p. 162-171, 2022. Disponível em: https://pubmed.ncbi.nlm.nih.gov/36404884/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"NTSHINGILA, S. et al. Androgenetic alopecia: an update. JAAD International, v. 13, p. 150-158, 2023. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC10562178/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"OLSEN, E. A. (org.). Disorders of hair growth: diagnosis and treatment. New York: McGraw-Hill, 1994."},
+    {"type":"ref","t":"PILLAI, J. K.; MYSORE, V. Role of low-level light therapy (LLLT) in androgenetic alopecia. Journal of Cutaneous and Aesthetic Surgery, v. 14, n. 4, p. 385-391, 2022. Disponível em: https://jcasonline.com/role-of-low-level-light-therapy-lllt-in-androgenetic-alopecia/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"PRIE, B. E. et al. Oxidative stress in androgenetic alopecia. Journal of Medicine and Life, v. 9, n. 1, p. 79-83, 2016. Disponível em: https://pubmed.ncbi.nlm.nih.gov/27974920/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"SINGAL, A.; SONTHALIA, S.; VERMA, P. Female pattern hair loss. Indian Journal of Dermatology, Venereology and Leprology, v. 79, n. 5, p. 626-640, 2013. Disponível em: https://ijdvl.com/female-pattern-hair-loss/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"SONDAGAR, D. M. et al. Efficacy of low-level laser therapy in androgenetic alopecia: a randomized controlled trial. International Journal of Trichology, 2023. Disponível em: https://pubmed.ncbi.nlm.nih.gov/37305186/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"STEFANIS, A. J. et al. Efficacy of platelet-rich plasma versus mesotherapy with recombinant growth factors and stem cell-conditioned media in androgenetic alopecia: a retrospective study. Skin Appendage Disorders, v. 10, n. 5, p. 376-382, 2024. Disponível em: https://karger.com/sad/article/10/5/376/908183/Efficacy-of-Platelet-Rich-Plasma-versus. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"SYSTEMATIC review of mesotherapy: a novel avenue for the treatment of hair loss. Journal of Dermatological Treatment, 2023. Disponível em: https://www.tandfonline.com/doi/full/10.1080/09546634.2023.2245084. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"USTUNER, E. T. Cause of androgenic alopecia: crux of the matter. Plastic and Reconstructive Surgery – Global Open, v. 1, n. 7, e64, 2013. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC4174066/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"UZEL, B. P. K. et al. Intradermal injections with 0.5% minoxidil for the treatment of female androgenetic alopecia: a randomized, placebo-controlled trial. Dermatologic Therapy, v. 34, n. 1, 2021. Disponível em: https://doi.org/10.1111/dth.14622. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"WANG, Y.-F.; CHEN, Y.-C. Clinical trial comparing three wavelengths in photobiomodulation therapy for hair loss. Photobiomodulation, Photomedicine, and Laser Surgery, v. 43, n. 7, p. 288-293, 2025. Disponível em: https://pubmed.ncbi.nlm.nih.gov/40398915/. Acesso em: 28 jul. 2026."},
+    {"type":"ref","t":"YOON, J. S. et al. Low-level light therapy using a helmet-type device for the treatment of androgenetic alopecia: a 16-week, multicenter, randomized, double-blind, sham device-controlled trial. Medicine (Baltimore), v. 99, n. 29, e21181, 2020. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC7373546/. Acesso em: 28 jul. 2026."},
+
+    {"type":"pagebreak"},
+    {"type":"h1","t":"ANEXOS","center":true},
+    {"type":"p","t":"Os documentos a seguir são apresentados mediante autorização expressa da paciente no Termo de Consentimento Livre e Esclarecido. Os exames comprovam a realização do acompanhamento médico e a erradicação da infecção, não constituindo objeto de análise laboratorial neste estudo."},
+    {"type":"blank"},
+    {"type":"legenda","t":"Anexo A – Exame anatomopatológico (2025), primeira via","b":true,"anexo":true},
+    {"type":"image","src":"../attachments/paciente/exames/2025/exame-2025-anatamo-patologico-1.png","w":288,"h":430},
+    {"type":"legenda","t":"Fonte: arquivo da paciente.","after":120},
+    {"type":"legenda","t":"Anexo B – Exame anatomopatológico (2025), segunda via","b":true,"anexo":true},
+    {"type":"image","src":"../attachments/paciente/exames/2025/exame-2025-anatamo-patologico-2.png","w":282,"h":430},
+    {"type":"legenda","t":"Fonte: arquivo da paciente.","after":120},
+    {"type":"legenda","t":"Anexo C – Descrição do exame endoscópico (2025)","b":true,"anexo":true},
+    {"type":"image","src":"../attachments/paciente/exames/2025/exame-2025-desc.png","w":292,"h":430},
+    {"type":"legenda","t":"Fonte: arquivo da paciente.","after":120},
+    {"type":"legenda","t":"Anexo D – Registro de imagem do exame (2025), prancha 1","b":true,"anexo":true},
+    {"type":"image","src":"../attachments/paciente/exames/2025/exame-2025-pic-1.png","w":283,"h":430},
+    {"type":"legenda","t":"Fonte: arquivo da paciente.","after":120},
+    {"type":"legenda","t":"Anexo E – Registro de imagem do exame (2025), prancha 2","b":true,"anexo":true},
+    {"type":"image","src":"../attachments/paciente/exames/2025/exame-2025-pic-2.png","w":268,"h":430},
+    {"type":"legenda","t":"Fonte: arquivo da paciente.","after":120},
+    {"type":"legenda","t":"Anexo F – Descrição do exame de controle (2026), com confirmação da erradicação","b":true,"anexo":true},
+    {"type":"image","src":"../attachments/paciente/exames/2026/exame-2026-desc.png","w":302,"h":430},
+    {"type":"legenda","t":"Fonte: arquivo da paciente.","after":120},
+    {"type":"legenda","t":"Anexo G – Registro de imagem do exame de controle (2026)","b":true,"anexo":true},
+    {"type":"image","src":"../attachments/paciente/exames/2026/exame-2026-pictures.png","w":265,"h":430},
+    {"type":"legenda","t":"Fonte: arquivo da paciente.","after":120},
+    {"type":"legenda","t":"Anexo H – Ficha de anamnese capilar","b":true,"anexo":true},
+    {"type":"p","t":"Documento pendente de digitalização e inclusão pela autora."}
+  ]
+}

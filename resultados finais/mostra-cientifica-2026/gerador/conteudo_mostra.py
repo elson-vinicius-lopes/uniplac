@@ -2,8 +2,21 @@
 """Conteudo textual da submissao a XXIX Mostra Cientifica UNIPLAC 2026.
 Derivado de Alopecia-Andogenetica-Feminina/conteudo-artigo.json (artigo final)."""
 
-TITULO = ("ALOPECIA ANDROGENÉTICA FEMININA E SAÚDE GASTROINTESTINAL: ESTUDO DE CASO DE "
-          "PROTOCOLO COM FOTOBIOMODULAÇÃO, INTRADERMOTERAPIA E CUIDADO DOMICILIAR")
+TITULO = ("ALOPECIA ANDROGENÉTICA FEMININA E SAÚDE GASTROINTESTINAL: ESTUDO DE CASO DE UM "
+          "PROTOCOLO ESTÉTICO COM FOTOBIOMODULAÇÃO, INTRADERMOTERAPIA CAPILAR E CUIDADO DOMICILIAR")
+
+# Quadro da metodologia (mesmo conteudo do artigo e da apresentacao do TCC)
+QUADRO_LEGENDA = "Quadro 1 – Síntese do protocolo aplicado"
+QUADRO_HEADER = ["Etapa", "Período", "Recurso", "Frequência", "Como foi feito"]
+QUADRO_ROWS = [
+    ["1", "Mês 1", "Intradermoterapia (Mescla PHD)", "1 vez por semana",
+     "técnica de pápula, agulha 30G, 2–4 mm, ~0,05–0,1 mL por ponto, pápulas a cada 2 cm"],
+    ["2", "A partir do mês 2", "Fotobiomodulação (laser vermelho 655–660 nm, ~2 J/cm², ~20 min)",
+     "1 sessão a cada 15 dias", "intercalada com a intradermoterapia"],
+    ["2", "A partir do mês 2", "Intradermoterapia (mesma técnica)", "1 sessão a cada 15 dias",
+     "intercalada com o laser"],
+    ["Contínuo", "Todo o período", "Tônico Capilia Longa", "diário, em casa", "cuidado domiciliar"],
+]
 
 AUTORES = [
     "LOPES, Paola Bortoli Pinheiro",
@@ -44,46 +57,41 @@ RESUMO_SIMPLES = [
      "gastrite crônica é tratado como fator associado, jamais como causa: a evidência direta que o "
      "vincula à queda capilar concentra-se na alopecia areata, autoimune e distinta. "),
     ("OBJETIVO: ",
-     "Descrever os resultados parciais de um protocolo estético com fotobiomodulação, "
-     "intradermoterapia capilar e cuidado domiciliar, conduzido em paralelo ao acompanhamento médico. "),
+     "Descrever um protocolo estético com fotobiomodulação, intradermoterapia capilar e cuidado "
+     "domiciliar, conduzido em paralelo ao acompanhamento médico. "),
     ("METODOLOGIA: ",
      "Estudo de caso descritivo e qualitativo, em andamento, com paciente nascida em 1964 (60 anos ao "
      "início e 61 na reavaliação mais recente), com histórico familiar de calvície, gastrite crônica "
      "em tratamento e H. pylori já erradicado e confirmado por exames; a anamnese "
      "identificou ainda relato de estresse psicológico e privação de sono, associados a distúrbios "
-     "capilares. Usaram-se anamnese capilar, tricoscopia e registro fotográfico padronizado. Linha do "
-     "tempo: no terceiro semestre, terapia capilar como preparo da pele, com foco em home care; neste "
-     "ano, piora e nova avaliação; a partir dela, melhora dos hábitos domésticos — higienização e "
-     "lavagem mais frequentes —, com apoio médico que melhorou o quadro gastrointestinal. O protocolo "
-     "teve duas fases: desinflamação (aromaterapia, argiloterapia e luz azul) e estímulo "
-     "(intradermoterapia por pápula, luz vermelha e tônico domiciliar). "
+     "capilares. Em 2023, a paciente realizou tratamento de desinflamação do couro cabeludo, não "
+     "conduzido pela autora; meses depois, houve piora, e a investigação identificou H. pylori e "
+     "gastrite, com cura da infecção após antibióticos e persistência da gastrite. Em 2024, iniciou-se "
+     "estimulação mais intensa, com intradermoterapia por pápula, luz vermelha e tônico domiciliar. "
+     "Usaram-se anamnese capilar, tricoscopia e registro fotográfico padronizado. "
      "Seguiu-se a Resolução 466/12 do CNS, com aprovação do Comitê de Ética em Pesquisa da UNIPLAC sob "
      "o número 6.603.39 e assinatura do Termo de Consentimento Livre e Esclarecido (TCLE). "),
-    ("RESULTADOS PARCIAIS: ",
-     "A desinflamação reduziu hiperemia e oleosidade. Na transição para o estímulo houve piora "
-     "percebida, e a reavaliação identificou higienização insuficiente e uso irregular do tônico. Após "
-     "a correção dos hábitos e o apoio médico, registraram-se aumento da microcirculação e novos fios "
-     "nas áreas rarefeitas, o que motivou estender as sessões. A literatura embasa o achado: a "
+    ("RESULTADOS: ",
+     "A pesquisa está em andamento e os resultados ainda não foram analisados, pois dependem do "
+     "registro fotográfico final e da reavaliação tricoscópica. A literatura embasa os recursos: a "
      "fotobiomodulação eleva o ATP folicular e prolonga a fase anágena (Avci et al., 2014) e a "
      "intradermoterapia entrega os ativos no plano dérmico, contornando a absorção gastrointestinal "
-     "(Uzel et al., 2021). A adesão domiciliar foi o determinante mais evidente. Caso "
-     "único e protocolo combinado não permitem isolar contribuições nem generalizar: sustenta-se ponte "
-     "mecanística plausível, sem causalidade."),
+     "(Uzel et al., 2021). Sustenta-se ponte mecanística plausível entre o quadro gastrointestinal e "
+     "a alopecia, sem causalidade."),
 ]
 
 # ---------------------------------------------------------------- RESUMO EXPANDIDO
 RESUMO_150 = ("A alopecia androgenética feminina é disfunção capilar crônica, progressiva e "
     "multifatorial, de base genética e hormonal, cuja progressão pode ser modulada por fatores "
     "sistêmicos, entre eles alterações gastrointestinais que comprometem a absorção de "
-    "micronutrientes essenciais ao ciclo capilar. Este resumo expandido descreve e discute um "
-    "protocolo estético aplicado a paciente de 61 anos com alopecia androgenética, gastrite crônica e "
-    "histórico de infecção por Helicobacter pylori já erradicada. Trata-se de estudo de "
-    "caso descritivo e qualitativo, em andamento, conduzido por anamnese capilar, tricoscopia e "
-    "registro fotográfico padronizado, associando fotobiomodulação, intradermoterapia capilar e "
-    "cuidado domiciliar. Como resultados parciais, observaram-se melhora da condição do couro cabeludo "
-    "e surgimento de novos fios nas áreas rarefeitas, após fase de piora atribuída à baixa adesão "
-    "domiciliar e corrigida por reavaliação, ajuste da higienização e apoio médico ao quadro "
-    "gastrointestinal, discutido como fator associado e coadjuvante, nunca como causa da alopecia.")
+    "micronutrientes essenciais ao ciclo capilar. Este resumo expandido descreve um protocolo "
+    "estético aplicado a paciente com alopecia androgenética, gastrite crônica e histórico de "
+    "infecção por Helicobacter pylori já erradicada. Trata-se de estudo de caso descritivo e "
+    "qualitativo, em andamento, conduzido por anamnese capilar, tricoscopia e registro fotográfico "
+    "padronizado, associando fotobiomodulação, intradermoterapia capilar e cuidado domiciliar, "
+    "iniciados em 2024, após tratamento prévio de desinflamação (2023) e cura da infecção. Os "
+    "resultados ainda não foram analisados, pois dependem do registro fotográfico final; a condição "
+    "gastrointestinal é discutida como fator associado, nunca como causa da alopecia.")
 
 EXPANDIDO = [
     ("h", "INTRODUÇÃO"),
@@ -108,14 +116,13 @@ EXPANDIDO = [
           "fatores associados e de mecanismos compartilhados plausíveis — sobretudo a má absorção de "
           "micronutrientes essenciais ao folículo —, e é nessa condição de fator coadjuvante, e não de "
           "causa, que a condição gastrointestinal é aqui discutida. Registra-se também que se trata de "
-          "pesquisa em andamento, cujos achados são apresentados como resultados parciais."),
-    ("p", "O objetivo geral deste trabalho é descrever e discutir os resultados de um protocolo estético "
-          "fundamentado em fotobiomodulação, intradermoterapia capilar e cuidado domiciliar, conduzido em "
-          "paralelo ao acompanhamento médico, para o controle da miniaturização folicular e a melhora da "
-          "qualidade capilar da paciente. Como objetivos específicos, buscou-se descrever a "
-          "fisiopatologia da AAF, apresentar o diagnóstico estético-funcional obtido por tricoscopia, "
-          "fundamentar cientificamente os recursos empregados e relatar de forma honesta a evolução "
-          "clínica, incluindo os períodos de resposta insatisfatória e seus prováveis determinantes."),
+          "pesquisa em andamento, cujos resultados dependem do registro fotográfico final."),
+    ("p", "O objetivo geral deste trabalho é descrever um protocolo estético fundamentado em "
+          "fotobiomodulação, intradermoterapia capilar e cuidado domiciliar, conduzido em paralelo ao "
+          "acompanhamento médico, para o controle da miniaturização folicular da paciente. Como "
+          "objetivos específicos, buscou-se descrever a fisiopatologia da AAF, apresentar o diagnóstico "
+          "estético-funcional obtido por tricoscopia, fundamentar cientificamente os recursos empregados "
+          "e descrever o protocolo aplicado."),
     ("h", "METODOLOGIA"),
     ("p", "Trata-se de pesquisa qualitativa, do tipo estudo de caso descritivo, com amostra composta por "
           "uma única paciente do sexo feminino. O referencial teórico foi construído a partir de artigos "
@@ -134,31 +141,29 @@ EXPANDIDO = [
     ("p", "A coleta de dados utilizou ficha de anamnese capilar, avaliação por tricoscopia com "
           "fotovideodermatoscópio e registro fotográfico padronizado, mantidos a mesma iluminação, o "
           "mesmo enquadramento e a mesma distância, para permitir comparação evolutiva."),
-    ("p", "O protocolo foi conduzido em duas fases sequenciais, respeitando a lógica fisiológica de "
-          "desinflamar antes de estimular. A Fase 1, de desinflamação, empregou aromaterapia com óleos "
-          "essenciais, argiloterapia e fotobiomodulação com luz azul para o controle da inflamação e da "
-          "oleosidade. A Fase 2, de estímulo, associou intradermoterapia capilar pela técnica de pápula, "
-          "fotobiomodulação com luz vermelha e manutenção domiciliar. Na intradermoterapia, aplicou-se a "
-          "Mescla PHD — Minoxidil 8 mg, Nanofatores de Crescimento Capilar 1%, Latanoprosta 50 mcg, Pill "
-          "Food e Lidocaína 20 mg — por microinjeções na junção dermoepidérmica, em profundidade de 2 a "
-          "4 mm, com agulha 30G, depositando cerca de 0,05 a 0,1 mL por ponto, em pápulas espaçadas a "
-          "cada 2 cm. A fotobiomodulação foi realizada em sessões de aproximadamente 20 minutos, com "
-          "parâmetros conferidos no manual do equipamento. Em domicílio, manteve-se o uso contínuo de "
-          "tônico capilar à base de Capilia Longa."),
-    ("p", "O acompanhamento seguiu uma linha do tempo definida. No terceiro semestre do curso iniciou-se a "
-          "terapia capilar como preparo da pele, primeiro passo do protocolo, com foco em home care, isto "
-          "é, na instrução e no acompanhamento dos cuidados domiciliares. Neste ano, constatou-se piora do "
-          "quadro, o que motivou uma nova avaliação da paciente. A partir dessa reavaliação, houve melhora "
-          "dos hábitos domésticos — higienização e lavagem capilar mais frequentes e adequadas —, em "
-          "conjunto com o apoio médico que contribuiu para a melhora do quadro gastrointestinal. Essa "
-          "sequência (preparo e home care no terceiro semestre, piora, reavaliação, correção de hábitos e "
-          "apoio médico) organiza a leitura dos resultados parciais apresentados a seguir."),
+    ("p", "Antecedente terapêutico: em 2023, a paciente realizou, por conta da alopecia androgenética, "
+          "um tratamento prévio de desinflamação do couro cabeludo, que não integra o protocolo aqui "
+          "descrito e não foi conduzido pela autora. Alguns meses depois, notou piora do quadro; a "
+          "investigação identificou infecção por Helicobacter pylori e gastrite, tratada a infecção com "
+          "antibioticoterapia, com cura, e a gastrite permaneceu. Diante da piora e da miniaturização "
+          "folicular mais acelerada, em 2024 optou-se por uma estimulação mais intensa da região, por meio "
+          "de recursos mais invasivos."),
+    ("p", "O protocolo aplicado pela autora consistiu em uma única etapa de estímulo, que associou "
+          "intradermoterapia capilar pela técnica de pápula, fotobiomodulação com luz vermelha e "
+          "manutenção domiciliar. Na intradermoterapia, aplicou-se a Mescla PHD — Minoxidil 8 mg, "
+          "Nanofatores de Crescimento Capilar 1%, Latanoprosta 50 mcg, Pill Food e Lidocaína 20 mg — por "
+          "microinjeções na junção dermoepidérmica, em profundidade de 2 a 4 mm, com agulha 30G, "
+          "depositando cerca de 0,05 a 0,1 mL por ponto, em pápulas espaçadas a cada 2 cm. A "
+          "fotobiomodulação foi realizada em sessões de aproximadamente 20 minutos, com parâmetros "
+          "conferidos no manual do equipamento. Em domicílio, manteve-se o uso contínuo de tônico capilar "
+          "à base de Capilia Longa."),
     ("p", "Este trabalho seguiu os princípios éticos da pesquisa com seres humanos conforme a Resolução "
           "466/12 do Conselho Nacional de Saúde, com aprovação prévia pelo Comitê de Ética em Pesquisa "
           "(CEP) da UNIPLAC sob o número de aprovação 6.603.39. A paciente modelo assinou o Termo de "
           "Consentimento Livre e Esclarecido (TCLE), autorizando a realização dos procedimentos, o "
           "registro fotográfico e a divulgação acadêmica das imagens, preservada sua identificação."),
-    ("h", "FUNDAMENTAÇÃO TEÓRICA E RESULTADOS PARCIAIS"),
+    ("tbl", ""),
+    ("h", "FUNDAMENTAÇÃO TEÓRICA"),
     ("p", "A patogênese da AAG centra-se na conversão da testosterona em DHT pela 5-alfa-redutase. Ho, "
           "Sood e Zito (2024) descrevem a redução da relação anágeno/telógeno e a miniaturização "
           "progressiva; Ntshingila et al. (2023) acrescentam que o excesso de DHT substitui fios "
@@ -185,53 +190,19 @@ EXPANDIDO = [
           "terminais e velos em ensaio randomizado e controlado por placebo com 54 mulheres (Uzel et al., "
           "2021), sendo a mesoterapia posicionada como alternativa eficaz ao minoxidil tópico (Aledani et "
           "al., 2024)."),
-    ("p", "Dos resultados parciais, tem-se o seguinte percurso. A terapia iniciada no terceiro semestre, "
-          "concebida como preparo da pele e centrada no home care, produziu redução satisfatória da "
-          "hiperemia e da oleosidade, deixando o couro cabeludo equilibrado ao final da Fase 1. Esse "
-          "resultado é coerente com a lógica de desinflamar antes de estimular: a fotobiomodulação atua "
-          "sobre a microcirculação e o metabolismo celular do folículo, prolongando a fase anágena (Avci "
-          "et al., 2014), e seu efeito depende de um leito cutâneo sem inflamação ativa."),
-    ("p", "Neste ano, entretanto, constatou-se piora do quadro: a tricoscopia não evidenciou o ganho de "
-          "densidade previsto e a paciente relatou aumento da queda. A nova avaliação apontou higienização "
-          "capilar insuficiente e uso irregular do tônico domiciliar — ou seja, falha na etapa de home "
-          "care, e não no recurso empregado. Após reforço das orientações, revisão dos produtos e "
-          "aumento da frequência de lavagem, somados ao apoio médico que melhorou o quadro "
-          "gastrointestinal, registraram-se aumento da microcirculação e surgimento de novos fios nos "
-          "espaçamentos das áreas anteriormente rarefeitas, o que motivou a extensão da série de sessões."),
-    ("p", "A literatura oferece explicação plausível para o porquê da melhora observada nesse segundo "
-          "momento. A higienização adequada remove o excesso de sebo e resíduos que sustentam o processo "
-          "inflamatório perifolicular, condição necessária para que a fotobiomodulação exerça seu efeito "
-          "trófico (Avci et al., 2014); Yoon et al. (2020), em ensaio randomizado, duplo-cego e "
-          "controlado por dispositivo simulado, obtiveram ganho de aproximadamente 41,9 fios/cm². A "
-          "intradermoterapia, por sua vez, deposita os ativos diretamente na junção dermoepidérmica, "
-          "contornando as barreiras de absorção gastrointestinal relevantes nesta paciente (Uzel et al., "
-          "2021; Aledani et al., 2024). Em paralelo, a melhora gastrointestinal obtida com apoio médico "
-          "tende a restabelecer a absorção de ferro, zinco e vitamina B12, substratos exigidos pela fase "
-          "anágena (Guo; Katta, 2017). Por serem parciais, esses achados não podem ser atribuídos "
-          "isoladamente a um único recurso, uma vez que o protocolo combinou três modalidades, e a "
-          "literatura de terapia combinada indica benefício ao menos equivalente ao da monoterapia "
-          "(Kaiser et al., 2022)."),
-    ("h", "CONSIDERAÇÕES FINAIS"),
-    ("p", "O acompanhamento, ainda em andamento, permitiu observar até aqui que um protocolo estético "
-          "estruturado em duas fases — desinflamação seguida de estímulo —, associando fotobiomodulação, intradermoterapia "
-          "capilar e cuidado domiciliar, foi bem tolerado e acompanhou-se de melhora da condição do couro "
-          "cabeludo e do surgimento de novos fios nas áreas rarefeitas."),
-    ("p", "A adesão às orientações domiciliares constituiu o fator mais determinante da qualidade da "
-          "resposta: o período de higienização inadequada e de uso irregular do tônico coincidiu com "
-          "estagnação e piora percebida do quadro, enquanto a correção da conduta precedeu a retomada da "
-          "evolução favorável. Isso sustenta a educação da paciente como componente do próprio protocolo."),
-    ("p", "Quanto à relação entre saúde gastrointestinal e alopecia androgenética, o estudo permite "
-          "afirmar que a infecção pregressa por Helicobacter pylori, a gastrite crônica e seu tratamento "
-          "configuram fatores sistêmicos associados, com plausibilidade mecanística ancorada na má "
-          "absorção de micronutrientes, mas não constituem causa isolada nem "
-          "determinante do quadro. Qualquer afirmação de causalidade direta extrapolaria a evidência "
-          "disponível e o delineamento adotado."),
-    ("p", "Como limitações, registram-se o delineamento de caso único, a ausência de grupo controle, o "
-          "uso combinado de recursos que impede isolar a contribuição de cada um e a avaliação "
-          "predominantemente qualitativa da evolução. Sugere-se que estudos futuros, com amostras "
-          "maiores e avaliação laboratorial seriada de ferritina, vitamina B12 e zinco, investiguem de "
-          "modo controlado a interface entre saúde gastrointestinal e progressão da alopecia "
-          "androgenética feminina."),
+    ("p", "Quanto aos recursos empregados, Yoon et al. (2020), em ensaio randomizado, duplo-cego e "
+          "controlado por dispositivo simulado, obtiveram ganho de aproximadamente 41,9 fios/cm² com "
+          "fotobiomodulação. A intradermoterapia, por sua vez, deposita os ativos diretamente na junção "
+          "dermoepidérmica, contornando as barreiras de absorção gastrointestinal relevantes nesta paciente "
+          "(Uzel et al., 2021; Aledani et al., 2024), e o restabelecimento da absorção de ferro, zinco e "
+          "vitamina B12 favorece os substratos exigidos pela fase anágena (Guo; Katta, 2017). Como o "
+          "protocolo combina modalidades, a literatura de terapia combinada indica benefício ao menos "
+          "equivalente ao da monoterapia (Kaiser et al., 2022)."),
+    ("h", "RESULTADOS"),
+    ("p", "A pesquisa está em andamento e os resultados ainda não foram analisados, pois dependem do "
+          "registro fotográfico final (depois), a ser obtido nas mesmas condições do registro inicial, e "
+          "da reavaliação tricoscópica. Até lá, não é possível afirmar se houve ou não resposta ao "
+          "protocolo."),
     ("h", "AGRADECIMENTOS"),
     ("p", "Agradece-se à paciente modelo, pela confiança e pela disponibilidade ao longo de todo o "
           "acompanhamento, às professoras orientadoras, pela condução criteriosa do trabalho, e ao corpo "
@@ -266,7 +237,11 @@ SLIDES = [
    "Alopecia androgenética feminina (AAF): perda capilar crônica, progressiva e multifatorial, de base genética e hormonal.",
    "Ação da DHT sobre folículos predispostos → encurtamento da fase anágena e miniaturização folicular (Ho; Sood; Zito, 2024).",
    "Prevalência crescente com a idade: ~1,3% (18–29 anos) a ~11,8% (após 70 anos) (Singal; Sonthalia; Verma, 2013).",
-   "Fatores sistêmicos modulam a velocidade de progressão — entre eles, alterações gastrointestinais que comprometem a absorção de ferro, vitamina B12 e zinco.",
+   "Fatores sistêmicos modulam a velocidade de progressão — entre eles, alterações gastrointestinais que comprometem a absorção de ferro, vitamina B12 e zinco. Estudo de caso descritivo e qualitativo, em andamento; paciente do sexo feminino, nascida em 1964 (60 anos ao início, 61 na reavaliação).",
+   "Histórico: calvície paterna, gastrite crônica em tratamento, infecção por H. pylori já erradicada e confirmada por exames.",
+   "Antecedente: em 2023, tratamento de desinflamação do couro cabeludo (não conduzido pela autora); meses depois, piora, diagnóstico de H. pylori e gastrite, cura da infecção com antibióticos e persistência da gastrite.",
+   "Em 2024, estimulação mais intensa: intradermoterapia (técnica de pápula, Mescla PHD) e fotobiomodulação com luz vermelha, com tônico domiciliar de Capilia Longa.",
+   "Instrumentos: ficha de anamnese capilar, tricoscopia com fotovideodermatoscópio e registro fotográfico padronizado.",
  ]),
  ("O RECORTE GASTROINTESTINAL — E SEUS LIMITES", [
    "H. pylori está associado à anemia ferropriva por gastrite crônica e queda da acidez gástrica (Does..., 2010).",
@@ -275,35 +250,19 @@ SLIDES = [
    "Ponte mecanística plausível: má absorção de micronutrientes essenciais ao folículo. Fator associado e coadjuvante — nunca causa.",
  ]),
  ("OBJETIVO", [
-   "Descrever e discutir os resultados de um protocolo estético com fotobiomodulação, intradermoterapia capilar e cuidado domiciliar, conduzido em paralelo ao acompanhamento médico.",
-   "Finalidade: controle da miniaturização folicular e melhora da qualidade capilar em paciente com AAF e histórico gastrointestinal relevante.",
+   "Descrever um protocolo estético com fotobiomodulação, intradermoterapia capilar e cuidado domiciliar, conduzido em paralelo ao acompanhamento médico.",
+   "Finalidade: controle da miniaturização folicular em paciente com AAF e histórico gastrointestinal relevante.",
  ]),
- ("METODOLOGIA", [
-   "Estudo de caso descritivo e qualitativo, em andamento; paciente do sexo feminino, nascida em 1964 (60 anos ao início, 61 na reavaliação).",
-   "Histórico: calvície paterna, gastrite crônica em tratamento, infecção por H. pylori já erradicada e confirmada por exames.",
-   "Instrumentos: ficha de anamnese capilar, tricoscopia com fotovideodermatoscópio e registro fotográfico padronizado.",
-   "Fase 1 (desinflamação): aromaterapia, argiloterapia e fotobiomodulação com luz azul.",
-   "Fase 2 (estímulo): intradermoterapia (técnica de pápula, Mescla PHD), fotobiomodulação com luz vermelha e tônico domiciliar de Capilia Longa.",
- ]),
+ ("METODOLOGIA", []),   # slot do quadro "METODOLOGIA — PROTOCOLO APLICADO" (topicos movidos para a INTRODUCAO pela Paola)
  ("ASPECTOS ÉTICOS", [
    "Resolução 466/12 do Conselho Nacional de Saúde.",
    "Aprovação do Comitê de Ética em Pesquisa (CEP) da UNIPLAC sob o número 6.603.39.",
    "Termo de Consentimento Livre e Esclarecido (TCLE) assinado pela paciente modelo, autorizando procedimentos, registro fotográfico e divulgação acadêmica das imagens, preservada a identificação.",
  ]),
- ("RESULTADOS PARCIAIS", [
-   "Terceiro semestre: terapia capilar como preparo da pele, com foco em home care — redução da hiperemia e da oleosidade.",
-   "Neste ano: piora constatada e nova avaliação; higienização insuficiente e uso irregular do tônico domiciliar.",
-   "Após a reavaliação: melhora dos hábitos domésticos (lavagem mais frequente) + apoio médico ao quadro gastrointestinal.",
-   "Resultado parcial: aumento da microcirculação e novos fios nas áreas rarefeitas; série de sessões estendida.",
-   "A adesão domiciliar foi o determinante mais evidente da resposta.",
-   "Protocolo combinado: não é possível isolar a contribuição de cada recurso (Kaiser et al., 2022).",
- ]),
- ("CONSIDERAÇÕES FINAIS", [
-   "Protocolo em duas fases foi bem tolerado e acompanhou-se de melhora do couro cabeludo e de novos fios nas áreas rarefeitas.",
-   "Educação e acompanhamento da paciente são componentes do protocolo, não recomendações acessórias.",
-   "Histórico de H. pylori e gastrite crônica: fatores sistêmicos ASSOCIADOS, com plausibilidade mecanística — não causa da AAF.",
-   "Limitações: caso único, sem grupo controle, recursos combinados e avaliação predominantemente qualitativa.",
-   "Estudos futuros: amostras maiores e dosagem seriada de ferritina, vitamina B12 e zinco.",
+ ("ANDAMENTO DA PESQUISA", [
+   "Pesquisa em andamento: os resultados ainda não foram analisados.",
+   "A análise depende do registro fotográfico final (depois), a ser obtido nas mesmas condições do inicial, e da reavaliação tricoscópica.",
+   "Os recursos têm respaldo na literatura (Avci et al., 2014; Uzel et al., 2021); protocolo combinado, sem possibilidade de isolar a contribuição de cada recurso (Kaiser et al., 2022).",
  ]),
  ("REFERÊNCIAS (SELEÇÃO)", [
    "DOES Helicobacter pylori infection play a role in iron deficiency anemia? A meta-analysis. World J. Gastroenterol., 2010.",

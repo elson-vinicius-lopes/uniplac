@@ -19,7 +19,8 @@ const SZ10 = 20;      // 10 pt
 const LINE = 240;     // simples
 const INDENT = convertMillimetersToTwip(12.5); // 1,25 cm
 
-const data = JSON.parse(fs.readFileSync(path.join(__dirname, "conteudo-artigo.json"), "utf8"));
+const data = JSON.parse(fs.readFileSync(path.resolve(__dirname, process.argv[2] || "conteudo-artigo.json"), "utf8"));
+if (process.argv[3]) data.out = path.resolve(process.argv[3]);
 
 function runsOf(block) {
   const arr = block.runs || [{ t: block.t }];
@@ -124,6 +125,19 @@ async function main() {
       case "table": c.push(tableOf(b)); break;
       case "image": {
         const sp = path.isAbsolute(b.src) ? b.src : path.resolve(__dirname, b.src);
+        if (!fs.existsSync(sp)) {
+          // foto ainda nao disponivel: quadro tracejado reservado
+          // tabela de 1 celula (borda de paragrafo travava a paginacao do Word)
+          const dash = { style: "dashed", size: 6, color: "999999" };
+          c.push(new Table({ width: { size: 60, type: WidthType.PERCENTAGE }, alignment: AlignmentType.CENTER,
+            borders: { top: dash, bottom: dash, left: dash, right: dash, insideHorizontal: dash, insideVertical: dash },
+            rows: [new TableRow({ height: { value: 3600, rule: "atLeast" }, children: [new TableCell({
+              verticalAlign: "center",
+              children: [new Paragraph({ alignment: AlignmentType.CENTER,
+                children: [new TextRun({ text: b.alt || "[INSERIR FOTO]", font: FONT, size: 22, italics: true, color: "777777" })] })] })] })] }));
+          c.push(new Paragraph({ spacing: { after: 60 }, children: [] }));
+          break;
+        }
         c.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 60, line: LINE },
           children: [new ImageRun({ type: b.itype || "png", data: fs.readFileSync(sp),
             transformation: { width: b.w || 320, height: b.h || 400 } })] }));
